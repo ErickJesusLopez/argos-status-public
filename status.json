@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-05-23 22:08:44",
+  "stamp": "2026-05-23 22:31:13",
   "stores": [
     {
       "store": "Little Caesars (Ajusco 114)",
@@ -340,8 +340,8 @@
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
-      "didi": "online",
-      "offline_count": 0
+      "didi": "offline",
+      "offline_count": 1
     },
     {
       "store": "Little Caesars (Taxqueña 012)",
@@ -914,10 +914,10 @@
       "store": "Little Caesars® Tacubaya (P)",
       "uber": null,
       "uber_express": null,
-      "rappi": "online",
+      "rappi": "offline",
       "rappi_turbo": null,
       "didi": null,
-      "offline_count": 0
+      "offline_count": 1
     },
     {
       "store": "Little Caesars® Tacubaya (P) - Turbo",
