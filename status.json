@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-05-23 21:57:31",
+  "stamp": "2026-05-23 22:08:44",
   "stores": [
     {
       "store": "Little Caesars (Ajusco 114)",
@@ -402,9 +402,9 @@
       "uber": null,
       "uber_express": null,
       "rappi": null,
-      "rappi_turbo": "online",
+      "rappi_turbo": "offline",
       "didi": null,
-      "offline_count": 0
+      "offline_count": 1
     },
     {
       "store": "Little Caesars Arenal (P)",
@@ -429,9 +429,9 @@
       "uber": null,
       "uber_express": null,
       "rappi": null,
-      "rappi_turbo": "online",
+      "rappi_turbo": "offline",
       "didi": null,
-      "offline_count": 0
+      "offline_count": 1
     },
     {
       "store": "Little Caesars La Turba (P)",
@@ -582,9 +582,9 @@
       "uber": null,
       "uber_express": null,
       "rappi": null,
-      "rappi_turbo": "online",
+      "rappi_turbo": "offline",
       "didi": null,
-      "offline_count": 0
+      "offline_count": 1
     },
     {
       "store": "Little Caesars Turbo - Imán (P)",
