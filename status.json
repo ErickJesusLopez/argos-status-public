@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-05-23 22:53:43",
+  "stamp": "2026-05-23 23:05:07",
   "stores": [
     {
       "store": "Little Caesars (Ajusco 114)",
@@ -205,17 +205,8 @@
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
-      "didi": "online",
-      "offline_count": 0
-    },
-    {
-      "store": "Little Caesars (Manuel Cañas)",
-      "uber": "online",
-      "uber_express": null,
-      "rappi": null,
-      "rappi_turbo": null,
-      "didi": null,
-      "offline_count": 0
+      "didi": "offline",
+      "offline_count": 1
     },
     {
       "store": "Little Caesars (Matias Romero)",
@@ -259,8 +250,8 @@
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
-      "didi": "online",
-      "offline_count": 0
+      "didi": "offline",
+      "offline_count": 1
     },
     {
       "store": "Little Caesars (Olivar del Conde 022)",
@@ -322,8 +313,8 @@
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
-      "didi": "online",
-      "offline_count": 0
+      "didi": "offline",
+      "offline_count": 1
     },
     {
       "store": "Little Caesars (Santa Fe)",
@@ -353,13 +344,22 @@
       "offline_count": 0
     },
     {
+      "store": "Little Caesars (Taxqueña)",
+      "uber": "online",
+      "uber_express": null,
+      "rappi": null,
+      "rappi_turbo": null,
+      "didi": null,
+      "offline_count": 0
+    },
+    {
       "store": "Little Caesars (Tlahuac 026)",
       "uber": null,
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
-      "didi": "online",
-      "offline_count": 0
+      "didi": "offline",
+      "offline_count": 1
     },
     {
       "store": "Little Caesars (Tlahuac FG 006)",
@@ -367,8 +367,8 @@
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
-      "didi": "online",
-      "offline_count": 0
+      "didi": "offline",
+      "offline_count": 1
     },
     {
       "store": "Little Caesars (Xochimilco 040)",
@@ -446,10 +446,10 @@
       "store": "Little Caesars Manuel Cañas (P)",
       "uber": null,
       "uber_express": null,
-      "rappi": "online",
+      "rappi": "offline",
       "rappi_turbo": null,
       "didi": null,
-      "offline_count": 0
+      "offline_count": 1
     },
     {
       "store": "Little Caesars Nativitas (P)",
@@ -509,10 +509,10 @@
       "store": "Little Caesars Tlahuac Casa (P)",
       "uber": null,
       "uber_express": null,
-      "rappi": "online",
+      "rappi": "offline",
       "rappi_turbo": null,
       "didi": null,
-      "offline_count": 0
+      "offline_count": 1
     },
     {
       "store": "Little Caesars Tlahuac Casa (P) - Turbo",
@@ -527,10 +527,10 @@
       "store": "Little Caesars Tlahuac FG (P)",
       "uber": null,
       "uber_express": null,
-      "rappi": "online",
+      "rappi": "offline",
       "rappi_turbo": null,
       "didi": null,
-      "offline_count": 0
+      "offline_count": 1
     },
     {
       "store": "Little Caesars Tlahuac FG (P) - Turbo",
@@ -860,10 +860,10 @@
       "store": "Little Caesars® Miramontes II (P)",
       "uber": null,
       "uber_express": null,
-      "rappi": "online",
+      "rappi": "offline",
       "rappi_turbo": null,
       "didi": null,
-      "offline_count": 0
+      "offline_count": 1
     },
     {
       "store": "Little Caesars® Parroquia (P)",
@@ -905,10 +905,10 @@
       "store": "Little Caesars® Santa Ana (P)",
       "uber": null,
       "uber_express": null,
-      "rappi": "online",
+      "rappi": "offline",
       "rappi_turbo": null,
       "didi": null,
-      "offline_count": 0
+      "offline_count": 1
     },
     {
       "store": "Little Caesars® Tacubaya (P)",
