@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-05-25 15:38:57",
+  "stamp": "2026-05-25 15:50:10",
   "stores": [
     {
       "store": "Ajusco",
@@ -84,12 +84,12 @@
     },
     {
       "store": "Copilco",
-      "uber": "offline",
+      "uber": null,
       "uber_express": null,
       "rappi": "online",
       "rappi_turbo": "online",
       "didi": "online",
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "División del Norte",
@@ -225,15 +225,6 @@
       "rappi_turbo": "online",
       "didi": "online",
       "offline_count": 0
-    },
-    {
-      "store": "Periferico Oriente",
-      "uber": "offline",
-      "uber_express": null,
-      "rappi": null,
-      "rappi_turbo": null,
-      "didi": null,
-      "offline_count": 1
     },
     {
       "store": "Plaza Copilco",
