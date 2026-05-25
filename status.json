@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-05-25 16:04:44",
+  "stamp": "2026-05-25 16:08:10",
   "stores": [
     {
       "store": "Ajusco",
@@ -51,9 +51,9 @@
       "uber": null,
       "uber_express": null,
       "rappi": "online",
-      "rappi_turbo": "offline",
+      "rappi_turbo": "online",
       "didi": "online",
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "Centro Coyoacán",
