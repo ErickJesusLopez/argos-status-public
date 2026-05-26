@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-05-26 16:24:49",
+  "stamp": "2026-05-26 17:21:18",
   "stores": [
     {
       "store": "Ajusco",
@@ -19,11 +19,11 @@
     },
     {
       "store": "Asia",
-      "uber": "offline",
+      "uber": "online",
       "rappi": "online",
       "rappi_turbo": "online",
       "didi": "online",
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "Av. Toluca",
