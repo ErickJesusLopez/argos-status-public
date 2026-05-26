@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-05-26 01:33:30",
+  "stamp": "2026-05-26 01:45:42",
   "stores": [
     {
       "store": "Ajusco",
@@ -77,10 +77,10 @@
       "store": "Condesa",
       "uber": null,
       "uber_express": null,
-      "rappi": "online",
+      "rappi": "offline",
       "rappi_turbo": "offline",
-      "didi": "online",
-      "offline_count": 1
+      "didi": "offline",
+      "offline_count": 3
     },
     {
       "store": "Copilco",
@@ -147,7 +147,7 @@
     },
     {
       "store": "Luis Cabrera",
-      "uber": null,
+      "uber": "online",
       "uber_express": null,
       "rappi": "offline",
       "rappi_turbo": null,
@@ -156,7 +156,7 @@
     },
     {
       "store": "Manuel Cañas",
-      "uber": null,
+      "uber": "online",
       "uber_express": null,
       "rappi": "offline",
       "rappi_turbo": null,
@@ -182,6 +182,15 @@
       "offline_count": 3
     },
     {
+      "store": "Metro Tacubaya",
+      "uber": "online",
+      "uber_express": null,
+      "rappi": null,
+      "rappi_turbo": null,
+      "didi": null,
+      "offline_count": 0
+    },
+    {
       "store": "Miramontes 1",
       "uber": null,
       "uber_express": null,
@@ -201,7 +210,7 @@
     },
     {
       "store": "Nativitas",
-      "uber": null,
+      "uber": "online",
       "uber_express": null,
       "rappi": "offline",
       "rappi_turbo": null,
