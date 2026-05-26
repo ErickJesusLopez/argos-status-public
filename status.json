@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-05-26 09:36:52",
+  "stamp": "2026-05-26 09:48:28",
   "stores": [
     {
       "store": "Ajusco",
@@ -302,19 +302,19 @@
       "store": "Santa Fe",
       "uber": null,
       "uber_express": null,
-      "rappi": "offline",
+      "rappi": "online",
       "rappi_turbo": null,
-      "didi": "offline",
-      "offline_count": 2
+      "didi": "online",
+      "offline_count": 0
     },
     {
       "store": "Santa Fe 1",
-      "uber": "offline",
+      "uber": "online",
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
       "didi": null,
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "Tacubaya",
