@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-05-26 14:21:43",
+  "stamp": "2026-05-26 14:33:09",
   "stores": [
     {
       "store": "Ajusco",
@@ -51,9 +51,9 @@
       "uber": null,
       "uber_express": null,
       "rappi": "online",
-      "rappi_turbo": "offline",
+      "rappi_turbo": "online",
       "didi": "online",
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "Centro Santa Fe",
@@ -93,12 +93,12 @@
     },
     {
       "store": "Express ⏰ (Division del Norte)",
-      "uber": "offline",
+      "uber": "online",
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
       "didi": null,
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "Iman",
