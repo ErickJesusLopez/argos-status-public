@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-05-26 10:11:50",
+  "stamp": "2026-05-26 10:24:05",
   "stores": [
     {
       "store": "Ajusco",
@@ -53,15 +53,6 @@
       "rappi": "online",
       "rappi_turbo": "offline",
       "didi": "online",
-      "offline_count": 1
-    },
-    {
-      "store": "Centro Coyoacán",
-      "uber": null,
-      "uber_express": null,
-      "rappi": null,
-      "rappi_turbo": null,
-      "didi": "offline",
       "offline_count": 1
     },
     {
@@ -122,10 +113,10 @@
       "store": "La Joya",
       "uber": null,
       "uber_express": null,
-      "rappi": "offline",
+      "rappi": "online",
       "rappi_turbo": "offline",
-      "didi": "offline",
-      "offline_count": 3
+      "didi": "online",
+      "offline_count": 1
     },
     {
       "store": "La Turba",
@@ -138,16 +129,16 @@
     },
     {
       "store": "Las Aguilas",
-      "uber": "offline",
+      "uber": null,
       "uber_express": null,
       "rappi": "offline",
       "rappi_turbo": "online",
-      "didi": "offline",
-      "offline_count": 3
+      "didi": "online",
+      "offline_count": 1
     },
     {
       "store": "Luis Cabrera",
-      "uber": "online",
+      "uber": null,
       "uber_express": null,
       "rappi": "online",
       "rappi_turbo": null,
@@ -156,7 +147,7 @@
     },
     {
       "store": "Manuel Cañas",
-      "uber": "online",
+      "uber": null,
       "uber_express": null,
       "rappi": "online",
       "rappi_turbo": null,
@@ -182,15 +173,6 @@
       "offline_count": 0
     },
     {
-      "store": "Metro Tacubaya",
-      "uber": "online",
-      "uber_express": null,
-      "rappi": null,
-      "rappi_turbo": null,
-      "didi": null,
-      "offline_count": 0
-    },
-    {
       "store": "Miramontes 1",
       "uber": null,
       "uber_express": null,
@@ -210,7 +192,7 @@
     },
     {
       "store": "Nativitas",
-      "uber": "online",
+      "uber": null,
       "uber_express": null,
       "rappi": "online",
       "rappi_turbo": null,
@@ -266,10 +248,10 @@
       "store": "San Fernando",
       "uber": null,
       "uber_express": null,
-      "rappi": "offline",
+      "rappi": "online",
       "rappi_turbo": "online",
-      "didi": "offline",
-      "offline_count": 2
+      "didi": "online",
+      "offline_count": 0
     },
     {
       "store": "San Isidro",
@@ -305,15 +287,6 @@
       "rappi": "online",
       "rappi_turbo": null,
       "didi": "online",
-      "offline_count": 0
-    },
-    {
-      "store": "Santa Fe 1",
-      "uber": "online",
-      "uber_express": null,
-      "rappi": null,
-      "rappi_turbo": null,
-      "didi": null,
       "offline_count": 0
     },
     {
