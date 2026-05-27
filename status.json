@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-05-27 10:51:34",
+  "stamp": "2026-05-27 10:59:09",
   "stores": [
     {
       "store": "Ajusco",
@@ -46,7 +46,7 @@
     },
     {
       "store": "Centenario",
-      "uber": "online",
+      "uber": null,
       "rappi": "online",
       "rappi_turbo": "online",
       "didi": "online",
@@ -127,7 +127,7 @@
     },
     {
       "store": "Las Aguilas",
-      "uber": "online",
+      "uber": null,
       "rappi": "online",
       "rappi_turbo": "suspendida",
       "didi": "online",
@@ -162,7 +162,7 @@
     },
     {
       "store": "Metro Insurgentes",
-      "uber": "online",
+      "uber": null,
       "uber_express": "online",
       "rappi": "online",
       "rappi_turbo": "online",
@@ -225,11 +225,11 @@
     },
     {
       "store": "Plaza Esmeralda",
-      "uber": "online",
+      "uber": null,
       "rappi": "online",
       "rappi_turbo": "online",
-      "didi": "offline",
-      "offline_count": 1,
+      "didi": "online",
+      "offline_count": 0,
       "suspended_count": 0
     },
     {
@@ -259,7 +259,7 @@
     },
     {
       "store": "San Pedro Mártir",
-      "uber": "online",
+      "uber": null,
       "rappi": "online",
       "didi": "online",
       "offline_count": 0,
