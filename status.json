@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-05-27 09:43:15",
+  "stamp": "2026-05-27 09:54:30",
   "stores": [
     {
       "store": "Ajusco",
@@ -127,11 +127,11 @@
     },
     {
       "store": "Las Aguilas",
-      "uber": "offline",
-      "rappi": "offline",
+      "uber": "online",
+      "rappi": "online",
       "rappi_turbo": "suspendida",
-      "didi": "offline",
-      "offline_count": 3,
+      "didi": "online",
+      "offline_count": 0,
       "suspended_count": 1
     },
     {
@@ -323,10 +323,10 @@
       "store": "Xochimilco",
       "uber": null,
       "rappi": "online",
-      "rappi_turbo": "suspendida",
+      "rappi_turbo": "offline",
       "didi": "online",
-      "offline_count": 0,
-      "suspended_count": 1
+      "offline_count": 1,
+      "suspended_count": 0
     }
   ]
 }
