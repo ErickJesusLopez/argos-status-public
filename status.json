@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-05-26 21:53:58",
+  "stamp": "2026-05-26 22:05:15",
   "stores": [
     {
       "store": "Ajusco",
@@ -145,9 +145,9 @@
     {
       "store": "Manuel Cañas",
       "uber": null,
-      "rappi": "online",
-      "didi": "online",
-      "offline_count": 0,
+      "rappi": "offline",
+      "didi": "offline",
+      "offline_count": 2,
       "suspended_count": 0
     },
     {
@@ -165,9 +165,9 @@
       "uber": null,
       "uber_express": "online",
       "rappi": "offline",
-      "rappi_turbo": "online",
+      "rappi_turbo": "offline",
       "didi": "offline",
-      "offline_count": 2,
+      "offline_count": 3,
       "suspended_count": 0
     },
     {
@@ -182,10 +182,10 @@
     {
       "store": "Miramontes 2",
       "uber": null,
-      "rappi": "online",
+      "rappi": "offline",
       "rappi_turbo": "offline",
-      "didi": "online",
-      "offline_count": 1,
+      "didi": "offline",
+      "offline_count": 3,
       "suspended_count": 0
     },
     {
@@ -209,9 +209,9 @@
       "store": "Parroquia",
       "uber": null,
       "rappi": "offline",
-      "rappi_turbo": "online",
+      "rappi_turbo": "offline",
       "didi": "offline",
-      "offline_count": 2,
+      "offline_count": 3,
       "suspended_count": 0
     },
     {
@@ -268,10 +268,10 @@
     {
       "store": "Santa Ana",
       "uber": null,
-      "rappi": "online",
+      "rappi": "offline",
       "rappi_turbo": "offline",
-      "didi": "online",
-      "offline_count": 1,
+      "didi": "offline",
+      "offline_count": 3,
       "suspended_count": 0
     },
     {
@@ -304,19 +304,19 @@
     {
       "store": "Tlahuac FG",
       "uber": null,
-      "rappi": "online",
+      "rappi": "offline",
       "rappi_turbo": "offline",
-      "didi": "online",
-      "offline_count": 1,
+      "didi": "offline",
+      "offline_count": 3,
       "suspended_count": 0
     },
     {
       "store": "Tláhuac Casa",
       "uber": null,
-      "rappi": "online",
+      "rappi": "offline",
       "rappi_turbo": "offline",
       "didi": null,
-      "offline_count": 1,
+      "offline_count": 2,
       "suspended_count": 0
     },
     {
