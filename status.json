@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-05-26 20:57:47",
+  "stamp": "2026-05-26 21:08:59",
   "stores": [
     {
       "store": "Ajusco",
@@ -103,9 +103,9 @@
       "store": "Insurgentes Sur",
       "uber": null,
       "rappi": "online",
-      "rappi_turbo": "online",
+      "rappi_turbo": "offline",
       "didi": "online",
-      "offline_count": 0,
+      "offline_count": 1,
       "suspended_count": 0
     },
     {
@@ -218,9 +218,9 @@
       "store": "Plaza Copilco",
       "uber": null,
       "rappi": "online",
-      "rappi_turbo": "online",
+      "rappi_turbo": "offline",
       "didi": "online",
-      "offline_count": 0,
+      "offline_count": 1,
       "suspended_count": 0
     },
     {
