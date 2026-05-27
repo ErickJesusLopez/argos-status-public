@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-05-27 10:05:57",
+  "stamp": "2026-05-27 10:17:21",
   "stores": [
     {
       "store": "Ajusco",
@@ -183,10 +183,10 @@
       "store": "Miramontes 2",
       "uber": null,
       "rappi": "online",
-      "rappi_turbo": "suspendida",
+      "rappi_turbo": "online",
       "didi": "online",
       "offline_count": 0,
-      "suspended_count": 1
+      "suspended_count": 0
     },
     {
       "store": "Nativitas",
@@ -226,10 +226,10 @@
     {
       "store": "Plaza Esmeralda",
       "uber": "online",
-      "rappi": "offline",
+      "rappi": "online",
       "rappi_turbo": "offline",
       "didi": "offline",
-      "offline_count": 3,
+      "offline_count": 2,
       "suspended_count": 0
     },
     {
@@ -260,9 +260,9 @@
     {
       "store": "San Pedro Mártir",
       "uber": "online",
-      "rappi": "offline",
-      "didi": "offline",
-      "offline_count": 2,
+      "rappi": "online",
+      "didi": "online",
+      "offline_count": 0,
       "suspended_count": 0
     },
     {
@@ -314,10 +314,10 @@
       "store": "Tláhuac Casa",
       "uber": null,
       "rappi": "online",
-      "rappi_turbo": "suspendida",
+      "rappi_turbo": "online",
       "didi": null,
       "offline_count": 0,
-      "suspended_count": 1
+      "suspended_count": 0
     },
     {
       "store": "Xochimilco",
