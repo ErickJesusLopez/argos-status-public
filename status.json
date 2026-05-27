@@ -1,13 +1,13 @@
 {
-  "stamp": "2026-05-27 10:40:12",
+  "stamp": "2026-05-27 10:51:34",
   "stores": [
     {
       "store": "Ajusco",
       "uber": null,
       "rappi": "online",
-      "rappi_turbo": "offline",
+      "rappi_turbo": "online",
       "didi": "online",
-      "offline_count": 1,
+      "offline_count": 0,
       "suspended_count": 0
     },
     {
@@ -153,11 +153,11 @@
     {
       "store": "Matías Romero",
       "uber": null,
-      "uber_express": "offline",
+      "uber_express": "online",
       "rappi": "online",
       "rappi_turbo": "online",
       "didi": "online",
-      "offline_count": 1,
+      "offline_count": 0,
       "suspended_count": 0
     },
     {
