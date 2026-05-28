@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-05-28 14:43:56",
+  "stamp": "2026-05-28 14:55:36",
   "stores": [
     {
       "store": "Ajusco",
@@ -12,11 +12,11 @@
     },
     {
       "store": "Arenal",
-      "uber": null,
+      "uber": "offline",
       "rappi": "online",
       "rappi_turbo": "online",
       "didi": "online",
-      "offline_count": 0,
+      "offline_count": 1,
       "suspended_count": 0
     },
     {
@@ -300,21 +300,21 @@
     },
     {
       "store": "Tacubaya",
-      "uber": "online",
+      "uber": "offline",
       "uber_express": "online",
       "rappi": "online",
       "rappi_turbo": "online",
       "didi": "online",
-      "offline_count": 0,
+      "offline_count": 1,
       "suspended_count": 0
     },
     {
       "store": "Taxqueña",
-      "uber": null,
+      "uber": "offline",
       "rappi": "online",
       "rappi_turbo": "online",
       "didi": "online",
-      "offline_count": 0,
+      "offline_count": 1,
       "suspended_count": 0
     },
     {
@@ -337,11 +337,11 @@
     },
     {
       "store": "Xochimilco",
-      "uber": null,
+      "uber": "offline",
       "rappi": "online",
       "rappi_turbo": "online",
       "didi": "online",
-      "offline_count": 0,
+      "offline_count": 1,
       "suspended_count": 0
     }
   ]
