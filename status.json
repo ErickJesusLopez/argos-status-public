@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-05-28 09:36:07",
+  "stamp": "2026-05-28 09:47:21",
   "stores": [
     {
       "store": "Ajusco",
@@ -47,10 +47,10 @@
     {
       "store": "Centenario",
       "uber": null,
-      "rappi": "offline",
+      "rappi": "online",
       "rappi_turbo": "offline",
       "didi": "online",
-      "offline_count": 2,
+      "offline_count": 1,
       "suspended_count": 0
     },
     {
@@ -285,9 +285,9 @@
     {
       "store": "Santa Fe",
       "uber": null,
-      "rappi": "online",
+      "rappi": "offline",
       "didi": "offline",
-      "offline_count": 1,
+      "offline_count": 2,
       "suspended_count": 0
     },
     {
