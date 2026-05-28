@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-05-28 02:49:17",
+  "stamp": "2026-05-28 08:06:17",
   "stores": [
     {
       "store": "Ajusco",
@@ -64,6 +64,7 @@
     {
       "store": "Condesa",
       "uber": null,
+      "uber_express": "online",
       "rappi": "offline",
       "rappi_turbo": "offline",
       "didi": "offline",
@@ -82,6 +83,7 @@
     {
       "store": "División del Norte",
       "uber": null,
+      "uber_express": "online",
       "rappi": "offline",
       "rappi_turbo": "offline",
       "didi": "offline",
@@ -151,6 +153,7 @@
     {
       "store": "Matías Romero",
       "uber": null,
+      "uber_express": "online",
       "rappi": "offline",
       "rappi_turbo": "offline",
       "didi": "offline",
@@ -159,7 +162,8 @@
     },
     {
       "store": "Metro Insurgentes",
-      "uber": null,
+      "uber": "online",
+      "uber_express": "online",
       "rappi": "offline",
       "rappi_turbo": "offline",
       "didi": "offline",
@@ -194,7 +198,7 @@
     },
     {
       "store": "Olivar Del Conde",
-      "uber": null,
+      "uber": "online",
       "rappi": "offline",
       "rappi_turbo": "offline",
       "didi": "offline",
@@ -281,10 +285,11 @@
     {
       "store": "Tacubaya",
       "uber": null,
-      "rappi": "offline",
+      "uber_express": "online",
+      "rappi": "online",
       "rappi_turbo": "online",
       "didi": "offline",
-      "offline_count": 2,
+      "offline_count": 1,
       "suspended_count": 0
     },
     {
