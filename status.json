@@ -1,13 +1,13 @@
 {
-  "stamp": "2026-05-28 15:18:13",
+  "stamp": "2026-05-28 15:29:35",
   "stores": [
     {
       "store": "Ajusco",
-      "uber": null,
+      "uber": "offline",
       "rappi": "online",
       "rappi_turbo": "online",
       "didi": "online",
-      "offline_count": 0,
+      "offline_count": 1,
       "suspended_count": 0
     },
     {
@@ -215,11 +215,11 @@
     },
     {
       "store": "Parroquia",
-      "uber": "online",
+      "uber": "offline",
       "rappi": "online",
       "rappi_turbo": "online",
       "didi": "online",
-      "offline_count": 0,
+      "offline_count": 1,
       "suspended_count": 0
     },
     {
@@ -318,11 +318,11 @@
     },
     {
       "store": "Taxqueña",
-      "uber": "offline",
+      "uber": "online",
       "rappi": "online",
       "rappi_turbo": "online",
       "didi": "online",
-      "offline_count": 1,
+      "offline_count": 0,
       "suspended_count": 0
     },
     {
@@ -345,11 +345,11 @@
     },
     {
       "store": "Xochimilco",
-      "uber": "offline",
+      "uber": "online",
       "rappi": "online",
       "rappi_turbo": "online",
       "didi": "online",
-      "offline_count": 1,
+      "offline_count": 0,
       "suspended_count": 0
     }
   ]
