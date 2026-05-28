@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-05-27 17:55:35",
+  "stamp": "2026-05-27 18:36:27",
   "stores": [
     {
       "store": "Ajusco",
@@ -267,7 +267,7 @@
     },
     {
       "store": "Santa Ana",
-      "uber": "online",
+      "uber": null,
       "rappi": "online",
       "rappi_turbo": "online",
       "didi": "online",
