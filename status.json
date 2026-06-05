@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-06-05 11:54:37",
+  "stamp": "2026-06-05 12:06:15",
   "stores": [
     {
       "store": "Ajusco",
@@ -30,12 +30,12 @@
     },
     {
       "store": "Av. Toluca",
-      "uber": "online",
+      "uber": "offline",
       "uber_express": null,
-      "rappi": "online",
+      "rappi": "offline",
       "rappi_turbo": null,
       "didi": "offline",
-      "offline_count": 1
+      "offline_count": 3
     },
     {
       "store": "Avenida México",
@@ -102,12 +102,12 @@
     },
     {
       "store": "Iman",
-      "uber": null,
+      "uber": "offline",
       "uber_express": null,
       "rappi": "offline",
       "rappi_turbo": "online",
       "didi": "offline",
-      "offline_count": 2
+      "offline_count": 3
     },
     {
       "store": "Insurgentes Sur",
