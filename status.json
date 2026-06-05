@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-06-05 12:29:25",
+  "stamp": "2026-06-05 12:40:57",
   "stores": [
     {
       "store": "Ajusco",
@@ -30,12 +30,12 @@
     },
     {
       "store": "Av. Toluca",
-      "uber": "online",
+      "uber": "offline",
       "uber_express": null,
       "rappi": "offline",
       "rappi_turbo": null,
-      "didi": "online",
-      "offline_count": 1
+      "didi": "offline",
+      "offline_count": 3
     },
     {
       "store": "Avenida México",
@@ -93,12 +93,12 @@
     },
     {
       "store": "Express ⏰ (Division del Norte)",
-      "uber": "offline",
+      "uber": "online",
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
       "didi": null,
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "Iman",
