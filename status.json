@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-06-07 10:52:11",
+  "stamp": "2026-06-07 11:15:00",
   "stores": [
     {
       "store": "Ajusco",
@@ -88,8 +88,8 @@
       "uber_express": null,
       "rappi": "offline",
       "rappi_turbo": "offline",
-      "didi": "online",
-      "offline_count": 3
+      "didi": "offline",
+      "offline_count": 4
     },
     {
       "store": "Express ⏰ (Division del Norte)",
@@ -149,10 +149,10 @@
       "store": "Las Aguilas",
       "uber": "online",
       "uber_express": null,
-      "rappi": "offline",
+      "rappi": "online",
       "rappi_turbo": "online",
       "didi": "online",
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "Luis Cabrera",
@@ -177,9 +177,9 @@
       "uber": null,
       "uber_express": null,
       "rappi": "online",
-      "rappi_turbo": "offline",
+      "rappi_turbo": "online",
       "didi": "online",
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "Metro Insurgentes",
