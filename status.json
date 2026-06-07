@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-06-07 10:40:45",
+  "stamp": "2026-06-07 10:52:11",
   "stores": [
     {
       "store": "Ajusco",
@@ -84,12 +84,12 @@
     },
     {
       "store": "División del Norte",
-      "uber": "online",
+      "uber": "offline",
       "uber_express": null,
-      "rappi": "online",
+      "rappi": "offline",
       "rappi_turbo": "offline",
       "didi": "online",
-      "offline_count": 1
+      "offline_count": 3
     },
     {
       "store": "Express ⏰ (Division del Norte)",
@@ -255,12 +255,12 @@
     },
     {
       "store": "Plaza Esmeralda",
-      "uber": "offline",
+      "uber": "online",
       "uber_express": null,
-      "rappi": "offline",
+      "rappi": "online",
       "rappi_turbo": "online",
-      "didi": "offline",
-      "offline_count": 3
+      "didi": "online",
+      "offline_count": 0
     },
     {
       "store": "San Bernabé",
