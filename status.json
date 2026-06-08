@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-06-08 14:36:00",
+  "stamp": "2026-06-08 14:47:39",
   "stores": [
     {
       "store": "Ajusco",
@@ -25,7 +25,7 @@
       "uber_express": null,
       "rappi": "online",
       "rappi_turbo": "online",
-      "didi": null,
+      "didi": "online",
       "offline_count": 0
     },
     {
@@ -34,7 +34,7 @@
       "uber_express": null,
       "rappi": "online",
       "rappi_turbo": null,
-      "didi": null,
+      "didi": "online",
       "offline_count": 0
     },
     {
@@ -43,7 +43,7 @@
       "uber_express": null,
       "rappi": "online",
       "rappi_turbo": null,
-      "didi": null,
+      "didi": "online",
       "offline_count": 0
     },
     {
@@ -52,7 +52,7 @@
       "uber_express": null,
       "rappi": "online",
       "rappi_turbo": "online",
-      "didi": null,
+      "didi": "online",
       "offline_count": 0
     },
     {
@@ -61,7 +61,7 @@
       "uber_express": null,
       "rappi": "online",
       "rappi_turbo": null,
-      "didi": null,
+      "didi": "online",
       "offline_count": 0
     },
     {
@@ -70,7 +70,7 @@
       "uber_express": null,
       "rappi": "online",
       "rappi_turbo": "online",
-      "didi": null,
+      "didi": "online",
       "offline_count": 0
     },
     {
@@ -79,7 +79,7 @@
       "uber_express": null,
       "rappi": "online",
       "rappi_turbo": "online",
-      "didi": null,
+      "didi": "online",
       "offline_count": 0
     },
     {
@@ -124,7 +124,7 @@
       "uber_express": null,
       "rappi": "online",
       "rappi_turbo": "online",
-      "didi": null,
+      "didi": "online",
       "offline_count": 0
     },
     {
@@ -142,7 +142,7 @@
       "uber_express": null,
       "rappi": "online",
       "rappi_turbo": "online",
-      "didi": null,
+      "didi": "online",
       "offline_count": 0
     },
     {
@@ -151,7 +151,7 @@
       "uber_express": null,
       "rappi": "online",
       "rappi_turbo": "online",
-      "didi": null,
+      "didi": "online",
       "offline_count": 0
     },
     {
@@ -160,7 +160,7 @@
       "uber_express": null,
       "rappi": "online",
       "rappi_turbo": null,
-      "didi": null,
+      "didi": "online",
       "offline_count": 0
     },
     {
@@ -169,7 +169,7 @@
       "uber_express": null,
       "rappi": "offline",
       "rappi_turbo": "online",
-      "didi": null,
+      "didi": "online",
       "offline_count": 1
     },
     {
@@ -196,7 +196,7 @@
       "uber_express": null,
       "rappi": "online",
       "rappi_turbo": "online",
-      "didi": null,
+      "didi": "online",
       "offline_count": 0
     },
     {
@@ -205,7 +205,7 @@
       "uber_express": null,
       "rappi": "online",
       "rappi_turbo": "online",
-      "didi": null,
+      "didi": "online",
       "offline_count": 0
     },
     {
@@ -223,7 +223,7 @@
       "uber_express": null,
       "rappi": "online",
       "rappi_turbo": "online",
-      "didi": null,
+      "didi": "online",
       "offline_count": 0
     },
     {
@@ -241,7 +241,7 @@
       "uber_express": null,
       "rappi": "online",
       "rappi_turbo": null,
-      "didi": null,
+      "didi": "online",
       "offline_count": 0
     },
     {
@@ -259,7 +259,7 @@
       "uber_express": null,
       "rappi": "online",
       "rappi_turbo": "online",
-      "didi": null,
+      "didi": "online",
       "offline_count": 0
     },
     {
@@ -268,7 +268,7 @@
       "uber_express": null,
       "rappi": "online",
       "rappi_turbo": "online",
-      "didi": null,
+      "didi": "online",
       "offline_count": 0
     },
     {
@@ -286,7 +286,7 @@
       "uber_express": null,
       "rappi": "online",
       "rappi_turbo": null,
-      "didi": null,
+      "didi": "online",
       "offline_count": 0
     },
     {
@@ -295,7 +295,7 @@
       "uber_express": null,
       "rappi": "online",
       "rappi_turbo": "online",
-      "didi": null,
+      "didi": "online",
       "offline_count": 0
     },
     {
@@ -313,7 +313,7 @@
       "uber_express": null,
       "rappi": "online",
       "rappi_turbo": null,
-      "didi": null,
+      "didi": "online",
       "offline_count": 0
     },
     {
@@ -322,7 +322,7 @@
       "uber_express": null,
       "rappi": "online",
       "rappi_turbo": "online",
-      "didi": null,
+      "didi": "online",
       "offline_count": 0
     },
     {
@@ -349,7 +349,7 @@
       "uber_express": null,
       "rappi": "online",
       "rappi_turbo": "online",
-      "didi": null,
+      "didi": "online",
       "offline_count": 0
     },
     {
@@ -358,7 +358,7 @@
       "uber_express": null,
       "rappi": "online",
       "rappi_turbo": "online",
-      "didi": null,
+      "didi": "online",
       "offline_count": 0
     },
     {
@@ -376,7 +376,7 @@
       "uber_express": null,
       "rappi": "online",
       "rappi_turbo": "online",
-      "didi": null,
+      "didi": "online",
       "offline_count": 0
     }
   ]
