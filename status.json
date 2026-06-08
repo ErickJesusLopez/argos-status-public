@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-06-07 18:39:18",
+  "stamp": "2026-06-07 18:51:11",
   "stores": [
     {
       "store": "Ajusco",
@@ -231,9 +231,9 @@
       "uber": "offline",
       "uber_express": null,
       "rappi": "online",
-      "rappi_turbo": "online",
+      "rappi_turbo": "offline",
       "didi": "online",
-      "offline_count": 1
+      "offline_count": 2
     },
     {
       "store": "Parroquia",
@@ -249,9 +249,9 @@
       "uber": "online",
       "uber_express": null,
       "rappi": "online",
-      "rappi_turbo": "offline",
+      "rappi_turbo": "online",
       "didi": "online",
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "Plaza Esmeralda",
