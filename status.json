@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-06-08 10:06:54",
+  "stamp": "2026-06-08 10:18:31",
   "stores": [
     {
       "store": "Ajusco",
@@ -21,12 +21,12 @@
     },
     {
       "store": "Asia",
-      "uber": "offline",
+      "uber": "online",
       "uber_express": null,
       "rappi": "offline",
       "rappi_turbo": "online",
       "didi": "offline",
-      "offline_count": 3
+      "offline_count": 2
     },
     {
       "store": "Av. Toluca",
@@ -84,12 +84,12 @@
     },
     {
       "store": "División del Norte",
-      "uber": "offline",
+      "uber": "online",
       "uber_express": null,
       "rappi": "offline",
       "rappi_turbo": "offline",
       "didi": "offline",
-      "offline_count": 4
+      "offline_count": 3
     },
     {
       "store": "Express ⏰ (Division del Norte)",
@@ -108,6 +108,15 @@
       "rappi_turbo": null,
       "didi": null,
       "offline_count": 0
+    },
+    {
+      "store": "Express ⏰ (Metro Insurgentes)",
+      "uber": "offline",
+      "uber_express": null,
+      "rappi": null,
+      "rappi_turbo": null,
+      "didi": null,
+      "offline_count": 1
     },
     {
       "store": "Iman",
@@ -138,12 +147,12 @@
     },
     {
       "store": "La Joya",
-      "uber": "offline",
+      "uber": "online",
       "uber_express": null,
       "rappi": "offline",
       "rappi_turbo": "online",
       "didi": "offline",
-      "offline_count": 3
+      "offline_count": 2
     },
     {
       "store": "La Turba",
@@ -300,12 +309,12 @@
     },
     {
       "store": "San Pedro Mártir",
-      "uber": "offline",
+      "uber": "online",
       "uber_express": null,
       "rappi": "offline",
       "rappi_turbo": null,
       "didi": "offline",
-      "offline_count": 3
+      "offline_count": 2
     },
     {
       "store": "Santa Ana",
