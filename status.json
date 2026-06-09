@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-06-09 04:03:09",
+  "stamp": "2026-06-09 08:10:54",
   "stores": [
     {
       "store": "Ajusco",
@@ -138,7 +138,7 @@
     },
     {
       "store": "Luis Cabrera",
-      "uber": null,
+      "uber": "online",
       "uber_express": null,
       "rappi": "offline",
       "rappi_turbo": null,
@@ -171,6 +171,15 @@
       "rappi_turbo": "offline",
       "didi": "offline",
       "offline_count": 3
+    },
+    {
+      "store": "Metro Tacubaya",
+      "uber": "offline",
+      "uber_express": null,
+      "rappi": null,
+      "rappi_turbo": null,
+      "didi": null,
+      "offline_count": 1
     },
     {
       "store": "Miramontes 1",
@@ -264,7 +273,7 @@
     },
     {
       "store": "San Pedro Mártir",
-      "uber": null,
+      "uber": "online",
       "uber_express": null,
       "rappi": "offline",
       "rappi_turbo": null,
