@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-06-09 10:04:06",
+  "stamp": "2026-06-09 10:16:58",
   "stores": [
     {
       "store": "Ajusco",
@@ -21,12 +21,12 @@
     },
     {
       "store": "Asia",
-      "uber": null,
+      "uber": "offline",
       "uber_express": null,
       "rappi": "offline",
       "rappi_turbo": "online",
       "didi": "offline",
-      "offline_count": 2
+      "offline_count": 3
     },
     {
       "store": "Av. Toluca",
@@ -210,12 +210,12 @@
     },
     {
       "store": "Parroquia",
-      "uber": null,
+      "uber": "offline",
       "uber_express": null,
       "rappi": "offline",
       "rappi_turbo": "online",
       "didi": "offline",
-      "offline_count": 2
+      "offline_count": 3
     },
     {
       "store": "Plaza Copilco",
@@ -248,10 +248,10 @@
       "store": "San Fernando",
       "uber": null,
       "uber_express": null,
-      "rappi": "offline",
+      "rappi": "online",
       "rappi_turbo": "online",
-      "didi": "offline",
-      "offline_count": 2
+      "didi": "online",
+      "offline_count": 0
     },
     {
       "store": "San Isidro",
