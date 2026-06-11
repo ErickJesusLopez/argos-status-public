@@ -1,23 +1,23 @@
 {
-  "stamp": "2026-06-11 14:35:21",
+  "stamp": "2026-06-11 14:46:47",
   "stores": [
     {
       "store": "Ajusco",
       "uber": "online",
       "uber_express": null,
-      "rappi": "offline",
+      "rappi": "online",
       "rappi_turbo": "online",
       "didi": "online",
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "Arenal",
-      "uber": "offline",
+      "uber": "online",
       "uber_express": null,
       "rappi": "online",
       "rappi_turbo": "online",
       "didi": "online",
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "Asia",
@@ -30,12 +30,12 @@
     },
     {
       "store": "Av. Toluca",
-      "uber": "offline",
+      "uber": "online",
       "uber_express": null,
       "rappi": "online",
       "rappi_turbo": null,
       "didi": "online",
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "Avenida México",
@@ -79,8 +79,8 @@
       "uber_express": null,
       "rappi": "online",
       "rappi_turbo": "offline",
-      "didi": "online",
-      "offline_count": 1
+      "didi": "offline",
+      "offline_count": 2
     },
     {
       "store": "Copilco",
@@ -165,12 +165,12 @@
     },
     {
       "store": "Las Aguilas",
-      "uber": "online",
+      "uber": "offline",
       "uber_express": null,
       "rappi": "online",
       "rappi_turbo": "online",
       "didi": "online",
-      "offline_count": 0
+      "offline_count": 1
     },
     {
       "store": "Luis Cabrera",
@@ -183,21 +183,21 @@
     },
     {
       "store": "Manuel Cañas",
-      "uber": "online",
+      "uber": "offline",
       "uber_express": null,
       "rappi": "online",
       "rappi_turbo": null,
       "didi": "online",
-      "offline_count": 0
+      "offline_count": 1
     },
     {
       "store": "Matías Romero",
       "uber": "online",
       "uber_express": null,
-      "rappi": "offline",
+      "rappi": "online",
       "rappi_turbo": "online",
       "didi": "online",
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "Metro Insurgentes",
@@ -276,9 +276,9 @@
       "uber": null,
       "uber_express": null,
       "rappi": "online",
-      "rappi_turbo": "online",
+      "rappi_turbo": "offline",
       "didi": "online",
-      "offline_count": 0
+      "offline_count": 1
     },
     {
       "store": "Plaza Esmeralda",
