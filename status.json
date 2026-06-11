@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-06-11 10:24:15",
+  "stamp": "2026-06-11 10:36:23",
   "stores": [
     {
       "store": "Ajusco",
@@ -33,7 +33,7 @@
       "uber": null,
       "uber_express": null,
       "rappi": "online",
-      "rappi_turbo": "online",
+      "rappi_turbo": null,
       "didi": "online",
       "offline_count": 0
     },
@@ -42,7 +42,7 @@
       "uber": null,
       "uber_express": null,
       "rappi": "online",
-      "rappi_turbo": "online",
+      "rappi_turbo": null,
       "didi": "online",
       "offline_count": 0
     },
@@ -60,7 +60,7 @@
       "uber": null,
       "uber_express": null,
       "rappi": "online",
-      "rappi_turbo": "online",
+      "rappi_turbo": null,
       "didi": "online",
       "offline_count": 0
     },
@@ -150,7 +150,7 @@
       "uber": null,
       "uber_express": null,
       "rappi": "online",
-      "rappi_turbo": "online",
+      "rappi_turbo": null,
       "didi": "online",
       "offline_count": 0
     },
@@ -168,7 +168,7 @@
       "uber": null,
       "uber_express": null,
       "rappi": "online",
-      "rappi_turbo": "online",
+      "rappi_turbo": null,
       "didi": "online",
       "offline_count": 0
     },
@@ -177,7 +177,7 @@
       "uber": null,
       "uber_express": null,
       "rappi": "online",
-      "rappi_turbo": "online",
+      "rappi_turbo": null,
       "didi": "online",
       "offline_count": 0
     },
@@ -222,7 +222,7 @@
       "uber": null,
       "uber_express": null,
       "rappi": "online",
-      "rappi_turbo": "online",
+      "rappi_turbo": null,
       "didi": "online",
       "offline_count": 0
     },
@@ -276,7 +276,7 @@
       "uber": null,
       "uber_express": null,
       "rappi": "online",
-      "rappi_turbo": "online",
+      "rappi_turbo": null,
       "didi": "online",
       "offline_count": 0
     },
@@ -294,7 +294,7 @@
       "uber": null,
       "uber_express": null,
       "rappi": "online",
-      "rappi_turbo": "online",
+      "rappi_turbo": null,
       "didi": null,
       "offline_count": 0
     },
@@ -303,7 +303,7 @@
       "uber": null,
       "uber_express": null,
       "rappi": "online",
-      "rappi_turbo": "online",
+      "rappi_turbo": null,
       "didi": "online",
       "offline_count": 0
     },
@@ -321,7 +321,7 @@
       "uber": null,
       "uber_express": null,
       "rappi": "online",
-      "rappi_turbo": "online",
+      "rappi_turbo": null,
       "didi": "online",
       "offline_count": 0
     },
