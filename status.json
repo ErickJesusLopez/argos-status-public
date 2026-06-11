@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-06-10 18:18:49",
+  "stamp": "2026-06-10 18:41:45",
   "stores": [
     {
       "store": "Ajusco",
@@ -311,10 +311,10 @@
       "store": "Tacubaya",
       "uber": null,
       "uber_express": null,
-      "rappi": "online",
+      "rappi": "offline",
       "rappi_turbo": "online",
       "didi": "online",
-      "offline_count": 0
+      "offline_count": 1
     },
     {
       "store": "Taxqueña",
