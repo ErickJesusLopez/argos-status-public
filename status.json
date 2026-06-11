@@ -1,50 +1,50 @@
 {
-  "stamp": "2026-06-11 16:32:24",
+  "stamp": "2026-06-11 16:43:47",
   "stores": [
     {
       "store": "Ajusco",
-      "uber": "offline",
+      "uber": "online",
       "uber_express": null,
       "rappi": "online",
       "rappi_turbo": "offline",
       "didi": "online",
-      "offline_count": 2
+      "offline_count": 1
     },
     {
       "store": "Arenal",
-      "uber": "offline",
+      "uber": "online",
       "uber_express": null,
       "rappi": "online",
       "rappi_turbo": "offline",
       "didi": "online",
-      "offline_count": 2
+      "offline_count": 1
     },
     {
       "store": "Asia",
-      "uber": "offline",
+      "uber": "online",
       "uber_express": null,
       "rappi": "online",
       "rappi_turbo": "offline",
       "didi": "online",
-      "offline_count": 2
+      "offline_count": 1
     },
     {
       "store": "Av. Toluca",
-      "uber": "offline",
+      "uber": "online",
       "uber_express": null,
       "rappi": "online",
       "rappi_turbo": null,
       "didi": "online",
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "Avenida México",
-      "uber": "offline",
+      "uber": "online",
       "uber_express": null,
       "rappi": "online",
       "rappi_turbo": null,
       "didi": "online",
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "Centenario",
