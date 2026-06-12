@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-06-11 21:19:57",
+  "stamp": "2026-06-11 21:31:25",
   "stores": [
     {
       "store": "Ajusco",
@@ -96,18 +96,18 @@
       "uber": "online",
       "uber_express": null,
       "rappi": "online",
-      "rappi_turbo": "offline",
+      "rappi_turbo": "online",
       "didi": "online",
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "Express ⏰ (Division del Norte)",
-      "uber": "offline",
+      "uber": "online",
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
       "didi": null,
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "Express ⏰ (Matías Romero)",
@@ -258,9 +258,9 @@
       "uber": null,
       "uber_express": null,
       "rappi": "online",
-      "rappi_turbo": "online",
+      "rappi_turbo": "offline",
       "didi": "online",
-      "offline_count": 0
+      "offline_count": 1
     },
     {
       "store": "Parroquia",
