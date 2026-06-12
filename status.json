@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-06-11 21:54:10",
+  "stamp": "2026-06-11 22:05:34",
   "stores": [
     {
       "store": "Ajusco",
@@ -96,9 +96,9 @@
       "uber": "online",
       "uber_express": null,
       "rappi": "online",
-      "rappi_turbo": "online",
+      "rappi_turbo": "offline",
       "didi": "online",
-      "offline_count": 0
+      "offline_count": 1
     },
     {
       "store": "Express ⏰ (Division del Norte)",
@@ -183,12 +183,12 @@
     },
     {
       "store": "Luis Cabrera",
-      "uber": null,
+      "uber": "offline",
       "uber_express": null,
       "rappi": "online",
       "rappi_turbo": null,
       "didi": "online",
-      "offline_count": 0
+      "offline_count": 1
     },
     {
       "store": "Manuel Cañas",
@@ -213,9 +213,9 @@
       "uber": "online",
       "uber_express": null,
       "rappi": "offline",
-      "rappi_turbo": "online",
+      "rappi_turbo": "offline",
       "didi": "offline",
-      "offline_count": 2
+      "offline_count": 3
     },
     {
       "store": "Metro Tacubaya",
@@ -267,9 +267,9 @@
       "uber": null,
       "uber_express": null,
       "rappi": "online",
-      "rappi_turbo": "online",
+      "rappi_turbo": "offline",
       "didi": "online",
-      "offline_count": 0
+      "offline_count": 1
     },
     {
       "store": "Periferico Oriente",
