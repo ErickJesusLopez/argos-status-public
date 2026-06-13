@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-06-12 17:57:02",
+  "stamp": "2026-06-12 20:13:31",
   "stores": [
     {
       "store": "Ajusco",
@@ -246,12 +246,12 @@
     },
     {
       "store": "Nativitas",
-      "uber": null,
+      "uber": "offline",
       "uber_express": null,
-      "rappi": "online",
+      "rappi": "offline",
       "rappi_turbo": null,
-      "didi": "online",
-      "offline_count": 0
+      "didi": "offline",
+      "offline_count": 3
     },
     {
       "store": "Olivar Del Conde",
