@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-06-14 12:32:21",
+  "stamp": "2026-06-14 14:30:12",
   "stores": [
     {
       "store": "Ajusco",
@@ -120,12 +120,12 @@
     },
     {
       "store": "Express ⏰ (Metro Insurgentes)",
-      "uber": "offline",
+      "uber": "online",
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
       "didi": null,
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "Express ⏰ (Metro Tacubaya)",
