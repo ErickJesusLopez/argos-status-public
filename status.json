@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-06-15 10:03:15",
+  "stamp": "2026-06-15 10:14:40",
   "stores": [
     {
       "store": "Ajusco",
@@ -93,12 +93,12 @@
     },
     {
       "store": "División del Norte",
-      "uber": "offline",
+      "uber": "online",
       "uber_express": null,
-      "rappi": "offline",
+      "rappi": "online",
       "rappi_turbo": "offline",
-      "didi": "offline",
-      "offline_count": 4
+      "didi": "online",
+      "offline_count": 1
     },
     {
       "store": "Express ⏰ (Division del Norte)",
@@ -309,12 +309,12 @@
     },
     {
       "store": "San Fernando",
-      "uber": "offline",
+      "uber": "online",
       "uber_express": null,
       "rappi": "online",
       "rappi_turbo": "online",
-      "didi": "offline",
-      "offline_count": 2
+      "didi": "online",
+      "offline_count": 0
     },
     {
       "store": "San Isidro",
@@ -367,8 +367,8 @@
       "uber_express": null,
       "rappi": "offline",
       "rappi_turbo": "online",
-      "didi": "offline",
-      "offline_count": 2
+      "didi": "online",
+      "offline_count": 1
     },
     {
       "store": "Taxqueña",
