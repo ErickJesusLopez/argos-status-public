@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-06-16 10:37:50",
+  "stamp": "2026-06-16 11:34:50",
   "stores": [
     {
       "store": "Ajusco",
@@ -92,24 +92,6 @@
       "offline_count": 0
     },
     {
-      "store": "Express ⏰ (Matías Romero)",
-      "uber": "online",
-      "uber_express": null,
-      "rappi": null,
-      "rappi_turbo": null,
-      "didi": null,
-      "offline_count": 0
-    },
-    {
-      "store": "Express ⏰ (Metro Tacubaya)",
-      "uber": "online",
-      "uber_express": null,
-      "rappi": null,
-      "rappi_turbo": null,
-      "didi": null,
-      "offline_count": 0
-    },
-    {
       "store": "Iman",
       "uber": null,
       "uber_express": null,
@@ -191,17 +173,8 @@
       "offline_count": 0
     },
     {
-      "store": "Metro Tacubaya",
-      "uber": "online",
-      "uber_express": null,
-      "rappi": null,
-      "rappi_turbo": null,
-      "didi": null,
-      "offline_count": 0
-    },
-    {
       "store": "Miramontes 1",
-      "uber": "online",
+      "uber": null,
       "uber_express": null,
       "rappi": "online",
       "rappi_turbo": "online",
@@ -354,7 +327,7 @@
     },
     {
       "store": "Xochimilco",
-      "uber": "online",
+      "uber": null,
       "uber_express": null,
       "rappi": "online",
       "rappi_turbo": "online",
