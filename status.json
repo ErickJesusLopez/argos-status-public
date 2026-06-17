@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-06-17 12:43:17",
+  "stamp": "2026-06-17 12:54:49",
   "stores": [
     {
       "store": "Ajusco",
@@ -140,10 +140,10 @@
       "store": "Las Aguilas",
       "uber": null,
       "uber_express": null,
-      "rappi": "offline",
+      "rappi": "online",
       "rappi_turbo": "online",
       "didi": "online",
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "Luis Cabrera",
