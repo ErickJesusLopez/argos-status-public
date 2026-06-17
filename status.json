@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-06-17 06:46:48",
+  "stamp": "2026-06-17 06:59:23",
   "stores": [
     {
       "store": "Ajusco",
@@ -15,18 +15,18 @@
       "uber": null,
       "uber_express": null,
       "rappi": "offline",
-      "rappi_turbo": null,
+      "rappi_turbo": "offline",
       "didi": "offline",
-      "offline_count": 2
+      "offline_count": 3
     },
     {
       "store": "Asia",
       "uber": null,
       "uber_express": null,
       "rappi": "offline",
-      "rappi_turbo": null,
+      "rappi_turbo": "offline",
       "didi": "offline",
-      "offline_count": 2
+      "offline_count": 3
     },
     {
       "store": "Av. Toluca",
@@ -78,9 +78,9 @@
       "uber": null,
       "uber_express": null,
       "rappi": "offline",
-      "rappi_turbo": null,
+      "rappi_turbo": "offline",
       "didi": "offline",
-      "offline_count": 2
+      "offline_count": 3
     },
     {
       "store": "División del Norte",
@@ -96,18 +96,18 @@
       "uber": null,
       "uber_express": null,
       "rappi": "offline",
-      "rappi_turbo": null,
+      "rappi_turbo": "offline",
       "didi": "offline",
-      "offline_count": 2
+      "offline_count": 3
     },
     {
       "store": "Insurgentes Sur",
       "uber": null,
       "uber_express": null,
       "rappi": "offline",
-      "rappi_turbo": null,
+      "rappi_turbo": "offline",
       "didi": "offline",
-      "offline_count": 2
+      "offline_count": 3
     },
     {
       "store": "La Joya",
@@ -159,9 +159,9 @@
       "uber": null,
       "uber_express": null,
       "rappi": "offline",
-      "rappi_turbo": null,
+      "rappi_turbo": "offline",
       "didi": "offline",
-      "offline_count": 2
+      "offline_count": 3
     },
     {
       "store": "Metro Insurgentes",
@@ -177,18 +177,18 @@
       "uber": null,
       "uber_express": null,
       "rappi": "offline",
-      "rappi_turbo": null,
+      "rappi_turbo": "offline",
       "didi": "offline",
-      "offline_count": 2
+      "offline_count": 3
     },
     {
       "store": "Miramontes 2",
       "uber": null,
       "uber_express": null,
       "rappi": "offline",
-      "rappi_turbo": null,
+      "rappi_turbo": "offline",
       "didi": "offline",
-      "offline_count": 2
+      "offline_count": 3
     },
     {
       "store": "Nativitas",
@@ -222,9 +222,9 @@
       "uber": null,
       "uber_express": null,
       "rappi": "offline",
-      "rappi_turbo": null,
+      "rappi_turbo": "offline",
       "didi": "offline",
-      "offline_count": 2
+      "offline_count": 3
     },
     {
       "store": "Plaza Esmeralda",
@@ -249,7 +249,7 @@
       "uber": null,
       "uber_express": null,
       "rappi": "offline",
-      "rappi_turbo": null,
+      "rappi_turbo": "online",
       "didi": "offline",
       "offline_count": 2
     },
