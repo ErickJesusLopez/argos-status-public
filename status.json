@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-06-17 13:06:17",
+  "stamp": "2026-06-17 13:17:40",
   "stores": [
     {
       "store": "Ajusco",
@@ -14,10 +14,10 @@
       "store": "Arenal",
       "uber": "online",
       "uber_express": null,
-      "rappi": "offline",
+      "rappi": "online",
       "rappi_turbo": "online",
       "didi": "online",
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "Asia",
@@ -213,9 +213,9 @@
       "uber": null,
       "uber_express": null,
       "rappi": "online",
-      "rappi_turbo": "online",
+      "rappi_turbo": "offline",
       "didi": "online",
-      "offline_count": 0
+      "offline_count": 1
     },
     {
       "store": "Parroquia",
