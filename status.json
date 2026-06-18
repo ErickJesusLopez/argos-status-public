@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-06-18 02:47:53",
+  "stamp": "2026-06-18 09:00:15",
   "stores": [
     {
       "store": "Ajusco",
@@ -111,7 +111,7 @@
     },
     {
       "store": "La Joya",
-      "uber": null,
+      "uber": "online",
       "uber_express": null,
       "rappi": "offline",
       "rappi_turbo": "offline",
@@ -149,10 +149,10 @@
       "store": "Manuel Cañas",
       "uber": null,
       "uber_express": null,
-      "rappi": "offline",
+      "rappi": "online",
       "rappi_turbo": null,
-      "didi": "offline",
-      "offline_count": 2
+      "didi": "online",
+      "offline_count": 0
     },
     {
       "store": "Matías Romero",
@@ -173,6 +173,15 @@
       "offline_count": 3
     },
     {
+      "store": "Metro Tacubaya",
+      "uber": "offline",
+      "uber_express": null,
+      "rappi": null,
+      "rappi_turbo": null,
+      "didi": null,
+      "offline_count": 1
+    },
+    {
       "store": "Miramontes 1",
       "uber": null,
       "uber_express": null,
@@ -185,10 +194,10 @@
       "store": "Miramontes 2",
       "uber": null,
       "uber_express": null,
-      "rappi": "offline",
+      "rappi": "online",
       "rappi_turbo": "offline",
-      "didi": "offline",
-      "offline_count": 3
+      "didi": "online",
+      "offline_count": 1
     },
     {
       "store": "Nativitas",
@@ -275,10 +284,10 @@
       "store": "Santa Ana",
       "uber": null,
       "uber_express": null,
-      "rappi": "offline",
+      "rappi": "online",
       "rappi_turbo": "offline",
-      "didi": "offline",
-      "offline_count": 3
+      "didi": "online",
+      "offline_count": 1
     },
     {
       "store": "Santa Fe",
@@ -320,10 +329,10 @@
       "store": "Tláhuac Casa",
       "uber": null,
       "uber_express": null,
-      "rappi": "offline",
+      "rappi": "online",
       "rappi_turbo": "offline",
       "didi": null,
-      "offline_count": 2
+      "offline_count": 1
     },
     {
       "store": "Xochimilco",
