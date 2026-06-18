@@ -1,14 +1,14 @@
 {
-  "stamp": "2026-06-18 13:29:55",
+  "stamp": "2026-06-18 13:41:25",
   "stores": [
     {
       "store": "Ajusco",
       "uber": null,
       "uber_express": null,
       "rappi": "online",
-      "rappi_turbo": "offline",
+      "rappi_turbo": "online",
       "didi": "online",
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "Arenal",
@@ -93,12 +93,12 @@
     },
     {
       "store": "Express ⏰ (Condesa)",
-      "uber": "offline",
+      "uber": "online",
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
       "didi": null,
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "Iman",
