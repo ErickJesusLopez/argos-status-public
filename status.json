@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-06-19 11:22:03",
+  "stamp": "2026-06-19 11:56:08",
   "stores": [
     {
       "store": "Ajusco",
@@ -174,12 +174,12 @@
     },
     {
       "store": "Luis Cabrera",
-      "uber": "online",
+      "uber": "offline",
       "uber_express": null,
       "rappi": "online",
       "rappi_turbo": null,
       "didi": "online",
-      "offline_count": 0
+      "offline_count": 1
     },
     {
       "store": "Manuel Cañas",
@@ -329,10 +329,10 @@
       "store": "Tacubaya",
       "uber": null,
       "uber_express": null,
-      "rappi": "offline",
+      "rappi": "online",
       "rappi_turbo": "online",
       "didi": "online",
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "Taxqueña",
