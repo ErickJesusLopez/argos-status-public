@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-06-19 10:13:52",
+  "stamp": "2026-06-19 10:25:16",
   "stores": [
     {
       "store": "Ajusco",
@@ -111,12 +111,12 @@
     },
     {
       "store": "Express ⏰ (Matías Romero)",
-      "uber": "offline",
+      "uber": "online",
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
       "didi": null,
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "Iman",
@@ -165,21 +165,21 @@
     },
     {
       "store": "Las Aguilas",
-      "uber": "offline",
+      "uber": "online",
       "uber_express": null,
-      "rappi": "offline",
+      "rappi": "online",
       "rappi_turbo": "online",
       "didi": "offline",
-      "offline_count": 3
+      "offline_count": 1
     },
     {
       "store": "Luis Cabrera",
-      "uber": "offline",
+      "uber": "online",
       "uber_express": null,
-      "rappi": "offline",
+      "rappi": "online",
       "rappi_turbo": null,
-      "didi": "offline",
-      "offline_count": 3
+      "didi": "online",
+      "offline_count": 0
     },
     {
       "store": "Manuel Cañas",
@@ -273,12 +273,12 @@
     },
     {
       "store": "San Bernabé",
-      "uber": "offline",
+      "uber": "online",
       "uber_express": null,
       "rappi": "online",
       "rappi_turbo": null,
       "didi": "online",
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "San Fernando",
