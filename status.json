@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-06-19 17:03:33",
+  "stamp": "2026-06-19 17:14:52",
   "stores": [
     {
       "store": "Ajusco",
@@ -59,19 +59,19 @@
       "store": "Centro Santa Fe",
       "uber": null,
       "uber_express": null,
-      "rappi": "offline",
+      "rappi": "online",
       "rappi_turbo": null,
-      "didi": "offline",
-      "offline_count": 2
+      "didi": "online",
+      "offline_count": 0
     },
     {
       "store": "Comercial Santa Fe",
-      "uber": "offline",
+      "uber": "online",
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
       "didi": null,
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "Condesa",
@@ -129,12 +129,12 @@
     },
     {
       "store": "Iman",
-      "uber": "offline",
+      "uber": "online",
       "uber_express": null,
       "rappi": "online",
       "rappi_turbo": "online",
       "didi": "online",
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "Insurgentes",
@@ -291,12 +291,12 @@
     },
     {
       "store": "San Fernando",
-      "uber": "offline",
+      "uber": "online",
       "uber_express": null,
       "rappi": "online",
       "rappi_turbo": "online",
-      "didi": "offline",
-      "offline_count": 2
+      "didi": "online",
+      "offline_count": 0
     },
     {
       "store": "San Isidro",
@@ -338,10 +338,10 @@
       "store": "Tacubaya",
       "uber": null,
       "uber_express": null,
-      "rappi": "online",
+      "rappi": "offline",
       "rappi_turbo": "online",
       "didi": "online",
-      "offline_count": 0
+      "offline_count": 1
     },
     {
       "store": "Taxqueña",
