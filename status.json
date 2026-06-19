@@ -1,14 +1,14 @@
 {
-  "stamp": "2026-06-18 20:07:33",
+  "stamp": "2026-06-18 20:18:50",
   "stores": [
     {
       "store": "Ajusco",
-      "uber": "offline",
+      "uber": "online",
       "uber_express": null,
       "rappi": "online",
       "rappi_turbo": "online",
       "didi": "online",
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "Arenal",
@@ -41,10 +41,10 @@
       "store": "Avenida México",
       "uber": "online",
       "uber_express": null,
-      "rappi": "online",
+      "rappi": "offline",
       "rappi_turbo": null,
       "didi": "online",
-      "offline_count": 0
+      "offline_count": 1
     },
     {
       "store": "Centenario",
@@ -69,27 +69,27 @@
       "uber": "offline",
       "uber_express": null,
       "rappi": "online",
-      "rappi_turbo": "online",
+      "rappi_turbo": "offline",
       "didi": "online",
-      "offline_count": 1
+      "offline_count": 2
     },
     {
       "store": "Copilco",
-      "uber": "offline",
-      "uber_express": null,
-      "rappi": "online",
-      "rappi_turbo": "online",
-      "didi": "online",
-      "offline_count": 1
-    },
-    {
-      "store": "División del Norte",
-      "uber": null,
+      "uber": "online",
       "uber_express": null,
       "rappi": "online",
       "rappi_turbo": "online",
       "didi": "online",
       "offline_count": 0
+    },
+    {
+      "store": "División del Norte",
+      "uber": "offline",
+      "uber_express": null,
+      "rappi": "online",
+      "rappi_turbo": "offline",
+      "didi": "online",
+      "offline_count": 2
     },
     {
       "store": "Express ⏰ (Condesa)",
@@ -107,6 +107,15 @@
       "rappi": "online",
       "rappi_turbo": "offline",
       "didi": "online",
+      "offline_count": 1
+    },
+    {
+      "store": "Insurgentes",
+      "uber": "offline",
+      "uber_express": null,
+      "rappi": null,
+      "rappi_turbo": null,
+      "didi": null,
       "offline_count": 1
     },
     {
@@ -222,9 +231,9 @@
       "uber": null,
       "uber_express": null,
       "rappi": "online",
-      "rappi_turbo": "offline",
+      "rappi_turbo": "online",
       "didi": "online",
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "Plaza Copilco",
@@ -339,9 +348,9 @@
       "uber": null,
       "uber_express": null,
       "rappi": "online",
-      "rappi_turbo": "offline",
+      "rappi_turbo": "online",
       "didi": "online",
-      "offline_count": 1
+      "offline_count": 0
     }
   ]
 }
