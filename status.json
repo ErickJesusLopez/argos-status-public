@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-06-19 16:29:31",
+  "stamp": "2026-06-19 16:40:50",
   "stores": [
     {
       "store": "Ajusco",
@@ -291,12 +291,12 @@
     },
     {
       "store": "San Fernando",
-      "uber": null,
+      "uber": "offline",
       "uber_express": null,
-      "rappi": "online",
+      "rappi": "offline",
       "rappi_turbo": "online",
-      "didi": "online",
-      "offline_count": 0
+      "didi": "offline",
+      "offline_count": 3
     },
     {
       "store": "San Isidro",
@@ -338,10 +338,10 @@
       "store": "Tacubaya",
       "uber": null,
       "uber_express": null,
-      "rappi": "offline",
+      "rappi": "online",
       "rappi_turbo": "online",
       "didi": "online",
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "Taxqueña",
