@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-06-19 22:00:33",
+  "stamp": "2026-06-19 22:12:16",
   "stores": [
     {
       "store": "Ajusco",
@@ -96,9 +96,9 @@
       "uber": "online",
       "uber_express": null,
       "rappi": "online",
-      "rappi_turbo": "online",
+      "rappi_turbo": "offline",
       "didi": "online",
-      "offline_count": 0
+      "offline_count": 1
     },
     {
       "store": "Express ⏰ (Condesa)",
@@ -347,10 +347,10 @@
       "store": "Tacubaya",
       "uber": null,
       "uber_express": null,
-      "rappi": "online",
+      "rappi": "offline",
       "rappi_turbo": "online",
       "didi": "online",
-      "offline_count": 0
+      "offline_count": 1
     },
     {
       "store": "Taxqueña",
