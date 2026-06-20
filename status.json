@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-06-19 18:00:25",
+  "stamp": "2026-06-19 18:11:43",
   "stores": [
     {
       "store": "Ajusco",
@@ -309,12 +309,12 @@
     },
     {
       "store": "San Pedro Mártir",
-      "uber": "online",
+      "uber": "offline",
       "uber_express": null,
-      "rappi": "online",
+      "rappi": "offline",
       "rappi_turbo": null,
-      "didi": "online",
-      "offline_count": 0
+      "didi": "offline",
+      "offline_count": 3
     },
     {
       "store": "Santa Ana",
