@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-06-20 09:30:03",
+  "stamp": "2026-06-20 09:41:21",
   "stores": [
     {
       "store": "Ajusco",
@@ -183,21 +183,21 @@
     },
     {
       "store": "Las Aguilas",
-      "uber": "offline",
-      "uber_express": null,
-      "rappi": "offline",
-      "rappi_turbo": "online",
-      "didi": "offline",
-      "offline_count": 3
-    },
-    {
-      "store": "Luis Cabrera",
       "uber": "online",
       "uber_express": null,
       "rappi": "online",
-      "rappi_turbo": null,
+      "rappi_turbo": "online",
       "didi": "online",
       "offline_count": 0
+    },
+    {
+      "store": "Luis Cabrera",
+      "uber": "offline",
+      "uber_express": null,
+      "rappi": "offline",
+      "rappi_turbo": null,
+      "didi": "offline",
+      "offline_count": 3
     },
     {
       "store": "Manuel Cañas",
