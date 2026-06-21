@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-06-21 00:03:41",
+  "stamp": "2026-06-21 01:45:43",
   "stores": [
     {
       "store": "Ajusco",
@@ -23,10 +23,10 @@
       "store": "Asia",
       "uber": "online",
       "uber_express": null,
-      "rappi": "online",
+      "rappi": "offline",
       "rappi_turbo": "online",
-      "didi": "online",
-      "offline_count": 0
+      "didi": "offline",
+      "offline_count": 2
     },
     {
       "store": "Av. Toluca",
@@ -77,19 +77,19 @@
       "store": "Condesa",
       "uber": "online",
       "uber_express": null,
-      "rappi": "online",
+      "rappi": "offline",
       "rappi_turbo": "online",
-      "didi": "online",
-      "offline_count": 0
+      "didi": "offline",
+      "offline_count": 2
     },
     {
       "store": "Copilco",
       "uber": "online",
       "uber_express": null,
-      "rappi": "online",
+      "rappi": "offline",
       "rappi_turbo": "online",
-      "didi": "online",
-      "offline_count": 0
+      "didi": "offline",
+      "offline_count": 2
     },
     {
       "store": "División del Norte",
@@ -149,10 +149,10 @@
       "store": "Iman",
       "uber": "online",
       "uber_express": null,
-      "rappi": "online",
+      "rappi": "offline",
       "rappi_turbo": "online",
-      "didi": "online",
-      "offline_count": 0
+      "didi": "offline",
+      "offline_count": 2
     },
     {
       "store": "Insurgentes",
@@ -167,10 +167,10 @@
       "store": "Insurgentes Sur",
       "uber": null,
       "uber_express": null,
-      "rappi": "online",
+      "rappi": "offline",
       "rappi_turbo": "online",
-      "didi": "online",
-      "offline_count": 0
+      "didi": "offline",
+      "offline_count": 2
     },
     {
       "store": "La Joya",
@@ -203,10 +203,10 @@
       "store": "Luis Cabrera",
       "uber": "online",
       "uber_express": null,
-      "rappi": "online",
+      "rappi": "offline",
       "rappi_turbo": null,
-      "didi": "online",
-      "offline_count": 0
+      "didi": "offline",
+      "offline_count": 2
     },
     {
       "store": "Manuel Cañas",
@@ -221,10 +221,10 @@
       "store": "Matías Romero",
       "uber": "online",
       "uber_express": null,
-      "rappi": "online",
+      "rappi": "offline",
       "rappi_turbo": "online",
-      "didi": "online",
-      "offline_count": 0
+      "didi": "offline",
+      "offline_count": 2
     },
     {
       "store": "Metro Insurgentes",
@@ -284,10 +284,10 @@
       "store": "Parroquia",
       "uber": "online",
       "uber_express": null,
-      "rappi": "online",
+      "rappi": "offline",
       "rappi_turbo": "online",
-      "didi": "online",
-      "offline_count": 0
+      "didi": "offline",
+      "offline_count": 2
     },
     {
       "store": "Plaza Copilco",
@@ -320,10 +320,10 @@
       "store": "San Fernando",
       "uber": "online",
       "uber_express": null,
-      "rappi": "online",
+      "rappi": "offline",
       "rappi_turbo": "online",
-      "didi": "online",
-      "offline_count": 0
+      "didi": "offline",
+      "offline_count": 2
     },
     {
       "store": "San Isidro",
