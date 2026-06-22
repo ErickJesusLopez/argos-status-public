@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-06-22 14:27:19",
+  "stamp": "2026-06-22 15:00:47",
   "stores": [
     {
       "store": "Ajusco",
@@ -285,9 +285,9 @@
       "uber": "online",
       "uber_express": null,
       "rappi": "online",
-      "rappi_turbo": "offline",
+      "rappi_turbo": "online",
       "didi": "online",
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "Periferico Oriente",
