@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-06-23 17:27:04",
+  "stamp": "2026-06-23 17:38:28",
   "stores": [
     {
       "store": "Ajusco",
@@ -21,7 +21,7 @@
     },
     {
       "store": "Asia",
-      "uber": "online",
+      "uber": null,
       "uber_express": null,
       "rappi": "online",
       "rappi_turbo": "online",
@@ -84,29 +84,11 @@
     },
     {
       "store": "División del Norte",
-      "uber": "online",
+      "uber": null,
       "uber_express": null,
       "rappi": "online",
       "rappi_turbo": "online",
       "didi": "online",
-      "offline_count": 0
-    },
-    {
-      "store": "Express ⏰ (Metro Insurgentes)",
-      "uber": "online",
-      "uber_express": null,
-      "rappi": null,
-      "rappi_turbo": null,
-      "didi": null,
-      "offline_count": 0
-    },
-    {
-      "store": "Express ⏰ (Metro Tacubaya)",
-      "uber": "online",
-      "uber_express": null,
-      "rappi": null,
-      "rappi_turbo": null,
-      "didi": null,
       "offline_count": 0
     },
     {
@@ -147,7 +129,7 @@
     },
     {
       "store": "Las Aguilas",
-      "uber": "online",
+      "uber": null,
       "uber_express": null,
       "rappi": "online",
       "rappi_turbo": "online",
@@ -156,12 +138,12 @@
     },
     {
       "store": "Luis Cabrera",
-      "uber": "offline",
+      "uber": null,
       "uber_express": null,
       "rappi": "online",
       "rappi_turbo": null,
       "didi": "online",
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "Manuel Cañas",
@@ -183,20 +165,11 @@
     },
     {
       "store": "Metro Insurgentes",
-      "uber": "online",
+      "uber": null,
       "uber_express": null,
       "rappi": "online",
       "rappi_turbo": "online",
       "didi": "online",
-      "offline_count": 0
-    },
-    {
-      "store": "Metro Tacubaya",
-      "uber": "online",
-      "uber_express": null,
-      "rappi": null,
-      "rappi_turbo": null,
-      "didi": null,
       "offline_count": 0
     },
     {
@@ -282,7 +255,7 @@
     },
     {
       "store": "San Isidro",
-      "uber": "online",
+      "uber": null,
       "uber_express": null,
       "rappi": "online",
       "rappi_turbo": null,
@@ -317,15 +290,6 @@
       "offline_count": 0
     },
     {
-      "store": "Santa Fe 1",
-      "uber": "online",
-      "uber_express": null,
-      "rappi": null,
-      "rappi_turbo": null,
-      "didi": null,
-      "offline_count": 0
-    },
-    {
       "store": "Tacubaya",
       "uber": null,
       "uber_express": null,
@@ -345,12 +309,12 @@
     },
     {
       "store": "Tlahuac FG",
-      "uber": "offline",
+      "uber": null,
       "uber_express": null,
-      "rappi": "offline",
+      "rappi": "online",
       "rappi_turbo": "online",
-      "didi": "offline",
-      "offline_count": 3
+      "didi": "online",
+      "offline_count": 0
     },
     {
       "store": "Tláhuac Casa",
