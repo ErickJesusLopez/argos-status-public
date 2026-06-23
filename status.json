@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-06-23 09:31:21",
+  "stamp": "2026-06-23 09:54:07",
   "stores": [
     {
       "store": "Ajusco",
@@ -84,12 +84,12 @@
     },
     {
       "store": "División del Norte",
-      "uber": "offline",
+      "uber": "online",
       "uber_express": null,
-      "rappi": "offline",
+      "rappi": "online",
       "rappi_turbo": "offline",
-      "didi": "offline",
-      "offline_count": 4
+      "didi": "online",
+      "offline_count": 1
     },
     {
       "store": "Express ⏰ (Metro Insurgentes)",
