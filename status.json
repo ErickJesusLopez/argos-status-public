@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-06-23 02:44:41",
+  "stamp": "2026-06-23 02:56:13",
   "stores": [
     {
       "store": "Ajusco",
@@ -21,7 +21,7 @@
     },
     {
       "store": "Asia",
-      "uber": "online",
+      "uber": null,
       "uber_express": null,
       "rappi": "offline",
       "rappi_turbo": "offline",
@@ -90,15 +90,6 @@
       "rappi_turbo": "offline",
       "didi": "offline",
       "offline_count": 3
-    },
-    {
-      "store": "Express ⏰ (Metro Insurgentes)",
-      "uber": "online",
-      "uber_express": null,
-      "rappi": null,
-      "rappi_turbo": null,
-      "didi": null,
-      "offline_count": 0
     },
     {
       "store": "Iman",
@@ -264,7 +255,7 @@
     },
     {
       "store": "San Isidro",
-      "uber": "online",
+      "uber": null,
       "uber_express": null,
       "rappi": "offline",
       "rappi_turbo": null,
@@ -313,8 +304,8 @@
       "uber_express": null,
       "rappi": "offline",
       "rappi_turbo": "offline",
-      "didi": "online",
-      "offline_count": 2
+      "didi": "offline",
+      "offline_count": 3
     },
     {
       "store": "Tlahuac FG",
