@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-06-24 13:51:05",
+  "stamp": "2026-06-24 14:37:52",
   "stores": [
     {
       "store": "Ajusco",
@@ -237,12 +237,12 @@
     },
     {
       "store": "San Bernabé",
-      "uber": "offline",
+      "uber": "online",
       "uber_express": null,
-      "rappi": "offline",
+      "rappi": "online",
       "rappi_turbo": null,
-      "didi": "offline",
-      "offline_count": 3
+      "didi": "online",
+      "offline_count": 0
     },
     {
       "store": "San Fernando",
@@ -273,12 +273,12 @@
     },
     {
       "store": "Santa Ana",
-      "uber": "offline",
+      "uber": "online",
       "uber_express": null,
-      "rappi": "offline",
+      "rappi": "online",
       "rappi_turbo": "online",
-      "didi": "offline",
-      "offline_count": 3
+      "didi": "online",
+      "offline_count": 0
     },
     {
       "store": "Santa Fe",
