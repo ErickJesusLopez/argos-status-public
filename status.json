@@ -1,14 +1,14 @@
 {
-  "stamp": "2026-06-24 15:12:17",
+  "stamp": "2026-06-24 15:23:46",
   "stores": [
     {
       "store": "Ajusco",
-      "uber": null,
+      "uber": "offline",
       "uber_express": null,
       "rappi": "online",
       "rappi_turbo": "online",
       "didi": "online",
-      "offline_count": 0
+      "offline_count": 1
     },
     {
       "store": "Arenal",
@@ -268,16 +268,16 @@
       "uber_express": null,
       "rappi": "offline",
       "rappi_turbo": null,
-      "didi": "offline",
-      "offline_count": 3
+      "didi": "online",
+      "offline_count": 2
     },
     {
       "store": "Santa Ana",
       "uber": "offline",
       "uber_express": null,
       "rappi": "offline",
-      "rappi_turbo": "online",
-      "didi": "offline",
+      "rappi_turbo": "offline",
+      "didi": "online",
       "offline_count": 3
     },
     {
