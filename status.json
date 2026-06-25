@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-06-25 09:59:18",
+  "stamp": "2026-06-25 10:10:47",
   "stores": [
     {
       "store": "Ajusco",
@@ -99,6 +99,15 @@
       "rappi_turbo": "online",
       "didi": "online",
       "offline_count": 0
+    },
+    {
+      "store": "Express ⏰ (Matías Romero)",
+      "uber": "offline",
+      "uber_express": null,
+      "rappi": null,
+      "rappi_turbo": null,
+      "didi": null,
+      "offline_count": 1
     },
     {
       "store": "Express ⏰ (Metro Insurgentes)",
@@ -300,12 +309,12 @@
     },
     {
       "store": "San Pedro Mártir",
-      "uber": "offline",
+      "uber": "online",
       "uber_express": null,
-      "rappi": "offline",
+      "rappi": "online",
       "rappi_turbo": null,
-      "didi": "offline",
-      "offline_count": 3
+      "didi": "online",
+      "offline_count": 0
     },
     {
       "store": "Santa Ana",
