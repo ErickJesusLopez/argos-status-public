@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-06-25 09:01:48",
+  "stamp": "2026-06-25 09:13:14",
   "stores": [
     {
       "store": "Ajusco",
@@ -78,9 +78,9 @@
       "uber": "online",
       "uber_express": null,
       "rappi": "offline",
-      "rappi_turbo": "offline",
+      "rappi_turbo": null,
       "didi": "offline",
-      "offline_count": 3
+      "offline_count": 2
     },
     {
       "store": "Copilco",
@@ -150,7 +150,7 @@
       "uber": null,
       "uber_express": null,
       "rappi": "offline",
-      "rappi_turbo": "online",
+      "rappi_turbo": null,
       "didi": "offline",
       "offline_count": 2
     },
@@ -267,9 +267,9 @@
       "uber": null,
       "uber_express": null,
       "rappi": "offline",
-      "rappi_turbo": "offline",
+      "rappi_turbo": null,
       "didi": "offline",
-      "offline_count": 3
+      "offline_count": 2
     },
     {
       "store": "San Bernabé",
@@ -312,9 +312,9 @@
       "uber": "online",
       "uber_express": null,
       "rappi": "online",
-      "rappi_turbo": "offline",
+      "rappi_turbo": null,
       "didi": "online",
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "Santa Fe",
@@ -348,9 +348,9 @@
       "uber": null,
       "uber_express": null,
       "rappi": "offline",
-      "rappi_turbo": "offline",
+      "rappi_turbo": null,
       "didi": "offline",
-      "offline_count": 3
+      "offline_count": 2
     },
     {
       "store": "Tláhuac Casa",
@@ -366,9 +366,9 @@
       "uber": "online",
       "uber_express": null,
       "rappi": "offline",
-      "rappi_turbo": "offline",
+      "rappi_turbo": null,
       "didi": "offline",
-      "offline_count": 3
+      "offline_count": 2
     }
   ]
 }
