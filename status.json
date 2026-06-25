@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-06-24 21:54:08",
+  "stamp": "2026-06-24 22:05:33",
   "stores": [
     {
       "store": "Ajusco",
@@ -212,10 +212,10 @@
       "store": "Miramontes 2",
       "uber": null,
       "uber_express": null,
-      "rappi": "online",
+      "rappi": "offline",
       "rappi_turbo": "offline",
-      "didi": "online",
-      "offline_count": 1
+      "didi": "offline",
+      "offline_count": 3
     },
     {
       "store": "Nativitas",
@@ -240,9 +240,9 @@
       "uber": "online",
       "uber_express": null,
       "rappi": "offline",
-      "rappi_turbo": "online",
+      "rappi_turbo": "offline",
       "didi": "offline",
-      "offline_count": 2
+      "offline_count": 3
     },
     {
       "store": "Plaza Copilco",
@@ -300,12 +300,12 @@
     },
     {
       "store": "Santa Ana",
-      "uber": "offline",
+      "uber": "online",
       "uber_express": null,
       "rappi": "offline",
       "rappi_turbo": "offline",
       "didi": "offline",
-      "offline_count": 4
+      "offline_count": 3
     },
     {
       "store": "Santa Fe",
@@ -338,19 +338,19 @@
       "store": "Tlahuac FG",
       "uber": null,
       "uber_express": null,
-      "rappi": "online",
+      "rappi": "offline",
       "rappi_turbo": "offline",
-      "didi": "online",
-      "offline_count": 1
+      "didi": "offline",
+      "offline_count": 3
     },
     {
       "store": "Tláhuac Casa",
       "uber": null,
       "uber_express": null,
-      "rappi": "online",
+      "rappi": "offline",
       "rappi_turbo": "offline",
       "didi": null,
-      "offline_count": 1
+      "offline_count": 2
     },
     {
       "store": "Xochimilco",
