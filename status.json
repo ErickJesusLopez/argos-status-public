@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-06-25 10:59:44",
+  "stamp": "2026-06-25 11:12:01",
   "stores": [
     {
       "store": "Ajusco",
@@ -77,10 +77,10 @@
       "store": "Condesa",
       "uber": "online",
       "uber_express": null,
-      "rappi": "online",
-      "rappi_turbo": "online",
-      "didi": "online",
-      "offline_count": 0
+      "rappi": "offline",
+      "rappi_turbo": "offline",
+      "didi": "offline",
+      "offline_count": 3
     },
     {
       "store": "Copilco",
@@ -147,12 +147,12 @@
     },
     {
       "store": "La Turba",
-      "uber": "offline",
+      "uber": "online",
       "uber_express": null,
-      "rappi": "offline",
+      "rappi": "online",
       "rappi_turbo": null,
       "didi": "online",
-      "offline_count": 2
+      "offline_count": 0
     },
     {
       "store": "Las Aguilas",
