@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-06-24 20:10:32",
+  "stamp": "2026-06-24 20:22:11",
   "stores": [
     {
       "store": "Ajusco",
@@ -43,8 +43,8 @@
       "uber_express": null,
       "rappi": "online",
       "rappi_turbo": null,
-      "didi": "offline",
-      "offline_count": 2
+      "didi": "online",
+      "offline_count": 1
     },
     {
       "store": "Centenario",
@@ -120,12 +120,12 @@
     },
     {
       "store": "La Joya",
-      "uber": "online",
+      "uber": "offline",
       "uber_express": null,
       "rappi": "online",
       "rappi_turbo": "online",
       "didi": "online",
-      "offline_count": 0
+      "offline_count": 1
     },
     {
       "store": "La Turba",
@@ -237,12 +237,12 @@
     },
     {
       "store": "Plaza Copilco",
-      "uber": "offline",
+      "uber": "online",
       "uber_express": null,
       "rappi": "online",
       "rappi_turbo": "online",
       "didi": "online",
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "Plaza Esmeralda",
@@ -259,8 +259,8 @@
       "uber_express": null,
       "rappi": "online",
       "rappi_turbo": null,
-      "didi": "offline",
-      "offline_count": 1
+      "didi": "online",
+      "offline_count": 0
     },
     {
       "store": "San Fernando",
