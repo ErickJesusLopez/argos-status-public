@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-06-26 10:45:55",
+  "stamp": "2026-06-26 10:57:22",
   "stores": [
     {
       "store": "Ajusco",
@@ -95,10 +95,10 @@
       "store": "División del Norte",
       "uber": "online",
       "uber_express": null,
-      "rappi": "offline",
+      "rappi": "online",
       "rappi_turbo": "online",
       "didi": "online",
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "Express ⏰ (Matías Romero)",
@@ -365,10 +365,10 @@
       "store": "Tláhuac Casa",
       "uber": null,
       "uber_express": null,
-      "rappi": "offline",
+      "rappi": "online",
       "rappi_turbo": "online",
       "didi": null,
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "Xochimilco",
