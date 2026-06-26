@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-06-26 09:36:28",
+  "stamp": "2026-06-26 09:47:51",
   "stores": [
     {
       "store": "Ajusco",
@@ -228,12 +228,12 @@
     },
     {
       "store": "Nativitas",
-      "uber": "offline",
+      "uber": "online",
       "uber_express": null,
-      "rappi": "offline",
+      "rappi": "online",
       "rappi_turbo": null,
-      "didi": "offline",
-      "offline_count": 3
+      "didi": "online",
+      "offline_count": 0
     },
     {
       "store": "Olivar Del Conde",
@@ -365,10 +365,10 @@
       "store": "Tláhuac Casa",
       "uber": null,
       "uber_express": null,
-      "rappi": "online",
+      "rappi": "offline",
       "rappi_turbo": "offline",
       "didi": null,
-      "offline_count": 1
+      "offline_count": 2
     },
     {
       "store": "Xochimilco",
