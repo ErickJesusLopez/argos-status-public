@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-06-26 20:45:48",
+  "stamp": "2026-06-26 20:57:06",
   "stores": [
     {
       "store": "Ajusco",
@@ -338,10 +338,10 @@
       "store": "Tláhuac Casa",
       "uber": null,
       "uber_express": null,
-      "rappi": "offline",
+      "rappi": "online",
       "rappi_turbo": "online",
       "didi": null,
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "Xochimilco",
