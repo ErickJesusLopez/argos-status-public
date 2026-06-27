@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-06-26 21:42:26",
+  "stamp": "2026-06-26 21:53:44",
   "stores": [
     {
       "store": "Ajusco",
@@ -59,10 +59,10 @@
       "store": "Centro Santa Fe",
       "uber": null,
       "uber_express": null,
-      "rappi": "online",
+      "rappi": "offline",
       "rappi_turbo": null,
-      "didi": "online",
-      "offline_count": 0
+      "didi": "offline",
+      "offline_count": 2
     },
     {
       "store": "Condesa",
@@ -185,10 +185,10 @@
       "store": "Metro Insurgentes",
       "uber": null,
       "uber_express": null,
-      "rappi": "online",
+      "rappi": "offline",
       "rappi_turbo": "online",
-      "didi": "online",
-      "offline_count": 0
+      "didi": "offline",
+      "offline_count": 2
     },
     {
       "store": "Miramontes 1",
@@ -222,9 +222,9 @@
       "uber": null,
       "uber_express": null,
       "rappi": "online",
-      "rappi_turbo": "offline",
+      "rappi_turbo": "online",
       "didi": "online",
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "Parroquia",
@@ -240,9 +240,9 @@
       "uber": "offline",
       "uber_express": null,
       "rappi": "offline",
-      "rappi_turbo": "offline",
+      "rappi_turbo": "online",
       "didi": "offline",
-      "offline_count": 4
+      "offline_count": 3
     },
     {
       "store": "Plaza Esmeralda",
@@ -330,9 +330,9 @@
       "uber": null,
       "uber_express": null,
       "rappi": "online",
-      "rappi_turbo": "online",
+      "rappi_turbo": "offline",
       "didi": "online",
-      "offline_count": 0
+      "offline_count": 1
     },
     {
       "store": "Tláhuac Casa",
