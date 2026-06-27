@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-06-26 17:22:34",
+  "stamp": "2026-06-26 18:01:46",
   "stores": [
     {
       "store": "Ajusco",
@@ -165,12 +165,12 @@
     },
     {
       "store": "Manuel Cañas",
-      "uber": "offline",
+      "uber": "online",
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
-      "didi": "offline",
-      "offline_count": 2
+      "didi": "online",
+      "offline_count": 0
     },
     {
       "store": "Matías Romero",
