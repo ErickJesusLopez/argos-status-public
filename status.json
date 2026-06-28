@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-06-28 09:52:00",
+  "stamp": "2026-06-28 10:05:05",
   "stores": [
     {
       "store": "Ajusco",
@@ -79,8 +79,8 @@
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
-      "didi": "offline",
-      "offline_count": 1
+      "didi": "online",
+      "offline_count": 0
     },
     {
       "store": "División del Norte",
@@ -259,8 +259,8 @@
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
-      "didi": "offline",
-      "offline_count": 1
+      "didi": "online",
+      "offline_count": 0
     },
     {
       "store": "San Bernabé",
