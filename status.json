@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-06-28 01:46:39",
+  "stamp": "2026-06-28 02:52:19",
   "stores": [
     {
       "store": "Ajusco",
@@ -12,7 +12,7 @@
     },
     {
       "store": "Arenal",
-      "uber": "online",
+      "uber": null,
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
@@ -30,7 +30,7 @@
     },
     {
       "store": "Av. Toluca",
-      "uber": "online",
+      "uber": null,
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
@@ -48,7 +48,7 @@
     },
     {
       "store": "Centenario",
-      "uber": "online",
+      "uber": null,
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
@@ -75,7 +75,7 @@
     },
     {
       "store": "Copilco",
-      "uber": "online",
+      "uber": null,
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
@@ -84,48 +84,21 @@
     },
     {
       "store": "División del Norte",
-      "uber": "online",
+      "uber": null,
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
       "didi": "offline",
       "offline_count": 1
-    },
-    {
-      "store": "Express ⏰ (Metro Insurgentes)",
-      "uber": "online",
-      "uber_express": null,
-      "rappi": null,
-      "rappi_turbo": null,
-      "didi": null,
-      "offline_count": 0
-    },
-    {
-      "store": "Express ⏰ (Metro Tacubaya)",
-      "uber": "online",
-      "uber_express": null,
-      "rappi": null,
-      "rappi_turbo": null,
-      "didi": null,
-      "offline_count": 0
     },
     {
       "store": "Iman",
-      "uber": "online",
+      "uber": null,
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
       "didi": "offline",
       "offline_count": 1
-    },
-    {
-      "store": "Insurgentes",
-      "uber": "online",
-      "uber_express": null,
-      "rappi": null,
-      "rappi_turbo": null,
-      "didi": null,
-      "offline_count": 0
     },
     {
       "store": "Insurgentes Sur",
@@ -156,7 +129,7 @@
     },
     {
       "store": "Las Aguilas",
-      "uber": "online",
+      "uber": null,
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
@@ -165,7 +138,7 @@
     },
     {
       "store": "Luis Cabrera",
-      "uber": "online",
+      "uber": null,
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
@@ -174,7 +147,7 @@
     },
     {
       "store": "Manuel Cañas",
-      "uber": "online",
+      "uber": null,
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
@@ -237,7 +210,7 @@
     },
     {
       "store": "Parroquia",
-      "uber": "online",
+      "uber": null,
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
@@ -246,7 +219,7 @@
     },
     {
       "store": "Plaza Copilco",
-      "uber": "online",
+      "uber": null,
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
@@ -264,7 +237,7 @@
     },
     {
       "store": "San Bernabé",
-      "uber": "online",
+      "uber": null,
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
@@ -273,21 +246,12 @@
     },
     {
       "store": "San Fernando",
-      "uber": "online",
+      "uber": null,
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
       "didi": "offline",
       "offline_count": 1
-    },
-    {
-      "store": "San Isidro",
-      "uber": "online",
-      "uber_express": null,
-      "rappi": null,
-      "rappi_turbo": null,
-      "didi": null,
-      "offline_count": 0
     },
     {
       "store": "San Pedro Mártir",
@@ -300,7 +264,7 @@
     },
     {
       "store": "Santa Ana",
-      "uber": "online",
+      "uber": null,
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
@@ -317,15 +281,6 @@
       "offline_count": 1
     },
     {
-      "store": "Santa Fe 1",
-      "uber": "online",
-      "uber_express": null,
-      "rappi": null,
-      "rappi_turbo": null,
-      "didi": null,
-      "offline_count": 0
-    },
-    {
       "store": "Tacubaya",
       "uber": null,
       "uber_express": null,
@@ -340,12 +295,12 @@
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
-      "didi": "online",
-      "offline_count": 0
+      "didi": "offline",
+      "offline_count": 1
     },
     {
       "store": "Tlahuac FG",
-      "uber": "online",
+      "uber": null,
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
