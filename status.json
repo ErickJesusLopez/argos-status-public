@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-06-27 19:05:18",
+  "stamp": "2026-06-27 19:18:28",
   "stores": [
     {
       "store": "Ajusco",
@@ -273,12 +273,12 @@
     },
     {
       "store": "San Fernando",
-      "uber": "offline",
+      "uber": "online",
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
       "didi": "online",
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "San Isidro",
