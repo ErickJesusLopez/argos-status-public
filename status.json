@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-06-29 09:59:24",
+  "stamp": "2026-06-29 10:12:30",
   "stores": [
     {
       "store": "Ajusco",
@@ -90,6 +90,15 @@
       "rappi_turbo": null,
       "didi": "online",
       "offline_count": 0
+    },
+    {
+      "store": "Express ⏰ (Matías Romero)",
+      "uber": "offline",
+      "uber_express": null,
+      "rappi": null,
+      "rappi_turbo": null,
+      "didi": null,
+      "offline_count": 1
     },
     {
       "store": "Express ⏰ (Metro Insurgentes)",
@@ -198,6 +207,15 @@
       "rappi_turbo": null,
       "didi": "online",
       "offline_count": 0
+    },
+    {
+      "store": "Metro Tacubaya",
+      "uber": "offline",
+      "uber_express": null,
+      "rappi": null,
+      "rappi_turbo": null,
+      "didi": null,
+      "offline_count": 1
     },
     {
       "store": "Miramontes 1",
@@ -313,8 +331,8 @@
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
-      "didi": "offline",
-      "offline_count": 1
+      "didi": "online",
+      "offline_count": 0
     },
     {
       "store": "Santa Fe",
