@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-06-29 10:25:39",
+  "stamp": "2026-06-29 10:38:54",
   "stores": [
     {
       "store": "Ajusco",
@@ -93,12 +93,12 @@
     },
     {
       "store": "Express ⏰ (Matías Romero)",
-      "uber": "offline",
+      "uber": "online",
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
       "didi": null,
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "Express ⏰ (Metro Insurgentes)",
