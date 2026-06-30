@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-06-30 09:55:35",
+  "stamp": "2026-06-30 10:08:53",
   "stores": [
     {
       "store": "Ajusco",
@@ -7,8 +7,8 @@
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
-      "didi": "offline",
-      "offline_count": 1
+      "didi": "online",
+      "offline_count": 0
     },
     {
       "store": "Arenal",
@@ -151,8 +151,8 @@
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
-      "didi": "offline",
-      "offline_count": 1
+      "didi": "online",
+      "offline_count": 0
     },
     {
       "store": "La Turba",
@@ -169,8 +169,8 @@
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
-      "didi": "offline",
-      "offline_count": 1
+      "didi": "online",
+      "offline_count": 0
     },
     {
       "store": "Luis Cabrera",
@@ -277,8 +277,8 @@
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
-      "didi": "offline",
-      "offline_count": 1
+      "didi": "online",
+      "offline_count": 0
     },
     {
       "store": "Plaza Esmeralda",
