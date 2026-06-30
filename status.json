@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-06-29 21:48:05",
+  "stamp": "2026-06-29 22:53:57",
   "stores": [
     {
       "store": "Ajusco",
@@ -223,8 +223,8 @@
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
-      "didi": "online",
-      "offline_count": 0
+      "didi": "offline",
+      "offline_count": 1
     },
     {
       "store": "Miramontes 2",
