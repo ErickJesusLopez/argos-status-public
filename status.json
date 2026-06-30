@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-06-30 17:08:28",
+  "stamp": "2026-06-30 17:21:51",
   "stores": [
     {
       "store": "Ajusco",
@@ -75,12 +75,12 @@
     },
     {
       "store": "Copilco",
-      "uber": "offline",
+      "uber": "online",
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
       "didi": "online",
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "División del Norte",
@@ -165,30 +165,30 @@
     },
     {
       "store": "Las Aguilas",
-      "uber": "offline",
-      "uber_express": null,
-      "rappi": null,
-      "rappi_turbo": null,
-      "didi": "online",
-      "offline_count": 1
-    },
-    {
-      "store": "Luis Cabrera",
-      "uber": "offline",
-      "uber_express": null,
-      "rappi": null,
-      "rappi_turbo": null,
-      "didi": "online",
-      "offline_count": 1
-    },
-    {
-      "store": "Manuel Cañas",
       "uber": "online",
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
       "didi": "online",
       "offline_count": 0
+    },
+    {
+      "store": "Luis Cabrera",
+      "uber": "online",
+      "uber_express": null,
+      "rappi": null,
+      "rappi_turbo": null,
+      "didi": "online",
+      "offline_count": 0
+    },
+    {
+      "store": "Manuel Cañas",
+      "uber": "offline",
+      "uber_express": null,
+      "rappi": null,
+      "rappi_turbo": null,
+      "didi": "online",
+      "offline_count": 1
     },
     {
       "store": "Matías Romero",
@@ -201,30 +201,30 @@
     },
     {
       "store": "Metro Insurgentes",
-      "uber": null,
-      "uber_express": null,
-      "rappi": null,
-      "rappi_turbo": null,
-      "didi": "online",
-      "offline_count": 0
-    },
-    {
-      "store": "Metro Tacubaya",
       "uber": "offline",
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
-      "didi": null,
+      "didi": "online",
       "offline_count": 1
     },
     {
+      "store": "Metro Tacubaya",
+      "uber": "online",
+      "uber_express": null,
+      "rappi": null,
+      "rappi_turbo": null,
+      "didi": null,
+      "offline_count": 0
+    },
+    {
       "store": "Miramontes 1",
-      "uber": null,
+      "uber": "offline",
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
       "didi": "online",
-      "offline_count": 0
+      "offline_count": 1
     },
     {
       "store": "Miramontes 2",
