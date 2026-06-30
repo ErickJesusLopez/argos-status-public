@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-06-30 09:28:25",
+  "stamp": "2026-06-30 09:42:20",
   "stores": [
     {
       "store": "Ajusco",
@@ -318,11 +318,11 @@
     },
     {
       "store": "San Pedro Mártir",
-      "uber": "online",
+      "uber": "offline",
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
-      "didi": "offline",
+      "didi": "online",
       "offline_count": 1
     },
     {
@@ -363,12 +363,12 @@
     },
     {
       "store": "Taxqueña",
-      "uber": null,
+      "uber": "offline",
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
       "didi": "offline",
-      "offline_count": 1
+      "offline_count": 2
     },
     {
       "store": "Tlahuac FG",
