@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-06-30 18:44:39",
+  "stamp": "2026-06-30 18:56:05",
   "stores": [
     {
       "store": "Ajusco",
@@ -87,9 +87,9 @@
       "uber": "online",
       "uber_express": null,
       "rappi": "online",
-      "rappi_turbo": "offline",
+      "rappi_turbo": "online",
       "didi": "online",
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "Express ⏰ (Matías Romero)",
@@ -165,12 +165,12 @@
     },
     {
       "store": "Las Aguilas",
-      "uber": "online",
+      "uber": "offline",
       "uber_express": null,
       "rappi": "online",
       "rappi_turbo": "online",
       "didi": "online",
-      "offline_count": 0
+      "offline_count": 1
     },
     {
       "store": "Luis Cabrera",
@@ -246,12 +246,12 @@
     },
     {
       "store": "Olivar Del Conde",
-      "uber": "offline",
+      "uber": "online",
       "uber_express": null,
       "rappi": "online",
       "rappi_turbo": "offline",
       "didi": "online",
-      "offline_count": 2
+      "offline_count": 1
     },
     {
       "store": "Parroquia",
@@ -285,9 +285,9 @@
       "uber": null,
       "uber_express": null,
       "rappi": "online",
-      "rappi_turbo": "offline",
+      "rappi_turbo": "online",
       "didi": "online",
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "San Bernabé",
@@ -384,9 +384,9 @@
       "uber": null,
       "uber_express": null,
       "rappi": "online",
-      "rappi_turbo": "online",
+      "rappi_turbo": "offline",
       "didi": null,
-      "offline_count": 0
+      "offline_count": 1
     },
     {
       "store": "Xochimilco",
