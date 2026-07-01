@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-06-30 17:47:04",
+  "stamp": "2026-06-30 17:58:33",
   "stores": [
     {
       "store": "Ajusco",
@@ -201,12 +201,12 @@
     },
     {
       "store": "Metro Insurgentes",
-      "uber": "offline",
+      "uber": "online",
       "uber_express": null,
       "rappi": "online",
       "rappi_turbo": "online",
       "didi": "online",
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "Metro Tacubaya",
@@ -276,9 +276,9 @@
       "uber": "online",
       "uber_express": null,
       "rappi": "online",
-      "rappi_turbo": "offline",
+      "rappi_turbo": "online",
       "didi": "online",
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "Plaza Esmeralda",
@@ -372,12 +372,12 @@
     },
     {
       "store": "Tlahuac FG",
-      "uber": "online",
+      "uber": "offline",
       "uber_express": null,
       "rappi": "online",
       "rappi_turbo": "online",
       "didi": "online",
-      "offline_count": 0
+      "offline_count": 1
     },
     {
       "store": "Tláhuac Casa",
