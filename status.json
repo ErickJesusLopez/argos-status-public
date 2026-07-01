@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-06-30 20:48:22",
+  "stamp": "2026-06-30 21:01:41",
   "stores": [
     {
       "store": "Ajusco",
@@ -92,6 +92,15 @@
       "offline_count": 0
     },
     {
+      "store": "Express ⏰ (Division del Norte)",
+      "uber": "offline",
+      "uber_express": null,
+      "rappi": null,
+      "rappi_turbo": null,
+      "didi": null,
+      "offline_count": 1
+    },
+    {
       "store": "Express ⏰ (Matías Romero)",
       "uber": "online",
       "uber_express": null,
@@ -147,21 +156,21 @@
     },
     {
       "store": "La Joya",
-      "uber": "offline",
-      "uber_express": null,
-      "rappi": null,
-      "rappi_turbo": null,
-      "didi": "online",
-      "offline_count": 1
-    },
-    {
-      "store": "La Turba",
       "uber": "online",
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
       "didi": "online",
       "offline_count": 0
+    },
+    {
+      "store": "La Turba",
+      "uber": "offline",
+      "uber_express": null,
+      "rappi": null,
+      "rappi_turbo": null,
+      "didi": "online",
+      "offline_count": 1
     },
     {
       "store": "Las Aguilas",
@@ -183,12 +192,12 @@
     },
     {
       "store": "Manuel Cañas",
-      "uber": "offline",
+      "uber": "online",
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
       "didi": "online",
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "Matías Romero",
