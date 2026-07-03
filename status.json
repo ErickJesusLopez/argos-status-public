@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-07-03 09:33:29",
+  "stamp": "2026-07-03 09:46:33",
   "stores": [
     {
       "store": "Ajusco",
@@ -192,12 +192,12 @@
     },
     {
       "store": "Metro Tacubaya",
-      "uber": "offline",
+      "uber": "online",
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
       "didi": null,
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "Miramontes 1",
@@ -313,8 +313,8 @@
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
-      "didi": "offline",
-      "offline_count": 1
+      "didi": "online",
+      "offline_count": 0
     },
     {
       "store": "Taxqueña",
@@ -327,12 +327,12 @@
     },
     {
       "store": "Tlahuac FG",
-      "uber": "offline",
+      "uber": "online",
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
       "didi": "online",
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "Xochimilco",
