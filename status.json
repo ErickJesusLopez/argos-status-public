@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-07-04 10:00:48",
+  "stamp": "2026-07-04 10:13:53",
   "stores": [
     {
       "store": "Ajusco",
@@ -93,6 +93,15 @@
     },
     {
       "store": "Express ⏰ (Division del Norte)",
+      "uber": "online",
+      "uber_express": null,
+      "rappi": null,
+      "rappi_turbo": null,
+      "didi": null,
+      "offline_count": 0
+    },
+    {
+      "store": "Express ⏰ (Metro Insurgentes)",
       "uber": "offline",
       "uber_express": null,
       "rappi": null,
@@ -277,8 +286,8 @@
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
-      "didi": "offline",
-      "offline_count": 2
+      "didi": "online",
+      "offline_count": 1
     },
     {
       "store": "Santa Fe",
@@ -286,8 +295,8 @@
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
-      "didi": "online",
-      "offline_count": 0
+      "didi": "offline",
+      "offline_count": 1
     },
     {
       "store": "Santa Fe 1",
