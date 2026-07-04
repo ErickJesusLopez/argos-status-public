@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-07-04 15:02:24",
+  "stamp": "2026-07-04 15:15:36",
   "stores": [
     {
       "store": "Ajusco",
@@ -120,12 +120,12 @@
     },
     {
       "store": "Insurgentes",
-      "uber": "offline",
+      "uber": "online",
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
       "didi": null,
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "Insurgentes Sur",
@@ -138,12 +138,12 @@
     },
     {
       "store": "La Joya",
-      "uber": "offline",
+      "uber": "online",
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
       "didi": "online",
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "La Turba",
