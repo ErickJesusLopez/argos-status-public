@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-07-04 10:13:53",
+  "stamp": "2026-07-04 10:27:00",
   "stores": [
     {
       "store": "Ajusco",
@@ -255,21 +255,21 @@
     },
     {
       "store": "San Bernabé",
+      "uber": "online",
+      "uber_express": null,
+      "rappi": null,
+      "rappi_turbo": null,
+      "didi": "online",
+      "offline_count": 0
+    },
+    {
+      "store": "San Fernando",
       "uber": "offline",
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
       "didi": "offline",
       "offline_count": 2
-    },
-    {
-      "store": "San Fernando",
-      "uber": "online",
-      "uber_express": null,
-      "rappi": null,
-      "rappi_turbo": null,
-      "didi": "offline",
-      "offline_count": 1
     },
     {
       "store": "San Pedro Mártir",
@@ -282,12 +282,12 @@
     },
     {
       "store": "Santa Ana",
-      "uber": "offline",
+      "uber": "online",
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
       "didi": "online",
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "Santa Fe",
@@ -300,12 +300,12 @@
     },
     {
       "store": "Santa Fe 1",
-      "uber": "online",
+      "uber": "offline",
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
       "didi": null,
-      "offline_count": 0
+      "offline_count": 1
     },
     {
       "store": "Tacubaya",
