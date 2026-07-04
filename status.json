@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-07-04 09:34:37",
+  "stamp": "2026-07-04 09:47:42",
   "stores": [
     {
       "store": "Ajusco",
@@ -120,12 +120,12 @@
     },
     {
       "store": "La Joya",
-      "uber": null,
+      "uber": "offline",
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
       "didi": "online",
-      "offline_count": 0
+      "offline_count": 1
     },
     {
       "store": "La Turba",
@@ -255,12 +255,12 @@
     },
     {
       "store": "San Fernando",
-      "uber": "offline",
+      "uber": "online",
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
       "didi": "offline",
-      "offline_count": 2
+      "offline_count": 1
     },
     {
       "store": "San Pedro Mártir",
