@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-07-05 13:15:09",
+  "stamp": "2026-07-05 13:37:41",
   "stores": [
     {
       "store": "Ajusco",
@@ -245,6 +245,15 @@
       "offline_count": 0
     },
     {
+      "store": "Periferico Oriente",
+      "uber": "offline",
+      "uber_express": null,
+      "rappi": null,
+      "rappi_turbo": null,
+      "didi": null,
+      "offline_count": 1
+    },
+    {
       "store": "Plaza Copilco",
       "uber": null,
       "uber_express": null,
@@ -356,10 +365,10 @@
       "store": "Tláhuac Casa",
       "uber": null,
       "uber_express": null,
-      "rappi": "online",
+      "rappi": "offline",
       "rappi_turbo": "online",
       "didi": null,
-      "offline_count": 0
+      "offline_count": 1
     },
     {
       "store": "Xochimilco",
