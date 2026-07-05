@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-07-05 15:52:48",
+  "stamp": "2026-07-05 16:05:52",
   "stores": [
     {
       "store": "Ajusco",
@@ -30,12 +30,12 @@
     },
     {
       "store": "Av. Toluca",
-      "uber": null,
+      "uber": "offline",
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
       "didi": "online",
-      "offline_count": 0
+      "offline_count": 1
     },
     {
       "store": "Avenida México",
@@ -84,12 +84,12 @@
     },
     {
       "store": "División del Norte",
-      "uber": "online",
+      "uber": "offline",
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
       "didi": "online",
-      "offline_count": 0
+      "offline_count": 1
     },
     {
       "store": "Express ⏰ (Division del Norte)",
@@ -200,6 +200,15 @@
       "offline_count": 0
     },
     {
+      "store": "Metro Tacubaya",
+      "uber": "offline",
+      "uber_express": null,
+      "rappi": null,
+      "rappi_turbo": null,
+      "didi": null,
+      "offline_count": 1
+    },
+    {
       "store": "Miramontes 1",
       "uber": null,
       "uber_express": null,
@@ -246,12 +255,12 @@
     },
     {
       "store": "Periferico Oriente",
-      "uber": "offline",
+      "uber": "online",
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
       "didi": null,
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "Plaza Copilco",
@@ -282,12 +291,12 @@
     },
     {
       "store": "San Fernando",
-      "uber": "offline",
+      "uber": "online",
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
       "didi": "online",
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "San Pedro Mártir",
@@ -300,12 +309,12 @@
     },
     {
       "store": "Santa Ana",
-      "uber": "offline",
+      "uber": "online",
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
       "didi": "online",
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "Santa Fe",
