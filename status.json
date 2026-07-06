@@ -1,14 +1,14 @@
 {
-  "stamp": "2026-07-05 18:08:12",
+  "stamp": "2026-07-05 18:19:30",
   "stores": [
     {
       "store": "Ajusco",
-      "uber": "offline",
+      "uber": "online",
       "uber_express": null,
       "rappi": "online",
       "rappi_turbo": "online",
       "didi": "online",
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "Arenal",
@@ -66,15 +66,6 @@
     },
     {
       "store": "Condesa",
-      "uber": null,
-      "uber_express": null,
-      "rappi": "online",
-      "rappi_turbo": "online",
-      "didi": "online",
-      "offline_count": 0
-    },
-    {
-      "store": "Copilco",
       "uber": "offline",
       "uber_express": null,
       "rappi": "online",
@@ -83,12 +74,21 @@
       "offline_count": 1
     },
     {
-      "store": "División del Norte",
+      "store": "Copilco",
       "uber": "online",
       "uber_express": null,
       "rappi": "online",
       "rappi_turbo": "online",
-      "didi": "offline",
+      "didi": "online",
+      "offline_count": 0
+    },
+    {
+      "store": "División del Norte",
+      "uber": "online",
+      "uber_express": null,
+      "rappi": "online",
+      "rappi_turbo": "offline",
+      "didi": "online",
       "offline_count": 1
     },
     {
@@ -133,8 +133,8 @@
       "uber_express": null,
       "rappi": "online",
       "rappi_turbo": "online",
-      "didi": "offline",
-      "offline_count": 1
+      "didi": "online",
+      "offline_count": 0
     },
     {
       "store": "La Joya",
@@ -384,9 +384,9 @@
       "uber": "online",
       "uber_express": null,
       "rappi": "online",
-      "rappi_turbo": "offline",
+      "rappi_turbo": "online",
       "didi": "online",
-      "offline_count": 1
+      "offline_count": 0
     }
   ]
 }
