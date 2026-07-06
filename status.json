@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-07-05 22:53:04",
+  "stamp": "2026-07-05 23:06:10",
   "stores": [
     {
       "store": "Ajusco",
@@ -205,8 +205,8 @@
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
-      "didi": "online",
-      "offline_count": 0
+      "didi": "offline",
+      "offline_count": 1
     },
     {
       "store": "Matías Romero",
@@ -250,8 +250,8 @@
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
-      "didi": "online",
-      "offline_count": 0
+      "didi": "offline",
+      "offline_count": 1
     },
     {
       "store": "Nativitas",
@@ -340,8 +340,8 @@
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
-      "didi": "online",
-      "offline_count": 0
+      "didi": "offline",
+      "offline_count": 1
     },
     {
       "store": "Santa Fe",
@@ -381,11 +381,11 @@
     },
     {
       "store": "Tlahuac FG",
-      "uber": "offline",
+      "uber": "online",
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
-      "didi": "online",
+      "didi": "offline",
       "offline_count": 1
     },
     {
