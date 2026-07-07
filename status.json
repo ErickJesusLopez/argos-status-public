@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-07-06 18:29:11",
+  "stamp": "2026-07-06 18:52:05",
   "stores": [
     {
       "store": "Ajusco",
@@ -39,12 +39,12 @@
     },
     {
       "store": "Avenida México",
-      "uber": "offline",
+      "uber": "online",
       "uber_express": null,
-      "rappi": "offline",
+      "rappi": "online",
       "rappi_turbo": null,
-      "didi": "offline",
-      "offline_count": 3
+      "didi": "online",
+      "offline_count": 0
     },
     {
       "store": "Centenario",
