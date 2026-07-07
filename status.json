@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-07-07 01:44:07",
+  "stamp": "2026-07-07 02:50:15",
   "stores": [
     {
       "store": "Ajusco",
@@ -39,7 +39,7 @@
     },
     {
       "store": "Avenida México",
-      "uber": "online",
+      "uber": null,
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
@@ -84,7 +84,7 @@
     },
     {
       "store": "División del Norte",
-      "uber": "online",
+      "uber": null,
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
@@ -99,15 +99,6 @@
       "rappi_turbo": null,
       "didi": "offline",
       "offline_count": 1
-    },
-    {
-      "store": "Insurgentes",
-      "uber": "online",
-      "uber_express": null,
-      "rappi": null,
-      "rappi_turbo": null,
-      "didi": null,
-      "offline_count": 0
     },
     {
       "store": "Insurgentes Sur",
@@ -304,8 +295,8 @@
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
-      "didi": "online",
-      "offline_count": 0
+      "didi": "offline",
+      "offline_count": 1
     },
     {
       "store": "Tlahuac FG",
@@ -318,7 +309,7 @@
     },
     {
       "store": "Xochimilco",
-      "uber": "online",
+      "uber": null,
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
