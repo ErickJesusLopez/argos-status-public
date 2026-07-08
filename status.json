@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-07-08 09:02:27",
+  "stamp": "2026-07-08 09:13:56",
   "stores": [
     {
       "store": "Ajusco",
@@ -295,8 +295,8 @@
       "uber_express": null,
       "rappi": "offline",
       "rappi_turbo": "offline",
-      "didi": "offline",
-      "offline_count": 4
+      "didi": "online",
+      "offline_count": 3
     },
     {
       "store": "Santa Fe",
