@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-07-08 17:26:47",
+  "stamp": "2026-07-08 18:12:35",
   "stores": [
     {
       "store": "Ajusco",
@@ -12,12 +12,12 @@
     },
     {
       "store": "Arenal",
-      "uber": "offline",
+      "uber": "online",
       "uber_express": null,
       "rappi": "online",
       "rappi_turbo": "online",
       "didi": "online",
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "Asia",
@@ -66,12 +66,12 @@
     },
     {
       "store": "Comercial Santa Fe",
-      "uber": "offline",
+      "uber": "online",
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
       "didi": null,
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "Condesa",
