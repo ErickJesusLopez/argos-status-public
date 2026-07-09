@@ -1,14 +1,14 @@
 {
-  "stamp": "2026-07-09 12:26:41",
+  "stamp": "2026-07-09 12:38:07",
   "stores": [
     {
       "store": "Ajusco",
       "uber": null,
       "uber_express": null,
       "rappi": "online",
-      "rappi_turbo": "offline",
+      "rappi_turbo": "online",
       "didi": "online",
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "Arenal",
@@ -24,9 +24,9 @@
       "uber": null,
       "uber_express": null,
       "rappi": "online",
-      "rappi_turbo": "offline",
+      "rappi_turbo": "online",
       "didi": "online",
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "Av. Toluca",
@@ -96,9 +96,9 @@
       "uber": null,
       "uber_express": null,
       "rappi": "online",
-      "rappi_turbo": "offline",
+      "rappi_turbo": "online",
       "didi": "online",
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "Express ⏰ (Division del Norte)",
@@ -114,9 +114,9 @@
       "uber": null,
       "uber_express": null,
       "rappi": "online",
-      "rappi_turbo": "offline",
+      "rappi_turbo": "online",
       "didi": "online",
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "Insurgentes",
