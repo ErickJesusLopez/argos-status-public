@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-07-11 19:29:25",
+  "stamp": "2026-07-11 19:45:18",
   "stores": [
     {
       "store": "Ajusco",
@@ -14,7 +14,7 @@
       "store": "Arenal",
       "uber": null,
       "uber_express": null,
-      "rappi": null,
+      "rappi": "online",
       "rappi_turbo": "online",
       "didi": null,
       "offline_count": 0
@@ -23,7 +23,7 @@
       "store": "Asia",
       "uber": null,
       "uber_express": null,
-      "rappi": null,
+      "rappi": "online",
       "rappi_turbo": "online",
       "didi": null,
       "offline_count": 0
@@ -50,7 +50,7 @@
       "store": "Centenario",
       "uber": null,
       "uber_express": null,
-      "rappi": null,
+      "rappi": "online",
       "rappi_turbo": "offline",
       "didi": null,
       "offline_count": 1
@@ -68,7 +68,7 @@
       "store": "Condesa",
       "uber": null,
       "uber_express": null,
-      "rappi": null,
+      "rappi": "online",
       "rappi_turbo": "online",
       "didi": null,
       "offline_count": 0
@@ -77,7 +77,7 @@
       "store": "Copilco",
       "uber": null,
       "uber_express": null,
-      "rappi": null,
+      "rappi": "online",
       "rappi_turbo": "online",
       "didi": null,
       "offline_count": 0
@@ -114,7 +114,16 @@
       "uber": null,
       "uber_express": null,
       "rappi": "online",
-      "rappi_turbo": "online",
+      "rappi_turbo": "offline",
+      "didi": null,
+      "offline_count": 1
+    },
+    {
+      "store": "La Turba",
+      "uber": null,
+      "uber_express": null,
+      "rappi": "online",
+      "rappi_turbo": null,
       "didi": null,
       "offline_count": 0
     },
@@ -182,10 +191,19 @@
       "offline_count": 0
     },
     {
+      "store": "Nativitas",
+      "uber": null,
+      "uber_express": null,
+      "rappi": "online",
+      "rappi_turbo": null,
+      "didi": null,
+      "offline_count": 0
+    },
+    {
       "store": "Olivar Del Conde",
       "uber": null,
       "uber_express": null,
-      "rappi": null,
+      "rappi": "online",
       "rappi_turbo": "online",
       "didi": null,
       "offline_count": 0
@@ -203,7 +221,7 @@
       "store": "Plaza Copilco",
       "uber": null,
       "uber_express": null,
-      "rappi": null,
+      "rappi": "online",
       "rappi_turbo": "online",
       "didi": null,
       "offline_count": 0
@@ -212,8 +230,17 @@
       "store": "Plaza Esmeralda",
       "uber": null,
       "uber_express": null,
-      "rappi": null,
+      "rappi": "online",
       "rappi_turbo": "online",
+      "didi": null,
+      "offline_count": 0
+    },
+    {
+      "store": "San Bernabé",
+      "uber": null,
+      "uber_express": null,
+      "rappi": "online",
+      "rappi_turbo": null,
       "didi": null,
       "offline_count": 0
     },
@@ -227,10 +254,28 @@
       "offline_count": 0
     },
     {
+      "store": "San Isidro",
+      "uber": null,
+      "uber_express": null,
+      "rappi": "online",
+      "rappi_turbo": null,
+      "didi": null,
+      "offline_count": 0
+    },
+    {
+      "store": "San Pedro Mártir",
+      "uber": null,
+      "uber_express": null,
+      "rappi": "online",
+      "rappi_turbo": null,
+      "didi": null,
+      "offline_count": 0
+    },
+    {
       "store": "Santa Ana",
       "uber": null,
       "uber_express": null,
-      "rappi": null,
+      "rappi": "online",
       "rappi_turbo": "online",
       "didi": null,
       "offline_count": 0
@@ -257,7 +302,7 @@
       "store": "Taxqueña",
       "uber": null,
       "uber_express": null,
-      "rappi": null,
+      "rappi": "online",
       "rappi_turbo": "online",
       "didi": null,
       "offline_count": 0
@@ -266,7 +311,7 @@
       "store": "Tlahuac FG",
       "uber": null,
       "uber_express": null,
-      "rappi": null,
+      "rappi": "online",
       "rappi_turbo": "offline",
       "didi": null,
       "offline_count": 1
@@ -275,7 +320,7 @@
       "store": "Tláhuac Casa",
       "uber": null,
       "uber_express": null,
-      "rappi": null,
+      "rappi": "online",
       "rappi_turbo": "online",
       "didi": null,
       "offline_count": 0
