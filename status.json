@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-07-12 10:01:52",
+  "stamp": "2026-07-12 10:15:08",
   "stores": [
     {
       "store": "Ajusco",
@@ -86,10 +86,10 @@
       "store": "División del Norte",
       "uber": null,
       "uber_express": null,
-      "rappi": "offline",
-      "rappi_turbo": "offline",
+      "rappi": "online",
+      "rappi_turbo": "online",
       "didi": null,
-      "offline_count": 2
+      "offline_count": 0
     },
     {
       "store": "Iman",
