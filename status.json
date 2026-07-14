@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-07-14 10:00:25",
+  "stamp": "2026-07-14 10:13:33",
   "stores": [
     {
       "store": "Ajusco",
@@ -84,7 +84,7 @@
     },
     {
       "store": "División del Norte",
-      "uber": "online",
+      "uber": null,
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
@@ -219,7 +219,7 @@
     },
     {
       "store": "Plaza Copilco",
-      "uber": "online",
+      "uber": null,
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
@@ -228,7 +228,7 @@
     },
     {
       "store": "Plaza Esmeralda",
-      "uber": "online",
+      "uber": null,
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
@@ -250,21 +250,21 @@
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
-      "didi": "offline",
-      "offline_count": 1
+      "didi": "online",
+      "offline_count": 0
     },
     {
       "store": "San Pedro Mártir",
-      "uber": "offline",
+      "uber": null,
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
-      "didi": "offline",
-      "offline_count": 2
+      "didi": "online",
+      "offline_count": 0
     },
     {
       "store": "Santa Ana",
-      "uber": "online",
+      "uber": null,
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
@@ -291,7 +291,7 @@
     },
     {
       "store": "Taxqueña",
-      "uber": "online",
+      "uber": null,
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
