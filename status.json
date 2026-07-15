@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-07-15 15:26:53",
+  "stamp": "2026-07-15 15:38:19",
   "stores": [
     {
       "store": "Ajusco",
@@ -111,12 +111,12 @@
     },
     {
       "store": "Insurgentes",
-      "uber": "offline",
+      "uber": "online",
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
       "didi": null,
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "Insurgentes Sur",
@@ -192,12 +192,12 @@
     },
     {
       "store": "Metro Tacubaya",
-      "uber": "offline",
+      "uber": "online",
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
       "didi": null,
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "Miramontes 1",
