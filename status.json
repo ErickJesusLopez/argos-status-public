@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-07-15 12:10:52",
+  "stamp": "2026-07-15 12:22:24",
   "stores": [
     {
       "store": "Ajusco",
@@ -50,10 +50,10 @@
       "store": "Centenario",
       "uber": null,
       "uber_express": null,
-      "rappi": "online",
+      "rappi": "offline",
       "rappi_turbo": "online",
       "didi": "online",
-      "offline_count": 0
+      "offline_count": 1
     },
     {
       "store": "Centro Santa Fe",
@@ -309,12 +309,12 @@
     },
     {
       "store": "Tlahuac FG",
-      "uber": "offline",
+      "uber": "online",
       "uber_express": null,
       "rappi": "online",
       "rappi_turbo": "online",
       "didi": "online",
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "Tláhuac Casa",
