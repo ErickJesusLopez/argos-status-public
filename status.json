@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-07-15 21:12:24",
+  "stamp": "2026-07-15 21:23:54",
   "stores": [
     {
       "store": "Ajusco",
@@ -50,10 +50,10 @@
       "store": "Centenario",
       "uber": null,
       "uber_express": null,
-      "rappi": "offline",
+      "rappi": "online",
       "rappi_turbo": "online",
       "didi": "online",
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "Centro Santa Fe",
@@ -255,12 +255,12 @@
     },
     {
       "store": "Plaza Copilco",
-      "uber": "online",
+      "uber": "offline",
       "uber_express": null,
-      "rappi": "online",
-      "rappi_turbo": "online",
-      "didi": "online",
-      "offline_count": 0
+      "rappi": "offline",
+      "rappi_turbo": "offline",
+      "didi": "offline",
+      "offline_count": 4
     },
     {
       "store": "Plaza Esmeralda",
