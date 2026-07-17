@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-07-16 18:52:22",
+  "stamp": "2026-07-16 19:15:28",
   "stores": [
     {
       "store": "Ajusco",
@@ -228,12 +228,12 @@
     },
     {
       "store": "Periferico Oriente",
-      "uber": "offline",
+      "uber": "online",
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
       "didi": null,
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "Plaza Copilco",
