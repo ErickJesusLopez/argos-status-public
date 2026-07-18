@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-07-18 17:07:37",
+  "stamp": "2026-07-18 17:19:28",
   "stores": [
     {
       "store": "Ajusco",
@@ -75,12 +75,12 @@
     },
     {
       "store": "Copilco",
-      "uber": "offline",
+      "uber": "online",
       "uber_express": null,
       "rappi": "online",
       "rappi_turbo": "online",
       "didi": "online",
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "División del Norte",
@@ -114,9 +114,9 @@
       "uber": null,
       "uber_express": null,
       "rappi": "online",
-      "rappi_turbo": "offline",
+      "rappi_turbo": "online",
       "didi": "online",
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "Insurgentes Sur",
@@ -156,12 +156,12 @@
     },
     {
       "store": "Luis Cabrera",
-      "uber": "offline",
+      "uber": "online",
       "uber_express": null,
       "rappi": "online",
       "rappi_turbo": null,
       "didi": "online",
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "Manuel Cañas",
@@ -192,12 +192,12 @@
     },
     {
       "store": "Miramontes 1",
-      "uber": "offline",
+      "uber": "online",
       "uber_express": null,
       "rappi": "online",
       "rappi_turbo": "online",
       "didi": "online",
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "Miramontes 2",
@@ -246,12 +246,12 @@
     },
     {
       "store": "Plaza Copilco",
-      "uber": "online",
+      "uber": "offline",
       "uber_express": null,
       "rappi": "online",
       "rappi_turbo": "online",
       "didi": "online",
-      "offline_count": 0
+      "offline_count": 1
     },
     {
       "store": "Plaza Esmeralda",
