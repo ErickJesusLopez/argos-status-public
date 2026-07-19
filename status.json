@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-07-19 07:54:49",
+  "stamp": "2026-07-19 08:58:30",
   "stores": [
     {
       "store": "Ajusco",
@@ -151,8 +151,8 @@
       "uber_express": null,
       "rappi": "offline",
       "rappi_turbo": null,
-      "didi": "offline",
-      "offline_count": 2
+      "didi": "online",
+      "offline_count": 1
     },
     {
       "store": "Matías Romero",
@@ -187,8 +187,8 @@
       "uber_express": null,
       "rappi": "offline",
       "rappi_turbo": "online",
-      "didi": "offline",
-      "offline_count": 2
+      "didi": "online",
+      "offline_count": 1
     },
     {
       "store": "Nativitas",
