@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-07-20 22:44:43",
+  "stamp": "2026-07-20 23:58:46",
   "stores": [
     {
       "store": "Ajusco",
@@ -68,10 +68,10 @@
       "store": "Condesa",
       "uber": null,
       "uber_express": null,
-      "rappi": "online",
+      "rappi": "offline",
       "rappi_turbo": "offline",
       "didi": null,
-      "offline_count": 1
+      "offline_count": 2
     },
     {
       "store": "Copilco",
@@ -320,10 +320,10 @@
       "store": "Taxqueña",
       "uber": null,
       "uber_express": null,
-      "rappi": "online",
+      "rappi": "offline",
       "rappi_turbo": "offline",
       "didi": null,
-      "offline_count": 1
+      "offline_count": 2
     },
     {
       "store": "Tlahuac FG",
