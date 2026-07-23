@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-07-23 00:57:13",
+  "stamp": "2026-07-23 01:10:17",
   "stores": [
     {
       "store": "Ajusco",
@@ -14,19 +14,19 @@
       "store": "Arenal",
       "uber": null,
       "uber_express": null,
-      "rappi": null,
+      "rappi": "offline",
       "rappi_turbo": "offline",
       "didi": "offline",
-      "offline_count": 2
+      "offline_count": 3
     },
     {
       "store": "Asia",
       "uber": "online",
       "uber_express": null,
-      "rappi": null,
+      "rappi": "offline",
       "rappi_turbo": "offline",
       "didi": "offline",
-      "offline_count": 2
+      "offline_count": 3
     },
     {
       "store": "Av. Toluca",
@@ -50,10 +50,10 @@
       "store": "Centenario",
       "uber": "online",
       "uber_express": null,
-      "rappi": null,
+      "rappi": "offline",
       "rappi_turbo": "offline",
       "didi": "offline",
-      "offline_count": 2
+      "offline_count": 3
     },
     {
       "store": "Centro Santa Fe",
@@ -68,7 +68,7 @@
       "store": "Condesa",
       "uber": null,
       "uber_express": null,
-      "rappi": null,
+      "rappi": "online",
       "rappi_turbo": "offline",
       "didi": "online",
       "offline_count": 1
@@ -77,19 +77,19 @@
       "store": "Copilco",
       "uber": null,
       "uber_express": null,
-      "rappi": null,
+      "rappi": "offline",
       "rappi_turbo": "offline",
       "didi": "offline",
-      "offline_count": 2
+      "offline_count": 3
     },
     {
       "store": "División del Norte",
       "uber": "online",
       "uber_express": null,
-      "rappi": null,
+      "rappi": "offline",
       "rappi_turbo": "offline",
       "didi": "offline",
-      "offline_count": 2
+      "offline_count": 3
     },
     {
       "store": "Express ⏰ (Matías Romero)",
@@ -140,10 +140,10 @@
       "store": "La Turba",
       "uber": null,
       "uber_express": null,
-      "rappi": null,
+      "rappi": "offline",
       "rappi_turbo": null,
       "didi": "offline",
-      "offline_count": 1
+      "offline_count": 2
     },
     {
       "store": "Las Aguilas",
@@ -167,28 +167,28 @@
       "store": "Manuel Cañas",
       "uber": "online",
       "uber_express": null,
-      "rappi": null,
+      "rappi": "offline",
       "rappi_turbo": null,
       "didi": "offline",
-      "offline_count": 1
+      "offline_count": 2
     },
     {
       "store": "Matías Romero",
       "uber": null,
       "uber_express": null,
-      "rappi": null,
+      "rappi": "offline",
       "rappi_turbo": "offline",
       "didi": "offline",
-      "offline_count": 2
+      "offline_count": 3
     },
     {
       "store": "Metro Insurgentes",
       "uber": "online",
       "uber_express": null,
-      "rappi": null,
+      "rappi": "offline",
       "rappi_turbo": "offline",
       "didi": "offline",
-      "offline_count": 2
+      "offline_count": 3
     },
     {
       "store": "Metro Tacubaya",
@@ -203,37 +203,37 @@
       "store": "Miramontes 1",
       "uber": null,
       "uber_express": null,
-      "rappi": null,
+      "rappi": "offline",
       "rappi_turbo": "offline",
       "didi": "offline",
-      "offline_count": 2
+      "offline_count": 3
     },
     {
       "store": "Miramontes 2",
       "uber": null,
       "uber_express": null,
-      "rappi": null,
+      "rappi": "offline",
       "rappi_turbo": "offline",
       "didi": "offline",
-      "offline_count": 2
+      "offline_count": 3
     },
     {
       "store": "Nativitas",
       "uber": null,
       "uber_express": null,
-      "rappi": null,
+      "rappi": "offline",
       "rappi_turbo": null,
       "didi": "offline",
-      "offline_count": 1
+      "offline_count": 2
     },
     {
       "store": "Olivar Del Conde",
       "uber": "online",
       "uber_express": null,
-      "rappi": null,
+      "rappi": "offline",
       "rappi_turbo": "offline",
       "didi": "offline",
-      "offline_count": 2
+      "offline_count": 3
     },
     {
       "store": "Parroquia",
@@ -248,79 +248,88 @@
       "store": "Plaza Copilco",
       "uber": null,
       "uber_express": null,
-      "rappi": null,
+      "rappi": "offline",
       "rappi_turbo": "offline",
       "didi": "offline",
-      "offline_count": 2
+      "offline_count": 3
     },
     {
       "store": "Plaza Esmeralda",
       "uber": "online",
       "uber_express": null,
-      "rappi": null,
+      "rappi": "offline",
       "rappi_turbo": "offline",
       "didi": "offline",
-      "offline_count": 2
+      "offline_count": 3
     },
     {
       "store": "San Bernabé",
       "uber": null,
       "uber_express": null,
-      "rappi": null,
+      "rappi": "offline",
       "rappi_turbo": null,
       "didi": "offline",
-      "offline_count": 1
+      "offline_count": 2
     },
     {
       "store": "San Fernando",
       "uber": "online",
       "uber_express": null,
-      "rappi": null,
+      "rappi": "offline",
       "rappi_turbo": "online",
       "didi": "offline",
+      "offline_count": 2
+    },
+    {
+      "store": "San Isidro",
+      "uber": null,
+      "uber_express": null,
+      "rappi": "offline",
+      "rappi_turbo": null,
+      "didi": null,
       "offline_count": 1
     },
     {
       "store": "San Pedro Mártir",
       "uber": "online",
       "uber_express": null,
-      "rappi": null,
+      "rappi": "offline",
       "rappi_turbo": null,
       "didi": "offline",
-      "offline_count": 1
+      "offline_count": 2
     },
     {
       "store": "Santa Ana",
       "uber": "online",
       "uber_express": null,
-      "rappi": null,
+      "rappi": "offline",
       "rappi_turbo": "offline",
       "didi": "offline",
-      "offline_count": 2
+      "offline_count": 3
     },
     {
       "store": "Santa Fe",
       "uber": null,
       "uber_express": null,
-      "rappi": null,
+      "rappi": "offline",
       "rappi_turbo": null,
       "didi": "offline",
-      "offline_count": 1
+      "offline_count": 2
     },
     {
       "store": "Tacubaya",
       "uber": null,
       "uber_express": null,
-      "rappi": null,
+      "rappi": "offline",
       "rappi_turbo": "online",
       "didi": "offline",
-      "offline_count": 1
+      "offline_count": 2
     },
     {
       "store": "Taxqueña",
       "uber": "online",
       "uber_express": null,
-      "rappi": null,
+      "rappi": "online",
       "rappi_turbo": "offline",
       "didi": "online",
       "offline_count": 1
@@ -329,28 +338,28 @@
       "store": "Tlahuac FG",
       "uber": null,
       "uber_express": null,
-      "rappi": null,
+      "rappi": "offline",
       "rappi_turbo": "offline",
       "didi": "offline",
-      "offline_count": 2
+      "offline_count": 3
     },
     {
       "store": "Tláhuac Casa",
       "uber": null,
       "uber_express": null,
-      "rappi": null,
+      "rappi": "offline",
       "rappi_turbo": "offline",
       "didi": null,
-      "offline_count": 1
+      "offline_count": 2
     },
     {
       "store": "Xochimilco",
       "uber": null,
       "uber_express": null,
-      "rappi": null,
+      "rappi": "offline",
       "rappi_turbo": "offline",
       "didi": "offline",
-      "offline_count": 2
+      "offline_count": 3
     }
   ]
 }
