@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-07-24 09:59:52",
+  "stamp": "2026-07-24 10:11:20",
   "stores": [
     {
       "store": "Ajusco",
@@ -15,9 +15,9 @@
       "uber": null,
       "uber_express": null,
       "rappi": "online",
-      "rappi_turbo": "offline",
+      "rappi_turbo": "online",
       "didi": "online",
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "Asia",
@@ -66,12 +66,12 @@
     },
     {
       "store": "Condesa",
-      "uber": "offline",
+      "uber": "online",
       "uber_express": null,
-      "rappi": "offline",
+      "rappi": "online",
       "rappi_turbo": "online",
-      "didi": "offline",
-      "offline_count": 3
+      "didi": "online",
+      "offline_count": 0
     },
     {
       "store": "Copilco",
@@ -300,12 +300,12 @@
     },
     {
       "store": "San Pedro Mártir",
-      "uber": "offline",
+      "uber": "online",
       "uber_express": null,
-      "rappi": "offline",
+      "rappi": "online",
       "rappi_turbo": null,
-      "didi": "offline",
-      "offline_count": 3
+      "didi": "online",
+      "offline_count": 0
     },
     {
       "store": "Santa Ana",
