@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-07-24 23:00:50",
+  "stamp": "2026-07-24 23:12:10",
   "stores": [
     {
       "store": "Ajusco",
@@ -174,12 +174,12 @@
     },
     {
       "store": "Manuel Cañas",
-      "uber": "offline",
+      "uber": "online",
       "uber_express": null,
       "rappi": "offline",
       "rappi_turbo": null,
       "didi": "offline",
-      "offline_count": 3
+      "offline_count": 2
     },
     {
       "store": "Matías Romero",
@@ -248,10 +248,10 @@
       "store": "Parroquia",
       "uber": "online",
       "uber_express": null,
-      "rappi": "online",
+      "rappi": "offline",
       "rappi_turbo": "offline",
       "didi": "online",
-      "offline_count": 1
+      "offline_count": 2
     },
     {
       "store": "Plaza Copilco",
