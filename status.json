@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-07-26 15:16:52",
+  "stamp": "2026-07-26 15:28:17",
   "stores": [
     {
       "store": "Ajusco",
@@ -50,10 +50,10 @@
       "store": "Centenario",
       "uber": "online",
       "uber_express": null,
-      "rappi": "offline",
+      "rappi": "online",
       "rappi_turbo": "online",
       "didi": "online",
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "Centro Santa Fe",
@@ -108,6 +108,15 @@
       "rappi_turbo": null,
       "didi": null,
       "offline_count": 0
+    },
+    {
+      "store": "Express ⏰ (Metro Insurgentes)",
+      "uber": "offline",
+      "uber_express": null,
+      "rappi": null,
+      "rappi_turbo": null,
+      "didi": null,
+      "offline_count": 1
     },
     {
       "store": "Express ⏰ (Metro Tacubaya)",
