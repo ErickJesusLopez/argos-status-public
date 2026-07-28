@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-07-28 02:45:24",
+  "stamp": "2026-07-28 02:56:49",
   "stores": [
     {
       "store": "Ajusco",
@@ -92,35 +92,8 @@
       "offline_count": 3
     },
     {
-      "store": "Express ⏰ (Division del Norte)",
-      "uber": "online",
-      "uber_express": null,
-      "rappi": null,
-      "rappi_turbo": null,
-      "didi": null,
-      "offline_count": 0
-    },
-    {
-      "store": "Express ⏰ (Matías Romero)",
-      "uber": "online",
-      "uber_express": null,
-      "rappi": null,
-      "rappi_turbo": null,
-      "didi": null,
-      "offline_count": 0
-    },
-    {
-      "store": "Express ⏰ (Metro Insurgentes)",
-      "uber": "online",
-      "uber_express": null,
-      "rappi": null,
-      "rappi_turbo": null,
-      "didi": null,
-      "offline_count": 0
-    },
-    {
       "store": "Iman",
-      "uber": "online",
+      "uber": null,
       "uber_express": null,
       "rappi": "offline",
       "rappi_turbo": "offline",
@@ -156,7 +129,7 @@
     },
     {
       "store": "Las Aguilas",
-      "uber": "online",
+      "uber": null,
       "uber_express": null,
       "rappi": "offline",
       "rappi_turbo": "online",
@@ -183,7 +156,7 @@
     },
     {
       "store": "Matías Romero",
-      "uber": "online",
+      "uber": null,
       "uber_express": null,
       "rappi": "offline",
       "rappi_turbo": "offline",
@@ -255,7 +228,7 @@
     },
     {
       "store": "Plaza Esmeralda",
-      "uber": "online",
+      "uber": null,
       "uber_express": null,
       "rappi": "offline",
       "rappi_turbo": "offline",
