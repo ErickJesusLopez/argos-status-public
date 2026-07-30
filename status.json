@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-07-29 22:51:33",
+  "stamp": "2026-07-29 23:02:51",
   "stores": [
     {
       "store": "Ajusco",
@@ -183,12 +183,12 @@
     },
     {
       "store": "Manuel Cañas",
-      "uber": "offline",
+      "uber": "online",
       "uber_express": null,
-      "rappi": "online",
+      "rappi": "offline",
       "rappi_turbo": null,
-      "didi": "online",
-      "offline_count": 1
+      "didi": "offline",
+      "offline_count": 2
     },
     {
       "store": "Matías Romero",
@@ -304,8 +304,8 @@
       "uber_express": null,
       "rappi": "offline",
       "rappi_turbo": null,
-      "didi": "online",
-      "offline_count": 1
+      "didi": "offline",
+      "offline_count": 2
     },
     {
       "store": "San Pedro Mártir",
