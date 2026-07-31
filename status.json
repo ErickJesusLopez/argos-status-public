@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-07-30 19:27:56",
+  "stamp": "2026-07-30 19:39:21",
   "stores": [
     {
       "store": "Ajusco",
@@ -102,12 +102,12 @@
     },
     {
       "store": "Express ⏰ (Division del Norte)",
-      "uber": "offline",
+      "uber": "online",
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
       "didi": null,
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "Express ⏰ (Matías Romero)",
