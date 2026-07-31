@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-07-31 05:34:00",
+  "stamp": "2026-07-31 05:46:40",
   "stores": [
     {
       "store": "Ajusco",
@@ -23,10 +23,10 @@
       "store": "Asia",
       "uber": null,
       "uber_express": null,
-      "rappi": null,
+      "rappi": "offline",
       "rappi_turbo": "offline",
       "didi": "offline",
-      "offline_count": 2
+      "offline_count": 3
     },
     {
       "store": "Av. Toluca",
@@ -77,10 +77,10 @@
       "store": "Copilco",
       "uber": null,
       "uber_express": null,
-      "rappi": null,
+      "rappi": "offline",
       "rappi_turbo": "offline",
       "didi": "offline",
-      "offline_count": 2
+      "offline_count": 3
     },
     {
       "store": "División del Norte",
@@ -194,19 +194,19 @@
       "store": "Nativitas",
       "uber": null,
       "uber_express": null,
-      "rappi": null,
+      "rappi": "offline",
       "rappi_turbo": null,
       "didi": "offline",
-      "offline_count": 1
+      "offline_count": 2
     },
     {
       "store": "Olivar Del Conde",
       "uber": null,
       "uber_express": null,
-      "rappi": null,
+      "rappi": "offline",
       "rappi_turbo": "offline",
       "didi": "offline",
-      "offline_count": 2
+      "offline_count": 3
     },
     {
       "store": "Parroquia",
@@ -221,10 +221,10 @@
       "store": "Plaza Copilco",
       "uber": null,
       "uber_express": null,
-      "rappi": null,
+      "rappi": "offline",
       "rappi_turbo": "offline",
       "didi": "offline",
-      "offline_count": 2
+      "offline_count": 3
     },
     {
       "store": "Plaza Esmeralda",
@@ -266,10 +266,10 @@
       "store": "San Pedro Mártir",
       "uber": null,
       "uber_express": null,
-      "rappi": null,
+      "rappi": "offline",
       "rappi_turbo": null,
       "didi": "offline",
-      "offline_count": 1
+      "offline_count": 2
     },
     {
       "store": "Santa Ana",
@@ -302,10 +302,10 @@
       "store": "Taxqueña",
       "uber": null,
       "uber_express": null,
-      "rappi": null,
+      "rappi": "offline",
       "rappi_turbo": "offline",
       "didi": "offline",
-      "offline_count": 2
+      "offline_count": 3
     },
     {
       "store": "Tlahuac FG",
