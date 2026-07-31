@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-07-31 10:01:27",
+  "stamp": "2026-07-31 10:12:51",
   "stores": [
     {
       "store": "Ajusco",
@@ -138,12 +138,12 @@
     },
     {
       "store": "Express ⏰ (Metro Tacubaya)",
-      "uber": "offline",
+      "uber": "online",
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
       "didi": null,
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "Iman",
@@ -300,12 +300,12 @@
     },
     {
       "store": "San Bernabé",
-      "uber": "offline",
+      "uber": "online",
       "uber_express": null,
       "rappi": "offline",
       "rappi_turbo": null,
       "didi": "offline",
-      "offline_count": 3
+      "offline_count": 2
     },
     {
       "store": "San Fernando",
