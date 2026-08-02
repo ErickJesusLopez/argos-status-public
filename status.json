@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-08-02 02:00:13",
+  "stamp": "2026-08-02 02:50:45",
   "stores": [
     {
       "store": "Ajusco",
@@ -302,10 +302,10 @@
       "store": "Taxqueña",
       "uber": null,
       "uber_express": null,
-      "rappi": "online",
+      "rappi": "offline",
       "rappi_turbo": "offline",
-      "didi": "online",
-      "offline_count": 1
+      "didi": "offline",
+      "offline_count": 3
     },
     {
       "store": "Tlahuac FG",
