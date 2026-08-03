@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-08-03 14:15:19",
+  "stamp": "2026-08-03 14:49:28",
   "stores": [
     {
       "store": "41300001 - Little Caesars Santa Fe",
@@ -597,12 +597,12 @@
     },
     {
       "store": "San Pedro Mártir",
-      "uber": "offline",
+      "uber": "online",
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
       "didi": "online",
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "Santa Ana",
