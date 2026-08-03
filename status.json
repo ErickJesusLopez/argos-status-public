@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-08-03 07:06:28",
+  "stamp": "2026-08-03 09:00:13",
   "stores": [
     {
       "store": "Ajusco",
@@ -96,9 +96,9 @@
       "uber": null,
       "uber_express": null,
       "rappi": "offline",
-      "rappi_turbo": "offline",
+      "rappi_turbo": "online",
       "didi": "offline",
-      "offline_count": 3
+      "offline_count": 2
     },
     {
       "store": "Insurgentes Sur",
