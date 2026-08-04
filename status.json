@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-08-04 17:30:59",
+  "stamp": "2026-08-04 17:42:27",
   "stores": [
     {
       "store": "41300001 - Little Caesars Santa Fe",
@@ -516,12 +516,12 @@
     },
     {
       "store": "Miramontes 1",
-      "uber": "offline",
+      "uber": "online",
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": "online",
       "didi": "online",
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "Miramontes 2",
@@ -543,12 +543,12 @@
     },
     {
       "store": "Olivar Del Conde",
-      "uber": "offline",
+      "uber": "online",
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": "online",
       "didi": "online",
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "Parroquia",
