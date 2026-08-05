@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-08-04 21:52:47",
+  "stamp": "2026-08-04 22:05:58",
   "stores": [
     {
       "store": "Ajusco",
@@ -196,8 +196,8 @@
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
-      "didi": "online",
-      "offline_count": 0
+      "didi": "offline",
+      "offline_count": 1
     },
     {
       "store": "Nativitas",
@@ -286,8 +286,8 @@
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
-      "didi": "online",
-      "offline_count": 0
+      "didi": "offline",
+      "offline_count": 1
     },
     {
       "store": "Santa Fe",
@@ -322,8 +322,8 @@
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
-      "didi": "online",
-      "offline_count": 0
+      "didi": "offline",
+      "offline_count": 1
     },
     {
       "store": "Xochimilco",
