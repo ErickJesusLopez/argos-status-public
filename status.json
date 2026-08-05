@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-08-05 10:06:44",
+  "stamp": "2026-08-05 10:18:07",
   "stores": [
     {
       "store": "41300001 - Little Caesars Santa Fe",
@@ -50,10 +50,10 @@
       "store": "41300006 - Little Caesars Copilco",
       "uber": null,
       "uber_express": null,
-      "rappi": "offline",
+      "rappi": "online",
       "rappi_turbo": null,
       "didi": null,
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "41300007 - Little Caesars Avenida Mexico",
@@ -408,12 +408,12 @@
     },
     {
       "store": "Copilco",
-      "uber": "offline",
+      "uber": "online",
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": "online",
-      "didi": "offline",
-      "offline_count": 2
+      "didi": "online",
+      "offline_count": 0
     },
     {
       "store": "División del Norte",
@@ -645,9 +645,9 @@
       "uber": "online",
       "uber_express": null,
       "rappi": null,
-      "rappi_turbo": "offline",
+      "rappi_turbo": "online",
       "didi": "online",
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "Tlahuac FG",
