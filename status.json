@@ -1,14 +1,14 @@
 {
-  "stamp": "2026-08-06 15:40:48",
+  "stamp": "2026-08-06 16:07:07",
   "stores": [
     {
       "store": "Ajusco",
-      "uber": null,
+      "uber": "offline",
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
       "didi": "online",
-      "offline_count": 0
+      "offline_count": 1
     },
     {
       "store": "Arenal",
