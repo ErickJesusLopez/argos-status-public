@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-08-07 09:57:43",
+  "stamp": "2026-08-07 10:10:54",
   "stores": [
     {
       "store": "Ajusco",
@@ -138,12 +138,12 @@
     },
     {
       "store": "Las Aguilas",
-      "uber": "offline",
+      "uber": "online",
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
-      "didi": "offline",
-      "offline_count": 2
+      "didi": "online",
+      "offline_count": 0
     },
     {
       "store": "Luis Cabrera",
@@ -246,12 +246,12 @@
     },
     {
       "store": "Plaza Esmeralda",
-      "uber": "offline",
+      "uber": "online",
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
-      "didi": "offline",
-      "offline_count": 2
+      "didi": "online",
+      "offline_count": 0
     },
     {
       "store": "San Bernabé",
