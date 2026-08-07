@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-08-06 22:52:31",
+  "stamp": "2026-08-06 23:03:56",
   "stores": [
     {
       "store": "41300001 - Little Caesars Santa Fe",
@@ -167,10 +167,10 @@
       "store": "41300019 - Little Caesars Miramontes 2",
       "uber": null,
       "uber_express": null,
-      "rappi": "online",
+      "rappi": "offline",
       "rappi_turbo": null,
       "didi": null,
-      "offline_count": 0
+      "offline_count": 1
     },
     {
       "store": "41300020 - Little Caesars Arenal",
@@ -185,19 +185,19 @@
       "store": "41300022 - Little Caesars Tlahuac FG",
       "uber": null,
       "uber_express": null,
-      "rappi": "online",
+      "rappi": "offline",
       "rappi_turbo": null,
       "didi": null,
-      "offline_count": 0
+      "offline_count": 1
     },
     {
       "store": "41300023 - Little Caesars Tlahuac",
       "uber": null,
       "uber_express": null,
-      "rappi": "online",
+      "rappi": "offline",
       "rappi_turbo": null,
       "didi": null,
-      "offline_count": 0
+      "offline_count": 1
     },
     {
       "store": "41300024 - Little Caesars San Bernabe",
@@ -221,10 +221,10 @@
       "store": "41300026 - Little Caesars Manuel Cañas",
       "uber": null,
       "uber_express": null,
-      "rappi": "online",
+      "rappi": "offline",
       "rappi_turbo": null,
       "didi": null,
-      "offline_count": 0
+      "offline_count": 1
     },
     {
       "store": "41300027 - Little Caesars Insurgentes San Angel",
@@ -493,8 +493,8 @@
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
-      "didi": "online",
-      "offline_count": 0
+      "didi": "offline",
+      "offline_count": 1
     },
     {
       "store": "Matías Romero",
@@ -538,8 +538,8 @@
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": "offline",
-      "didi": "online",
-      "offline_count": 1
+      "didi": "offline",
+      "offline_count": 2
     },
     {
       "store": "Nativitas",
@@ -610,8 +610,8 @@
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
-      "didi": "online",
-      "offline_count": 0
+      "didi": "offline",
+      "offline_count": 1
     },
     {
       "store": "San Pedro Mártir",
@@ -628,8 +628,8 @@
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": "offline",
-      "didi": "online",
-      "offline_count": 1
+      "didi": "offline",
+      "offline_count": 2
     },
     {
       "store": "Santa Fe",
@@ -664,8 +664,8 @@
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": "offline",
-      "didi": "online",
-      "offline_count": 1
+      "didi": "offline",
+      "offline_count": 2
     },
     {
       "store": "Tláhuac Casa",
