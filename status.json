@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-08-06 21:22:18",
+  "stamp": "2026-08-06 21:48:36",
   "stores": [
     {
       "store": "Ajusco",
@@ -61,8 +61,8 @@
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
-      "didi": "online",
-      "offline_count": 0
+      "didi": "offline",
+      "offline_count": 1
     },
     {
       "store": "Condesa",
@@ -178,8 +178,8 @@
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
-      "didi": "online",
-      "offline_count": 0
+      "didi": "offline",
+      "offline_count": 1
     },
     {
       "store": "Metro Tacubaya",
