@@ -1,9 +1,9 @@
 {
-  "stamp": "2026-08-07 02:57:28",
+  "stamp": "2026-08-07 09:05:02",
   "stores": [
     {
       "store": "Ajusco",
-      "uber": null,
+      "uber": "online",
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
@@ -101,6 +101,15 @@
       "offline_count": 1
     },
     {
+      "store": "Insurgentes",
+      "uber": "online",
+      "uber_express": null,
+      "rappi": null,
+      "rappi_turbo": null,
+      "didi": null,
+      "offline_count": 0
+    },
+    {
       "store": "Insurgentes Sur",
       "uber": null,
       "uber_express": null,
@@ -111,7 +120,7 @@
     },
     {
       "store": "La Joya",
-      "uber": null,
+      "uber": "online",
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
@@ -129,7 +138,7 @@
     },
     {
       "store": "Las Aguilas",
-      "uber": null,
+      "uber": "online",
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
@@ -138,7 +147,7 @@
     },
     {
       "store": "Luis Cabrera",
-      "uber": null,
+      "uber": "online",
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
@@ -151,8 +160,8 @@
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
-      "didi": "offline",
-      "offline_count": 1
+      "didi": "online",
+      "offline_count": 0
     },
     {
       "store": "Matías Romero",
@@ -173,8 +182,17 @@
       "offline_count": 1
     },
     {
+      "store": "Metro Tacubaya",
+      "uber": "offline",
+      "uber_express": null,
+      "rappi": null,
+      "rappi_turbo": null,
+      "didi": null,
+      "offline_count": 1
+    },
+    {
       "store": "Miramontes 1",
-      "uber": null,
+      "uber": "online",
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
@@ -187,8 +205,8 @@
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
-      "didi": "offline",
-      "offline_count": 1
+      "didi": "online",
+      "offline_count": 0
     },
     {
       "store": "Nativitas",
@@ -228,7 +246,7 @@
     },
     {
       "store": "Plaza Esmeralda",
-      "uber": null,
+      "uber": "online",
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
@@ -264,7 +282,7 @@
     },
     {
       "store": "San Pedro Mártir",
-      "uber": null,
+      "uber": "online",
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
@@ -277,8 +295,8 @@
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
-      "didi": "offline",
-      "offline_count": 1
+      "didi": "online",
+      "offline_count": 0
     },
     {
       "store": "Santa Fe",
