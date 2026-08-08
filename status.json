@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-08-08 16:48:42",
+  "stamp": "2026-08-08 17:57:05",
   "stores": [
     {
       "store": "41300001 - Little Caesars Santa Fe",
@@ -423,6 +423,15 @@
       "rappi_turbo": "online",
       "didi": "online",
       "offline_count": 0
+    },
+    {
+      "store": "Express ⏰ (Condesa)",
+      "uber": "offline",
+      "uber_express": null,
+      "rappi": null,
+      "rappi_turbo": null,
+      "didi": null,
+      "offline_count": 1
     },
     {
       "store": "Express ⏰ (Metro Tacubaya)",
