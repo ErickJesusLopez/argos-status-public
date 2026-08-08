@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-08-08 02:43:23",
+  "stamp": "2026-08-08 02:56:30",
   "stores": [
     {
       "store": "Ajusco",
@@ -30,7 +30,7 @@
     },
     {
       "store": "Av. Toluca",
-      "uber": "online",
+      "uber": null,
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
@@ -66,7 +66,7 @@
     },
     {
       "store": "Condesa",
-      "uber": "online",
+      "uber": null,
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
@@ -84,7 +84,7 @@
     },
     {
       "store": "División del Norte",
-      "uber": "online",
+      "uber": null,
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
@@ -138,7 +138,7 @@
     },
     {
       "store": "Luis Cabrera",
-      "uber": "online",
+      "uber": null,
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
@@ -147,7 +147,7 @@
     },
     {
       "store": "Manuel Cañas",
-      "uber": "online",
+      "uber": null,
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
@@ -165,7 +165,7 @@
     },
     {
       "store": "Metro Insurgentes",
-      "uber": "online",
+      "uber": null,
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
@@ -173,17 +173,8 @@
       "offline_count": 1
     },
     {
-      "store": "Metro Tacubaya",
-      "uber": "online",
-      "uber_express": null,
-      "rappi": null,
-      "rappi_turbo": null,
-      "didi": null,
-      "offline_count": 0
-    },
-    {
       "store": "Miramontes 1",
-      "uber": "online",
+      "uber": null,
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
@@ -219,21 +210,12 @@
     },
     {
       "store": "Parroquia",
-      "uber": "online",
+      "uber": null,
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
       "didi": "offline",
       "offline_count": 1
-    },
-    {
-      "store": "Periferico Oriente",
-      "uber": "online",
-      "uber_express": null,
-      "rappi": null,
-      "rappi_turbo": null,
-      "didi": null,
-      "offline_count": 0
     },
     {
       "store": "Plaza Copilco",
@@ -255,7 +237,7 @@
     },
     {
       "store": "San Bernabé",
-      "uber": "online",
+      "uber": null,
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
