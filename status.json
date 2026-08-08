@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-08-07 18:39:00",
+  "stamp": "2026-08-07 19:01:40",
   "stores": [
     {
       "store": "41300001 - Little Caesars Santa Fe",
@@ -194,10 +194,10 @@
       "store": "41300023 - Little Caesars Tlahuac",
       "uber": null,
       "uber_express": null,
-      "rappi": "offline",
+      "rappi": "online",
       "rappi_turbo": null,
       "didi": null,
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "41300024 - Little Caesars San Bernabe",
@@ -561,12 +561,12 @@
     },
     {
       "store": "Periferico Oriente",
-      "uber": "offline",
+      "uber": "online",
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
       "didi": null,
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "Plaza Copilco",
@@ -672,9 +672,9 @@
       "uber": null,
       "uber_express": null,
       "rappi": null,
-      "rappi_turbo": "offline",
+      "rappi_turbo": "online",
       "didi": null,
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "Xochimilco",
