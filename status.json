@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-08-09 22:10:51",
+  "stamp": "2026-08-09 22:22:22",
   "stores": [
     {
       "store": "41300001 - Little Caesars Santa Fe",
@@ -372,12 +372,12 @@
     },
     {
       "store": "Avenida México",
-      "uber": "offline",
+      "uber": "online",
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
       "didi": "online",
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "Centenario",
