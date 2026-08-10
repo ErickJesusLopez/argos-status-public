@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-08-10 17:34:05",
+  "stamp": "2026-08-10 17:45:30",
   "stores": [
     {
       "store": "41300001 - Little Caesars Santa Fe",
@@ -113,10 +113,10 @@
       "store": "41300013 - Little Caesars Santa Ana",
       "uber": null,
       "uber_express": null,
-      "rappi": "offline",
+      "rappi": "online",
       "rappi_turbo": null,
       "didi": null,
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "41300014 - Little Caesars Miramontes",
@@ -528,9 +528,9 @@
       "uber": null,
       "uber_express": null,
       "rappi": null,
-      "rappi_turbo": "offline",
-      "didi": "offline",
-      "offline_count": 2
+      "rappi_turbo": "online",
+      "didi": "online",
+      "offline_count": 0
     },
     {
       "store": "Nativitas",
@@ -615,12 +615,12 @@
     },
     {
       "store": "Santa Ana",
-      "uber": "offline",
+      "uber": "online",
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": "online",
-      "didi": "offline",
-      "offline_count": 2
+      "didi": "online",
+      "offline_count": 0
     },
     {
       "store": "Santa Fe",
