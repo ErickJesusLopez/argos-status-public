@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-08-10 13:56:38",
+  "stamp": "2026-08-10 14:08:10",
   "stores": [
     {
       "store": "41300001 - Little Caesars Santa Fe",
@@ -498,12 +498,12 @@
     },
     {
       "store": "Metro Insurgentes",
-      "uber": null,
+      "uber": "offline",
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": "online",
       "didi": "online",
-      "offline_count": 0
+      "offline_count": 1
     },
     {
       "store": "Metro Tacubaya",
