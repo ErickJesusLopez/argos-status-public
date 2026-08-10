@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-08-10 10:06:32",
+  "stamp": "2026-08-10 10:18:01",
   "stores": [
     {
       "store": "41300001 - Little Caesars Santa Fe",
@@ -41,10 +41,10 @@
       "store": "41300005 - Little Caesars Parroquia",
       "uber": null,
       "uber_express": null,
-      "rappi": "offline",
+      "rappi": "online",
       "rappi_turbo": null,
       "didi": null,
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "41300006 - Little Caesars Copilco",
@@ -212,10 +212,10 @@
       "store": "41300025 - Little Caesars San Isidro",
       "uber": null,
       "uber_express": null,
-      "rappi": "offline",
+      "rappi": "online",
       "rappi_turbo": null,
       "didi": null,
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "41300026 - Little Caesars Manuel Cañas",
@@ -311,10 +311,10 @@
       "store": "41300042 - Little Caesars Tacubaya",
       "uber": null,
       "uber_express": null,
-      "rappi": "offline",
+      "rappi": "online",
       "rappi_turbo": null,
       "didi": null,
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "41300043 - Little Caesars Centro Comercial Santa Fe",
@@ -507,12 +507,12 @@
     },
     {
       "store": "Metro Tacubaya",
-      "uber": "offline",
+      "uber": "online",
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
       "didi": null,
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "Miramontes 1",
@@ -552,12 +552,12 @@
     },
     {
       "store": "Parroquia",
-      "uber": "offline",
+      "uber": "online",
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": "online",
-      "didi": "offline",
-      "offline_count": 2
+      "didi": "online",
+      "offline_count": 0
     },
     {
       "store": "Plaza Copilco",
@@ -601,8 +601,8 @@
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
-      "didi": "offline",
-      "offline_count": 1
+      "didi": "online",
+      "offline_count": 0
     },
     {
       "store": "San Pedro Mártir",
@@ -637,8 +637,8 @@
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": "online",
-      "didi": "offline",
-      "offline_count": 1
+      "didi": "online",
+      "offline_count": 0
     },
     {
       "store": "Taxqueña",
