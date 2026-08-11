@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-08-11 10:38:24",
+  "stamp": "2026-08-11 10:49:49",
   "stores": [
     {
       "store": "41300001 - Little Caesars Santa Fe",
@@ -293,10 +293,10 @@
       "store": "41300039 - Little Caesars Luis Cabrera",
       "uber": null,
       "uber_express": null,
-      "rappi": "offline",
+      "rappi": "online",
       "rappi_turbo": null,
       "didi": null,
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "41300040 - Little Caesars Embarcadero Nativitas",
@@ -489,12 +489,12 @@
     },
     {
       "store": "Luis Cabrera",
-      "uber": "offline",
+      "uber": "online",
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
-      "didi": "offline",
-      "offline_count": 2
+      "didi": "online",
+      "offline_count": 0
     },
     {
       "store": "Manuel Cañas",
