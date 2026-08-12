@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-08-12 13:53:13",
+  "stamp": "2026-08-12 15:13:46",
   "stores": [
     {
       "store": "41300001 - Little Caesars Santa Fe",
@@ -345,12 +345,12 @@
     },
     {
       "store": "Arenal",
-      "uber": null,
+      "uber": "offline",
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": "online",
       "didi": "online",
-      "offline_count": 0
+      "offline_count": 1
     },
     {
       "store": "Asia",
@@ -398,13 +398,22 @@
       "offline_count": 0
     },
     {
+      "store": "Comercial Santa Fe",
+      "uber": "offline",
+      "uber_express": null,
+      "rappi": null,
+      "rappi_turbo": null,
+      "didi": null,
+      "offline_count": 1
+    },
+    {
       "store": "Condesa",
-      "uber": "online",
+      "uber": "offline",
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": "online",
       "didi": "online",
-      "offline_count": 0
+      "offline_count": 1
     },
     {
       "store": "Copilco",
@@ -525,12 +534,12 @@
     },
     {
       "store": "Metro Tacubaya",
-      "uber": "online",
+      "uber": "offline",
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
       "didi": null,
-      "offline_count": 0
+      "offline_count": 1
     },
     {
       "store": "Miramontes 1",
@@ -561,12 +570,12 @@
     },
     {
       "store": "Olivar Del Conde",
-      "uber": null,
+      "uber": "offline",
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": "online",
       "didi": "online",
-      "offline_count": 0
+      "offline_count": 1
     },
     {
       "store": "Parroquia",
