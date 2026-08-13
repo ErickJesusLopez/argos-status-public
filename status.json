@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-08-13 14:27:27",
+  "stamp": "2026-08-13 14:38:53",
   "stores": [
     {
       "store": "41300001 - Little Caesars Santa Fe",
@@ -498,12 +498,12 @@
     },
     {
       "store": "Metro Insurgentes",
-      "uber": "offline",
+      "uber": "online",
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": "online",
       "didi": "online",
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "Miramontes 1",
