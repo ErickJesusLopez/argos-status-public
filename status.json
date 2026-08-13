@@ -1,6 +1,42 @@
 {
-  "stamp": "2026-08-13 09:14:45",
+  "stamp": "2026-08-13 09:27:39",
   "stores": [
+    {
+      "store": "41300001 - Little Caesars Santa Fe",
+      "uber": null,
+      "uber_express": null,
+      "rappi": "offline",
+      "rappi_turbo": null,
+      "didi": null,
+      "offline_count": 1
+    },
+    {
+      "store": "41300002 - Little Caesars Xochimilco",
+      "uber": null,
+      "uber_express": null,
+      "rappi": "offline",
+      "rappi_turbo": null,
+      "didi": null,
+      "offline_count": 1
+    },
+    {
+      "store": "41300003 - Little Caesars San Fernando",
+      "uber": null,
+      "uber_express": null,
+      "rappi": "offline",
+      "rappi_turbo": null,
+      "didi": null,
+      "offline_count": 1
+    },
+    {
+      "store": "41300004 - Little Caesars Matias Romero",
+      "uber": null,
+      "uber_express": null,
+      "rappi": "offline",
+      "rappi_turbo": null,
+      "didi": null,
+      "offline_count": 1
+    },
     {
       "store": "41300005 - Little Caesars Parroquia",
       "uber": null,
@@ -56,7 +92,43 @@
       "offline_count": 1
     },
     {
+      "store": "41300011 - Little Caesars Plaza Esmeralda",
+      "uber": null,
+      "uber_express": null,
+      "rappi": "offline",
+      "rappi_turbo": null,
+      "didi": null,
+      "offline_count": 1
+    },
+    {
       "store": "41300012 - Little Caesars Iman",
+      "uber": null,
+      "uber_express": null,
+      "rappi": "offline",
+      "rappi_turbo": null,
+      "didi": null,
+      "offline_count": 1
+    },
+    {
+      "store": "41300013 - Little Caesars Santa Ana",
+      "uber": null,
+      "uber_express": null,
+      "rappi": "online",
+      "rappi_turbo": null,
+      "didi": null,
+      "offline_count": 0
+    },
+    {
+      "store": "41300014 - Little Caesars Miramontes",
+      "uber": null,
+      "uber_express": null,
+      "rappi": "offline",
+      "rappi_turbo": null,
+      "didi": null,
+      "offline_count": 1
+    },
+    {
+      "store": "41300015 - Little Caesars Division del Norte",
       "uber": null,
       "uber_express": null,
       "rappi": "offline",
@@ -92,7 +164,79 @@
       "offline_count": 1
     },
     {
+      "store": "41300019 - Little Caesars Miramontes 2",
+      "uber": null,
+      "uber_express": null,
+      "rappi": "online",
+      "rappi_turbo": null,
+      "didi": null,
+      "offline_count": 0
+    },
+    {
+      "store": "41300020 - Little Caesars Arenal",
+      "uber": null,
+      "uber_express": null,
+      "rappi": "offline",
+      "rappi_turbo": null,
+      "didi": null,
+      "offline_count": 1
+    },
+    {
+      "store": "41300022 - Little Caesars Tlahuac FG",
+      "uber": null,
+      "uber_express": null,
+      "rappi": "offline",
+      "rappi_turbo": null,
+      "didi": null,
+      "offline_count": 1
+    },
+    {
+      "store": "41300023 - Little Caesars Tlahuac",
+      "uber": null,
+      "uber_express": null,
+      "rappi": "online",
+      "rappi_turbo": null,
+      "didi": null,
+      "offline_count": 0
+    },
+    {
+      "store": "41300024 - Little Caesars San Bernabe",
+      "uber": null,
+      "uber_express": null,
+      "rappi": "offline",
+      "rappi_turbo": null,
+      "didi": null,
+      "offline_count": 1
+    },
+    {
+      "store": "41300025 - Little Caesars San Isidro",
+      "uber": null,
+      "uber_express": null,
+      "rappi": "offline",
+      "rappi_turbo": null,
+      "didi": null,
+      "offline_count": 1
+    },
+    {
+      "store": "41300026 - Little Caesars Manuel Cañas",
+      "uber": null,
+      "uber_express": null,
+      "rappi": "online",
+      "rappi_turbo": null,
+      "didi": null,
+      "offline_count": 0
+    },
+    {
       "store": "41300027 - Little Caesars Insurgentes San Angel",
+      "uber": null,
+      "uber_express": null,
+      "rappi": "offline",
+      "rappi_turbo": null,
+      "didi": null,
+      "offline_count": 1
+    },
+    {
+      "store": "41300029 - Little Caesars Centenario Plateros",
       "uber": null,
       "uber_express": null,
       "rappi": "offline",
@@ -111,6 +255,24 @@
     },
     {
       "store": "41300031 - Little Caesars Olivar del Conde",
+      "uber": null,
+      "uber_express": null,
+      "rappi": "offline",
+      "rappi_turbo": null,
+      "didi": null,
+      "offline_count": 1
+    },
+    {
+      "store": "41300032 - Little Caesars La Turba - Tlahuac",
+      "uber": null,
+      "uber_express": null,
+      "rappi": "offline",
+      "rappi_turbo": null,
+      "didi": null,
+      "offline_count": 1
+    },
+    {
+      "store": "41300034 - Little Caesars Metro Insurgentes",
       "uber": null,
       "uber_express": null,
       "rappi": "offline",
@@ -146,7 +308,25 @@
       "offline_count": 1
     },
     {
+      "store": "41300042 - Little Caesars Tacubaya",
+      "uber": null,
+      "uber_express": null,
+      "rappi": "offline",
+      "rappi_turbo": null,
+      "didi": null,
+      "offline_count": 1
+    },
+    {
       "store": "41300043 - Little Caesars Centro Comercial Santa Fe",
+      "uber": null,
+      "uber_express": null,
+      "rappi": "offline",
+      "rappi_turbo": null,
+      "didi": null,
+      "offline_count": 1
+    },
+    {
+      "store": "41300044 - Little Caesars Condesa",
       "uber": null,
       "uber_express": null,
       "rappi": "offline",
