@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-08-12 16:56:35",
+  "stamp": "2026-08-12 18:27:51",
   "stores": [
     {
       "store": "41300001 - Little Caesars Santa Fe",
@@ -348,7 +348,7 @@
       "uber": "online",
       "uber_express": null,
       "rappi": null,
-      "rappi_turbo": "online",
+      "rappi_turbo": null,
       "didi": "online",
       "offline_count": 0
     },
@@ -357,7 +357,7 @@
       "uber": null,
       "uber_express": null,
       "rappi": null,
-      "rappi_turbo": "online",
+      "rappi_turbo": null,
       "didi": "online",
       "offline_count": 0
     },
@@ -420,7 +420,7 @@
       "uber": null,
       "uber_express": null,
       "rappi": null,
-      "rappi_turbo": "online",
+      "rappi_turbo": null,
       "didi": "online",
       "offline_count": 0
     },
@@ -456,7 +456,7 @@
       "uber": null,
       "uber_express": null,
       "rappi": null,
-      "rappi_turbo": "online",
+      "rappi_turbo": null,
       "didi": "online",
       "offline_count": 0
     },
@@ -465,7 +465,7 @@
       "uber": null,
       "uber_express": null,
       "rappi": null,
-      "rappi_turbo": "online",
+      "rappi_turbo": null,
       "didi": "online",
       "offline_count": 0
     },
@@ -519,7 +519,7 @@
       "uber": null,
       "uber_express": null,
       "rappi": null,
-      "rappi_turbo": "online",
+      "rappi_turbo": null,
       "didi": "online",
       "offline_count": 0
     },
@@ -546,7 +546,7 @@
       "uber": "online",
       "uber_express": null,
       "rappi": null,
-      "rappi_turbo": "online",
+      "rappi_turbo": null,
       "didi": "online",
       "offline_count": 0
     },
@@ -555,7 +555,7 @@
       "uber": null,
       "uber_express": null,
       "rappi": null,
-      "rappi_turbo": "online",
+      "rappi_turbo": null,
       "didi": "online",
       "offline_count": 0
     },
@@ -591,7 +591,7 @@
       "uber": null,
       "uber_express": null,
       "rappi": null,
-      "rappi_turbo": "online",
+      "rappi_turbo": null,
       "didi": "online",
       "offline_count": 0
     },
@@ -618,7 +618,7 @@
       "uber": "online",
       "uber_express": null,
       "rappi": null,
-      "rappi_turbo": "online",
+      "rappi_turbo": null,
       "didi": "online",
       "offline_count": 0
     },
