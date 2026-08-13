@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-08-12 22:50:44",
+  "stamp": "2026-08-12 23:02:09",
   "stores": [
     {
       "store": "41300001 - Little Caesars Santa Fe",
@@ -221,10 +221,10 @@
       "store": "41300026 - Little Caesars Manuel Cañas",
       "uber": null,
       "uber_express": null,
-      "rappi": "online",
+      "rappi": "offline",
       "rappi_turbo": null,
       "didi": null,
-      "offline_count": 0
+      "offline_count": 1
     },
     {
       "store": "41300027 - Little Caesars Insurgentes San Angel",
@@ -511,8 +511,8 @@
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
-      "didi": "online",
-      "offline_count": 0
+      "didi": "offline",
+      "offline_count": 1
     },
     {
       "store": "Matías Romero",
@@ -628,8 +628,8 @@
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
-      "didi": "online",
-      "offline_count": 0
+      "didi": "offline",
+      "offline_count": 1
     },
     {
       "store": "San Pedro Mártir",
