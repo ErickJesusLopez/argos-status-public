@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-08-14 14:07:04",
+  "stamp": "2026-08-14 14:18:41",
   "stores": [
     {
       "store": "41300001 - Little Caesars Santa Fe",
@@ -363,7 +363,7 @@
     },
     {
       "store": "Av. Toluca",
-      "uber": "online",
+      "uber": null,
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
@@ -462,16 +462,16 @@
     },
     {
       "store": "Las Aguilas",
-      "uber": "offline",
+      "uber": null,
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": "online",
       "didi": "online",
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "Luis Cabrera",
-      "uber": "online",
+      "uber": null,
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
@@ -597,7 +597,7 @@
     },
     {
       "store": "San Pedro Mártir",
-      "uber": "online",
+      "uber": null,
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
