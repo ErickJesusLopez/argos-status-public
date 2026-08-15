@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-08-15 01:46:13",
+  "stamp": "2026-08-15 02:54:46",
   "stores": [
     {
       "store": "41300001 - Little Caesars Santa Fe",
@@ -140,10 +140,10 @@
       "store": "41300016 - Little Caesars Taxqueña",
       "uber": null,
       "uber_express": null,
-      "rappi": "online",
+      "rappi": "offline",
       "rappi_turbo": null,
       "didi": null,
-      "offline_count": 0
+      "offline_count": 1
     },
     {
       "store": "41300017 - Little Caesars Las Aguilas",
@@ -336,7 +336,7 @@
     },
     {
       "store": "Ajusco",
-      "uber": "online",
+      "uber": null,
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": "offline",
@@ -398,15 +398,6 @@
       "offline_count": 1
     },
     {
-      "store": "Comercial Santa Fe",
-      "uber": "online",
-      "uber_express": null,
-      "rappi": null,
-      "rappi_turbo": null,
-      "didi": null,
-      "offline_count": 0
-    },
-    {
       "store": "Condesa",
       "uber": null,
       "uber_express": null,
@@ -435,7 +426,7 @@
     },
     {
       "store": "Iman",
-      "uber": "online",
+      "uber": null,
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": "offline",
@@ -646,8 +637,8 @@
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": "offline",
-      "didi": "online",
-      "offline_count": 1
+      "didi": "offline",
+      "offline_count": 2
     },
     {
       "store": "Tlahuac FG",
