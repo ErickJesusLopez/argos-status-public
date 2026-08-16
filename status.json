@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-08-16 10:03:31",
+  "stamp": "2026-08-16 10:26:22",
   "stores": [
     {
       "store": "41300001 - Little Caesars Santa Fe",
@@ -95,10 +95,10 @@
       "store": "41300011 - Little Caesars Plaza Esmeralda",
       "uber": null,
       "uber_express": null,
-      "rappi": "offline",
+      "rappi": "online",
       "rappi_turbo": null,
       "didi": null,
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "41300012 - Little Caesars Iman",
@@ -149,10 +149,10 @@
       "store": "41300017 - Little Caesars Las Aguilas",
       "uber": null,
       "uber_express": null,
-      "rappi": "offline",
+      "rappi": "online",
       "rappi_turbo": null,
       "didi": null,
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "41300018 - Little Caesars Ajusco",
@@ -480,12 +480,12 @@
     },
     {
       "store": "Las Aguilas",
-      "uber": "offline",
+      "uber": "online",
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": "online",
-      "didi": "offline",
-      "offline_count": 2
+      "didi": "online",
+      "offline_count": 0
     },
     {
       "store": "Luis Cabrera",
@@ -579,12 +579,12 @@
     },
     {
       "store": "Plaza Esmeralda",
-      "uber": "offline",
+      "uber": "online",
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": "online",
-      "didi": "offline",
-      "offline_count": 2
+      "didi": "online",
+      "offline_count": 0
     },
     {
       "store": "San Bernabé",
