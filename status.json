@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-08-15 19:05:19",
+  "stamp": "2026-08-15 19:16:42",
   "stores": [
     {
       "store": "41300001 - Little Caesars Santa Fe",
@@ -384,9 +384,9 @@
       "uber": "online",
       "uber_express": null,
       "rappi": null,
-      "rappi_turbo": "offline",
+      "rappi_turbo": "online",
       "didi": "online",
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "Centro Santa Fe",
@@ -408,12 +408,12 @@
     },
     {
       "store": "Condesa",
-      "uber": "offline",
+      "uber": "online",
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": "online",
       "didi": "online",
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "Copilco",
