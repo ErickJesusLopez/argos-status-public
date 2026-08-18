@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-08-18 09:37:49",
+  "stamp": "2026-08-18 09:49:13",
   "stores": [
     {
       "store": "41300001 - Little Caesars Santa Fe",
@@ -385,8 +385,8 @@
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": "offline",
-      "didi": "offline",
-      "offline_count": 3
+      "didi": "online",
+      "offline_count": 2
     },
     {
       "store": "Centro Santa Fe",
