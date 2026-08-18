@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-08-18 14:59:39",
+  "stamp": "2026-08-18 15:11:10",
   "stores": [
     {
       "store": "41300001 - Little Caesars Santa Fe",
@@ -340,7 +340,7 @@
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": "online",
-      "didi": "online",
+      "didi": null,
       "offline_count": 0
     },
     {
@@ -349,7 +349,7 @@
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": "online",
-      "didi": "online",
+      "didi": null,
       "offline_count": 0
     },
     {
@@ -358,25 +358,7 @@
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": "online",
-      "didi": "online",
-      "offline_count": 0
-    },
-    {
-      "store": "Av. Toluca",
-      "uber": null,
-      "uber_express": null,
-      "rappi": null,
-      "rappi_turbo": null,
-      "didi": "online",
-      "offline_count": 0
-    },
-    {
-      "store": "Avenida México",
-      "uber": null,
-      "uber_express": null,
-      "rappi": null,
-      "rappi_turbo": null,
-      "didi": "online",
+      "didi": null,
       "offline_count": 0
     },
     {
@@ -385,16 +367,7 @@
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": "online",
-      "didi": "online",
-      "offline_count": 0
-    },
-    {
-      "store": "Centro Santa Fe",
-      "uber": null,
-      "uber_express": null,
-      "rappi": null,
-      "rappi_turbo": null,
-      "didi": "online",
+      "didi": null,
       "offline_count": 0
     },
     {
@@ -412,7 +385,7 @@
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": "online",
-      "didi": "online",
+      "didi": null,
       "offline_count": 0
     },
     {
@@ -421,7 +394,7 @@
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": "online",
-      "didi": "online",
+      "didi": null,
       "offline_count": 0
     },
     {
@@ -430,7 +403,7 @@
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": "online",
-      "didi": "online",
+      "didi": null,
       "offline_count": 0
     },
     {
@@ -466,7 +439,7 @@
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": "online",
-      "didi": "online",
+      "didi": null,
       "offline_count": 0
     },
     {
@@ -484,7 +457,7 @@
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": "online",
-      "didi": "online",
+      "didi": null,
       "offline_count": 0
     },
     {
@@ -493,7 +466,7 @@
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": "offline",
-      "didi": "online",
+      "didi": null,
       "offline_count": 1
     },
     {
@@ -502,7 +475,7 @@
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
-      "didi": "online",
+      "didi": null,
       "offline_count": 0
     },
     {
@@ -511,7 +484,7 @@
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": "online",
-      "didi": "online",
+      "didi": null,
       "offline_count": 0
     },
     {
@@ -520,17 +493,8 @@
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
-      "didi": "online",
+      "didi": null,
       "offline_count": 1
-    },
-    {
-      "store": "Manuel Cañas",
-      "uber": null,
-      "uber_express": null,
-      "rappi": null,
-      "rappi_turbo": null,
-      "didi": "online",
-      "offline_count": 0
     },
     {
       "store": "Matías Romero",
@@ -538,7 +502,7 @@
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": "online",
-      "didi": "online",
+      "didi": null,
       "offline_count": 0
     },
     {
@@ -547,7 +511,7 @@
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": "online",
-      "didi": "online",
+      "didi": null,
       "offline_count": 0
     },
     {
@@ -565,7 +529,7 @@
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": "online",
-      "didi": "online",
+      "didi": null,
       "offline_count": 0
     },
     {
@@ -574,16 +538,7 @@
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": "online",
-      "didi": "online",
-      "offline_count": 0
-    },
-    {
-      "store": "Nativitas",
-      "uber": null,
-      "uber_express": null,
-      "rappi": null,
-      "rappi_turbo": null,
-      "didi": "online",
+      "didi": null,
       "offline_count": 0
     },
     {
@@ -592,7 +547,7 @@
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": "online",
-      "didi": "online",
+      "didi": null,
       "offline_count": 0
     },
     {
@@ -601,7 +556,7 @@
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": "online",
-      "didi": "online",
+      "didi": null,
       "offline_count": 0
     },
     {
@@ -610,7 +565,7 @@
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": "online",
-      "didi": "online",
+      "didi": null,
       "offline_count": 0
     },
     {
@@ -619,7 +574,7 @@
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": "online",
-      "didi": "online",
+      "didi": null,
       "offline_count": 0
     },
     {
@@ -628,7 +583,7 @@
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
-      "didi": "online",
+      "didi": null,
       "offline_count": 0
     },
     {
@@ -637,16 +592,7 @@
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": "online",
-      "didi": "online",
-      "offline_count": 0
-    },
-    {
-      "store": "San Isidro",
-      "uber": null,
-      "uber_express": null,
-      "rappi": null,
-      "rappi_turbo": null,
-      "didi": "online",
+      "didi": null,
       "offline_count": 0
     },
     {
@@ -655,7 +601,7 @@
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
-      "didi": "online",
+      "didi": null,
       "offline_count": 0
     },
     {
@@ -664,16 +610,7 @@
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": "online",
-      "didi": "online",
-      "offline_count": 0
-    },
-    {
-      "store": "Santa Fe",
-      "uber": null,
-      "uber_express": null,
-      "rappi": null,
-      "rappi_turbo": null,
-      "didi": "online",
+      "didi": null,
       "offline_count": 0
     },
     {
@@ -691,7 +628,7 @@
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": "online",
-      "didi": "online",
+      "didi": null,
       "offline_count": 0
     },
     {
@@ -700,7 +637,7 @@
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": "online",
-      "didi": "online",
+      "didi": null,
       "offline_count": 0
     },
     {
@@ -709,7 +646,7 @@
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": "online",
-      "didi": "online",
+      "didi": null,
       "offline_count": 0
     },
     {
@@ -727,7 +664,7 @@
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": "online",
-      "didi": "online",
+      "didi": null,
       "offline_count": 0
     }
   ]
