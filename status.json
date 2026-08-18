@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-08-18 10:11:57",
+  "stamp": "2026-08-18 10:23:19",
   "stores": [
     {
       "store": "41300001 - Little Caesars Santa Fe",
@@ -23,10 +23,10 @@
       "store": "41300003 - Little Caesars San Fernando",
       "uber": null,
       "uber_express": null,
-      "rappi": "offline",
+      "rappi": "online",
       "rappi_turbo": null,
       "didi": null,
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "41300004 - Little Caesars Matias Romero",
@@ -239,10 +239,10 @@
       "store": "41300029 - Little Caesars Centenario Plateros",
       "uber": null,
       "uber_express": null,
-      "rappi": "offline",
+      "rappi": "online",
       "rappi_turbo": null,
       "didi": null,
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "41300030 - Little Caesars Carretera Cuernavaca",
@@ -637,8 +637,8 @@
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": "online",
-      "didi": "offline",
-      "offline_count": 1
+      "didi": "online",
+      "offline_count": 0
     },
     {
       "store": "San Isidro",
