@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-08-19 14:55:33",
+  "stamp": "2026-08-19 15:18:19",
   "stores": [
     {
       "store": "41300001 - Little Caesars Santa Fe",
@@ -41,10 +41,10 @@
       "store": "41300005 - Little Caesars Parroquia",
       "uber": null,
       "uber_express": null,
-      "rappi": "online",
+      "rappi": "offline",
       "rappi_turbo": null,
       "didi": null,
-      "offline_count": 0
+      "offline_count": 1
     },
     {
       "store": "41300006 - Little Caesars Copilco",
@@ -651,12 +651,12 @@
     },
     {
       "store": "San Pedro Mártir",
-      "uber": "online",
+      "uber": "offline",
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
       "didi": "online",
-      "offline_count": 0
+      "offline_count": 1
     },
     {
       "store": "Santa Ana",
