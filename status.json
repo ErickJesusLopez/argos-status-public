@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-08-19 09:11:49",
+  "stamp": "2026-08-19 09:34:30",
   "stores": [
     {
       "store": "41300001 - Little Caesars Santa Fe",
@@ -14,19 +14,19 @@
       "store": "41300002 - Little Caesars Xochimilco",
       "uber": null,
       "uber_express": null,
-      "rappi": "offline",
+      "rappi": "online",
       "rappi_turbo": null,
       "didi": null,
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "41300003 - Little Caesars San Fernando",
       "uber": null,
       "uber_express": null,
-      "rappi": "offline",
+      "rappi": "online",
       "rappi_turbo": null,
       "didi": null,
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "41300004 - Little Caesars Matias Romero",
@@ -41,19 +41,19 @@
       "store": "41300005 - Little Caesars Parroquia",
       "uber": null,
       "uber_express": null,
-      "rappi": "offline",
+      "rappi": "online",
       "rappi_turbo": null,
       "didi": null,
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "41300006 - Little Caesars Copilco",
       "uber": null,
       "uber_express": null,
-      "rappi": "offline",
+      "rappi": "online",
       "rappi_turbo": null,
       "didi": null,
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "41300007 - Little Caesars Avenida Mexico",
@@ -68,46 +68,46 @@
       "store": "41300008 - Little Caesars La Joya",
       "uber": null,
       "uber_express": null,
-      "rappi": "offline",
+      "rappi": "online",
       "rappi_turbo": null,
       "didi": null,
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "41300009 - Little Caesars Asia",
       "uber": null,
       "uber_express": null,
-      "rappi": "offline",
+      "rappi": "online",
       "rappi_turbo": null,
       "didi": null,
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "41300010 - Little Caesars Plaza Copilco",
       "uber": null,
       "uber_express": null,
-      "rappi": "offline",
+      "rappi": "online",
       "rappi_turbo": null,
       "didi": null,
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "41300011 - Little Caesars Plaza Esmeralda",
       "uber": null,
       "uber_express": null,
-      "rappi": "offline",
+      "rappi": "online",
       "rappi_turbo": null,
       "didi": null,
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "41300012 - Little Caesars Iman",
       "uber": null,
       "uber_express": null,
-      "rappi": "offline",
+      "rappi": "online",
       "rappi_turbo": null,
       "didi": null,
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "41300013 - Little Caesars Santa Ana",
@@ -122,10 +122,10 @@
       "store": "41300014 - Little Caesars Miramontes",
       "uber": null,
       "uber_express": null,
-      "rappi": "offline",
+      "rappi": "online",
       "rappi_turbo": null,
       "didi": null,
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "41300015 - Little Caesars Division del Norte",
@@ -140,10 +140,10 @@
       "store": "41300016 - Little Caesars Taxqueña",
       "uber": null,
       "uber_express": null,
-      "rappi": "offline",
+      "rappi": "online",
       "rappi_turbo": null,
       "didi": null,
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "41300017 - Little Caesars Las Aguilas",
@@ -158,10 +158,10 @@
       "store": "41300018 - Little Caesars Ajusco",
       "uber": null,
       "uber_express": null,
-      "rappi": "offline",
+      "rappi": "online",
       "rappi_turbo": null,
       "didi": null,
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "41300019 - Little Caesars Miramontes 2",
@@ -176,19 +176,19 @@
       "store": "41300020 - Little Caesars Arenal",
       "uber": null,
       "uber_express": null,
-      "rappi": "offline",
+      "rappi": "online",
       "rappi_turbo": null,
       "didi": null,
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "41300022 - Little Caesars Tlahuac FG",
       "uber": null,
       "uber_express": null,
-      "rappi": "offline",
+      "rappi": "online",
       "rappi_turbo": null,
       "didi": null,
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "41300023 - Little Caesars Tlahuac",
@@ -203,19 +203,19 @@
       "store": "41300024 - Little Caesars San Bernabe",
       "uber": null,
       "uber_express": null,
-      "rappi": "offline",
+      "rappi": "online",
       "rappi_turbo": null,
       "didi": null,
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "41300025 - Little Caesars San Isidro",
       "uber": null,
       "uber_express": null,
-      "rappi": "offline",
+      "rappi": "online",
       "rappi_turbo": null,
       "didi": null,
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "41300026 - Little Caesars Manuel Cañas",
@@ -230,19 +230,19 @@
       "store": "41300027 - Little Caesars Insurgentes San Angel",
       "uber": null,
       "uber_express": null,
-      "rappi": "offline",
+      "rappi": "online",
       "rappi_turbo": null,
       "didi": null,
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "41300029 - Little Caesars Centenario Plateros",
       "uber": null,
       "uber_express": null,
-      "rappi": "offline",
+      "rappi": "online",
       "rappi_turbo": null,
       "didi": null,
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "41300030 - Little Caesars Carretera Cuernavaca",
@@ -257,10 +257,10 @@
       "store": "41300031 - Little Caesars Olivar del Conde",
       "uber": null,
       "uber_express": null,
-      "rappi": "offline",
+      "rappi": "online",
       "rappi_turbo": null,
       "didi": null,
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "41300032 - Little Caesars La Turba - Tlahuac",
@@ -275,37 +275,37 @@
       "store": "41300034 - Little Caesars Metro Insurgentes",
       "uber": null,
       "uber_express": null,
-      "rappi": "offline",
+      "rappi": "online",
       "rappi_turbo": null,
       "didi": null,
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "41300037 - Little Caesars Av. Toluca",
       "uber": null,
       "uber_express": null,
-      "rappi": "offline",
+      "rappi": "online",
       "rappi_turbo": null,
       "didi": null,
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "41300039 - Little Caesars Luis Cabrera",
       "uber": null,
       "uber_express": null,
-      "rappi": "offline",
+      "rappi": "online",
       "rappi_turbo": null,
       "didi": null,
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "41300040 - Little Caesars Embarcadero Nativitas",
       "uber": null,
       "uber_express": null,
-      "rappi": "offline",
+      "rappi": "online",
       "rappi_turbo": null,
       "didi": null,
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "41300042 - Little Caesars Tacubaya",
@@ -320,28 +320,28 @@
       "store": "41300043 - Little Caesars Centro Comercial Santa Fe",
       "uber": null,
       "uber_express": null,
-      "rappi": "offline",
+      "rappi": "online",
       "rappi_turbo": null,
       "didi": null,
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "41300044 - Little Caesars Condesa",
       "uber": null,
       "uber_express": null,
-      "rappi": "offline",
+      "rappi": "online",
       "rappi_turbo": null,
       "didi": null,
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "Ajusco",
       "uber": "online",
       "uber_express": null,
       "rappi": null,
-      "rappi_turbo": "offline",
-      "didi": "offline",
-      "offline_count": 2
+      "rappi_turbo": "online",
+      "didi": "online",
+      "offline_count": 0
     },
     {
       "store": "Arenal",
@@ -349,8 +349,8 @@
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": "offline",
-      "didi": "offline",
-      "offline_count": 2
+      "didi": "online",
+      "offline_count": 1
     },
     {
       "store": "Asia",
@@ -358,8 +358,8 @@
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": "offline",
-      "didi": "offline",
-      "offline_count": 2
+      "didi": "online",
+      "offline_count": 1
     },
     {
       "store": "Av. Toluca",
@@ -367,8 +367,8 @@
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
-      "didi": "offline",
-      "offline_count": 1
+      "didi": "online",
+      "offline_count": 0
     },
     {
       "store": "Avenida México",
@@ -385,8 +385,8 @@
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": "offline",
-      "didi": "offline",
-      "offline_count": 2
+      "didi": "online",
+      "offline_count": 1
     },
     {
       "store": "Centro Santa Fe",
@@ -394,8 +394,8 @@
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
-      "didi": "offline",
-      "offline_count": 1
+      "didi": "online",
+      "offline_count": 0
     },
     {
       "store": "Comercial Santa Fe",
@@ -412,8 +412,8 @@
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": "offline",
-      "didi": "offline",
-      "offline_count": 2
+      "didi": "online",
+      "offline_count": 1
     },
     {
       "store": "Copilco",
@@ -421,17 +421,17 @@
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": "offline",
-      "didi": "offline",
-      "offline_count": 2
+      "didi": "online",
+      "offline_count": 1
     },
     {
       "store": "División del Norte",
-      "uber": "online",
+      "uber": "offline",
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": "offline",
       "didi": "offline",
-      "offline_count": 2
+      "offline_count": 3
     },
     {
       "store": "Express ⏰ (Division del Norte)",
@@ -466,8 +466,8 @@
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": "online",
-      "didi": "offline",
-      "offline_count": 1
+      "didi": "online",
+      "offline_count": 0
     },
     {
       "store": "Insurgentes",
@@ -484,35 +484,35 @@
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": "offline",
-      "didi": "offline",
-      "offline_count": 2
+      "didi": "online",
+      "offline_count": 1
     },
     {
       "store": "La Joya",
       "uber": null,
       "uber_express": null,
       "rappi": null,
-      "rappi_turbo": "offline",
-      "didi": "offline",
-      "offline_count": 2
+      "rappi_turbo": "online",
+      "didi": "online",
+      "offline_count": 0
     },
     {
       "store": "La Turba",
-      "uber": "online",
+      "uber": "offline",
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
-      "didi": "offline",
+      "didi": "online",
       "offline_count": 1
     },
     {
       "store": "Las Aguilas",
-      "uber": "online",
+      "uber": "offline",
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": "online",
       "didi": "offline",
-      "offline_count": 1
+      "offline_count": 2
     },
     {
       "store": "Luis Cabrera",
@@ -520,8 +520,8 @@
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
-      "didi": "offline",
-      "offline_count": 1
+      "didi": "online",
+      "offline_count": 0
     },
     {
       "store": "Manuel Cañas",
@@ -534,12 +534,12 @@
     },
     {
       "store": "Matías Romero",
-      "uber": null,
+      "uber": "offline",
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": "offline",
       "didi": "offline",
-      "offline_count": 2
+      "offline_count": 3
     },
     {
       "store": "Metro Insurgentes",
@@ -547,8 +547,8 @@
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": "offline",
-      "didi": "offline",
-      "offline_count": 2
+      "didi": "online",
+      "offline_count": 1
     },
     {
       "store": "Metro Tacubaya",
@@ -565,8 +565,8 @@
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": "offline",
-      "didi": "offline",
-      "offline_count": 2
+      "didi": "online",
+      "offline_count": 1
     },
     {
       "store": "Miramontes 2",
@@ -583,8 +583,8 @@
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
-      "didi": "offline",
-      "offline_count": 1
+      "didi": "online",
+      "offline_count": 0
     },
     {
       "store": "Olivar Del Conde",
@@ -592,8 +592,8 @@
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": "offline",
-      "didi": "offline",
-      "offline_count": 2
+      "didi": "online",
+      "offline_count": 1
     },
     {
       "store": "Parroquia",
@@ -601,8 +601,8 @@
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": "offline",
-      "didi": "offline",
-      "offline_count": 2
+      "didi": "online",
+      "offline_count": 1
     },
     {
       "store": "Plaza Copilco",
@@ -610,8 +610,8 @@
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": "offline",
-      "didi": "offline",
-      "offline_count": 2
+      "didi": "online",
+      "offline_count": 1
     },
     {
       "store": "Plaza Esmeralda",
@@ -619,8 +619,8 @@
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": "offline",
-      "didi": "offline",
-      "offline_count": 2
+      "didi": "online",
+      "offline_count": 1
     },
     {
       "store": "San Bernabé",
@@ -628,8 +628,8 @@
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
-      "didi": "offline",
-      "offline_count": 1
+      "didi": "online",
+      "offline_count": 0
     },
     {
       "store": "San Fernando",
@@ -637,8 +637,8 @@
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": "online",
-      "didi": "offline",
-      "offline_count": 1
+      "didi": "online",
+      "offline_count": 0
     },
     {
       "store": "San Isidro",
@@ -678,12 +678,12 @@
     },
     {
       "store": "Santa Fe 1",
-      "uber": "online",
+      "uber": "offline",
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
       "didi": null,
-      "offline_count": 0
+      "offline_count": 1
     },
     {
       "store": "Tacubaya",
@@ -700,8 +700,8 @@
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": "offline",
-      "didi": "offline",
-      "offline_count": 2
+      "didi": "online",
+      "offline_count": 1
     },
     {
       "store": "Tlahuac FG",
@@ -709,8 +709,8 @@
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": "offline",
-      "didi": "offline",
-      "offline_count": 2
+      "didi": "online",
+      "offline_count": 1
     },
     {
       "store": "Tláhuac Casa",
@@ -727,8 +727,8 @@
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": "offline",
-      "didi": "offline",
-      "offline_count": 2
+      "didi": "online",
+      "offline_count": 1
     }
   ]
 }
