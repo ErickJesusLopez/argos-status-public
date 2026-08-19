@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-08-18 22:05:40",
+  "stamp": "2026-08-18 22:39:42",
   "stores": [
     {
       "store": "41300001 - Little Caesars Santa Fe",
@@ -311,10 +311,10 @@
       "store": "41300042 - Little Caesars Tacubaya",
       "uber": null,
       "uber_express": null,
-      "rappi": "online",
+      "rappi": "offline",
       "rappi_turbo": null,
       "didi": null,
-      "offline_count": 0
+      "offline_count": 1
     },
     {
       "store": "41300043 - Little Caesars Centro Comercial Santa Fe",
