@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-08-20 12:41:11",
+  "stamp": "2026-08-20 12:52:43",
   "stores": [
     {
       "store": "41300001 - Little Caesars Santa Fe",
@@ -402,7 +402,7 @@
       "uber": null,
       "uber_express": null,
       "rappi": null,
-      "rappi_turbo": "online",
+      "rappi_turbo": null,
       "didi": "online",
       "offline_count": 0
     },
@@ -483,7 +483,7 @@
       "uber": null,
       "uber_express": null,
       "rappi": null,
-      "rappi_turbo": "online",
+      "rappi_turbo": null,
       "didi": "online",
       "offline_count": 0
     },
@@ -591,7 +591,7 @@
       "uber": null,
       "uber_express": null,
       "rappi": null,
-      "rappi_turbo": "online",
+      "rappi_turbo": null,
       "didi": "online",
       "offline_count": 0
     },
@@ -636,7 +636,7 @@
       "uber": null,
       "uber_express": null,
       "rappi": null,
-      "rappi_turbo": "online",
+      "rappi_turbo": null,
       "didi": "online",
       "offline_count": 0
     },
@@ -681,7 +681,7 @@
       "uber": null,
       "uber_express": null,
       "rappi": null,
-      "rappi_turbo": "online",
+      "rappi_turbo": null,
       "didi": "online",
       "offline_count": 0
     },
@@ -699,7 +699,7 @@
       "uber": null,
       "uber_express": null,
       "rappi": null,
-      "rappi_turbo": "online",
+      "rappi_turbo": null,
       "didi": "online",
       "offline_count": 0
     }
