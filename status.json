@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-08-20 10:23:12",
+  "stamp": "2026-08-20 10:34:41",
   "stores": [
     {
       "store": "41300001 - Little Caesars Santa Fe",
@@ -42,7 +42,7 @@
       "uber": null,
       "uber_express": null,
       "rappi": "online",
-      "rappi_turbo": null,
+      "rappi_turbo": "online",
       "didi": null,
       "offline_count": 0
     },
@@ -60,7 +60,7 @@
       "uber": null,
       "uber_express": null,
       "rappi": "online",
-      "rappi_turbo": null,
+      "rappi_turbo": "online",
       "didi": null,
       "offline_count": 0
     },
@@ -69,7 +69,7 @@
       "uber": null,
       "uber_express": null,
       "rappi": "online",
-      "rappi_turbo": null,
+      "rappi_turbo": "online",
       "didi": null,
       "offline_count": 0
     },
@@ -105,7 +105,7 @@
       "uber": null,
       "uber_express": null,
       "rappi": "online",
-      "rappi_turbo": null,
+      "rappi_turbo": "online",
       "didi": null,
       "offline_count": 0
     },
@@ -150,7 +150,7 @@
       "uber": null,
       "uber_express": null,
       "rappi": "online",
-      "rappi_turbo": null,
+      "rappi_turbo": "online",
       "didi": null,
       "offline_count": 0
     },
@@ -159,7 +159,7 @@
       "uber": null,
       "uber_express": null,
       "rappi": "online",
-      "rappi_turbo": null,
+      "rappi_turbo": "online",
       "didi": null,
       "offline_count": 0
     },
@@ -231,7 +231,7 @@
       "uber": null,
       "uber_express": null,
       "rappi": "online",
-      "rappi_turbo": null,
+      "rappi_turbo": "online",
       "didi": null,
       "offline_count": 0
     },
@@ -285,16 +285,16 @@
       "uber": null,
       "uber_express": null,
       "rappi": "offline",
-      "rappi_turbo": null,
+      "rappi_turbo": "offline",
       "didi": null,
-      "offline_count": 1
+      "offline_count": 2
     },
     {
       "store": "41300039 - Little Caesars Luis Cabrera",
       "uber": null,
       "uber_express": null,
       "rappi": "online",
-      "rappi_turbo": null,
+      "rappi_turbo": "online",
       "didi": null,
       "offline_count": 0
     },
@@ -321,7 +321,7 @@
       "uber": null,
       "uber_express": null,
       "rappi": "online",
-      "rappi_turbo": null,
+      "rappi_turbo": "online",
       "didi": null,
       "offline_count": 0
     },
@@ -339,7 +339,7 @@
       "uber": null,
       "uber_express": null,
       "rappi": null,
-      "rappi_turbo": "online",
+      "rappi_turbo": null,
       "didi": "online",
       "offline_count": 0
     },
@@ -384,7 +384,7 @@
       "uber": null,
       "uber_express": null,
       "rappi": null,
-      "rappi_turbo": "online",
+      "rappi_turbo": null,
       "didi": "online",
       "offline_count": 0
     },
@@ -420,7 +420,7 @@
       "uber": "online",
       "uber_express": null,
       "rappi": null,
-      "rappi_turbo": "online",
+      "rappi_turbo": null,
       "didi": "online",
       "offline_count": 0
     },
@@ -456,7 +456,7 @@
       "uber": null,
       "uber_express": null,
       "rappi": null,
-      "rappi_turbo": "online",
+      "rappi_turbo": null,
       "didi": "online",
       "offline_count": 0
     },
@@ -510,7 +510,7 @@
       "uber": null,
       "uber_express": null,
       "rappi": null,
-      "rappi_turbo": "online",
+      "rappi_turbo": null,
       "didi": "online",
       "offline_count": 0
     },
@@ -555,7 +555,7 @@
       "uber": null,
       "uber_express": null,
       "rappi": null,
-      "rappi_turbo": "online",
+      "rappi_turbo": null,
       "didi": "online",
       "offline_count": 0
     },
@@ -564,7 +564,7 @@
       "uber": null,
       "uber_express": null,
       "rappi": null,
-      "rappi_turbo": "online",
+      "rappi_turbo": null,
       "didi": "online",
       "offline_count": 0
     },
@@ -654,7 +654,7 @@
       "uber": null,
       "uber_express": null,
       "rappi": null,
-      "rappi_turbo": "online",
+      "rappi_turbo": null,
       "didi": "online",
       "offline_count": 0
     },
@@ -663,7 +663,7 @@
       "uber": null,
       "uber_express": null,
       "rappi": null,
-      "rappi_turbo": "online",
+      "rappi_turbo": null,
       "didi": "online",
       "offline_count": 0
     },
@@ -674,15 +674,6 @@
       "rappi": null,
       "rappi_turbo": "online",
       "didi": "online",
-      "offline_count": 0
-    },
-    {
-      "store": "Tláhuac Casa",
-      "uber": null,
-      "uber_express": null,
-      "rappi": null,
-      "rappi_turbo": "online",
-      "didi": null,
       "offline_count": 0
     },
     {
