@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-08-20 09:36:43",
+  "stamp": "2026-08-20 09:48:14",
   "stores": [
     {
       "store": "41300001 - Little Caesars Santa Fe",
@@ -131,10 +131,10 @@
       "store": "41300015 - Little Caesars Division del Norte",
       "uber": null,
       "uber_express": null,
-      "rappi": "offline",
+      "rappi": "online",
       "rappi_turbo": null,
       "didi": null,
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "41300016 - Little Caesars Taxqueña",
@@ -311,10 +311,10 @@
       "store": "41300042 - Little Caesars Tacubaya",
       "uber": null,
       "uber_express": null,
-      "rappi": "offline",
+      "rappi": "online",
       "rappi_turbo": null,
       "didi": null,
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "41300043 - Little Caesars Centro Comercial Santa Fe",
@@ -357,9 +357,9 @@
       "uber": null,
       "uber_express": null,
       "rappi": null,
-      "rappi_turbo": "offline",
+      "rappi_turbo": "online",
       "didi": "online",
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "Av. Toluca",
@@ -384,9 +384,9 @@
       "uber": null,
       "uber_express": null,
       "rappi": null,
-      "rappi_turbo": "offline",
+      "rappi_turbo": "online",
       "didi": "online",
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "Centro Santa Fe",
@@ -417,12 +417,12 @@
     },
     {
       "store": "División del Norte",
-      "uber": "offline",
+      "uber": "online",
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": "online",
-      "didi": "offline",
-      "offline_count": 2
+      "didi": "online",
+      "offline_count": 0
     },
     {
       "store": "Iman",
@@ -507,12 +507,12 @@
     },
     {
       "store": "Metro Tacubaya",
-      "uber": "offline",
+      "uber": "online",
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
       "didi": null,
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "Miramontes 1",
@@ -637,8 +637,8 @@
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": "online",
-      "didi": "offline",
-      "offline_count": 1
+      "didi": "online",
+      "offline_count": 0
     },
     {
       "store": "Taxqueña",
