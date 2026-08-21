@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-08-20 17:39:56",
+  "stamp": "2026-08-20 18:48:23",
   "stores": [
     {
       "store": "41300001 - Little Caesars Santa Fe",
@@ -434,6 +434,15 @@
       "offline_count": 0
     },
     {
+      "store": "Express ⏰ (Division del Norte)",
+      "uber": "offline",
+      "uber_express": null,
+      "rappi": null,
+      "rappi_turbo": null,
+      "didi": null,
+      "offline_count": 1
+    },
+    {
       "store": "Iman",
       "uber": null,
       "uber_express": null,
@@ -489,12 +498,12 @@
     },
     {
       "store": "Luis Cabrera",
-      "uber": null,
+      "uber": "offline",
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
       "didi": "online",
-      "offline_count": 0
+      "offline_count": 1
     },
     {
       "store": "Manuel Cañas",
