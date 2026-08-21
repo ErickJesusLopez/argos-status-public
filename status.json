@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-08-21 14:59:07",
+  "stamp": "2026-08-21 15:10:32",
   "stores": [
     {
       "store": "41300001 - Little Caesars Santa Fe",
@@ -501,9 +501,9 @@
       "uber": null,
       "uber_express": null,
       "rappi": null,
-      "rappi_turbo": "offline",
+      "rappi_turbo": "online",
       "didi": "online",
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "Metro Insurgentes",
@@ -513,6 +513,15 @@
       "rappi_turbo": "online",
       "didi": "online",
       "offline_count": 0
+    },
+    {
+      "store": "Metro Tacubaya",
+      "uber": "offline",
+      "uber_express": null,
+      "rappi": null,
+      "rappi_turbo": null,
+      "didi": null,
+      "offline_count": 1
     },
     {
       "store": "Miramontes 1",
