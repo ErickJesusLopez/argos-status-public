@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-08-20 20:53:40",
+  "stamp": "2026-08-20 21:39:09",
   "stores": [
     {
       "store": "41300001 - Little Caesars Santa Fe",
@@ -230,10 +230,10 @@
       "store": "41300027 - Little Caesars Insurgentes San Angel",
       "uber": null,
       "uber_express": null,
-      "rappi": "online",
+      "rappi": "offline",
       "rappi_turbo": null,
       "didi": null,
-      "offline_count": 0
+      "offline_count": 1
     },
     {
       "store": "41300029 - Little Caesars Centenario Plateros",
@@ -453,12 +453,12 @@
     },
     {
       "store": "Insurgentes",
-      "uber": "online",
+      "uber": "offline",
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
       "didi": null,
-      "offline_count": 0
+      "offline_count": 1
     },
     {
       "store": "Insurgentes Sur",
@@ -466,8 +466,8 @@
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": "online",
-      "didi": "online",
-      "offline_count": 0
+      "didi": "offline",
+      "offline_count": 1
     },
     {
       "store": "La Joya",
