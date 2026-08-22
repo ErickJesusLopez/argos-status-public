@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-08-22 10:10:10",
+  "stamp": "2026-08-22 10:33:06",
   "stores": [
     {
       "store": "41300001 - Little Caesars Santa Fe",
@@ -239,10 +239,10 @@
       "store": "41300029 - Little Caesars Centenario Plateros",
       "uber": null,
       "uber_express": null,
-      "rappi": "offline",
+      "rappi": "online",
       "rappi_turbo": null,
       "didi": null,
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "41300030 - Little Caesars Carretera Cuernavaca",
@@ -381,12 +381,12 @@
     },
     {
       "store": "Centenario",
-      "uber": "offline",
+      "uber": "online",
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": "online",
-      "didi": "offline",
-      "offline_count": 2
+      "didi": "online",
+      "offline_count": 0
     },
     {
       "store": "Centro Santa Fe",
@@ -510,9 +510,9 @@
       "uber": null,
       "uber_express": null,
       "rappi": null,
-      "rappi_turbo": "offline",
+      "rappi_turbo": "online",
       "didi": "online",
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "Metro Insurgentes",
