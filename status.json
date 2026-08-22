@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-08-22 13:13:14",
+  "stamp": "2026-08-22 13:24:43",
   "stores": [
     {
       "store": "41300001 - Little Caesars Santa Fe",
@@ -426,12 +426,12 @@
     },
     {
       "store": "Express ⏰ (Matías Romero)",
-      "uber": "offline",
+      "uber": "online",
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
       "didi": null,
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "Express ⏰ (Metro Tacubaya)",
@@ -474,9 +474,9 @@
       "uber": null,
       "uber_express": null,
       "rappi": null,
-      "rappi_turbo": "online",
+      "rappi_turbo": "offline",
       "didi": "online",
-      "offline_count": 0
+      "offline_count": 1
     },
     {
       "store": "La Turba",
