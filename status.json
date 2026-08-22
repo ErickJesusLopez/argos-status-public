@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-08-22 11:30:25",
+  "stamp": "2026-08-22 11:53:12",
   "stores": [
     {
       "store": "41300001 - Little Caesars Santa Fe",
@@ -302,10 +302,10 @@
       "store": "41300040 - Little Caesars Embarcadero Nativitas",
       "uber": null,
       "uber_express": null,
-      "rappi": "offline",
+      "rappi": "online",
       "rappi_turbo": null,
       "didi": null,
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "41300042 - Little Caesars Tacubaya",
@@ -420,9 +420,9 @@
       "uber": null,
       "uber_express": null,
       "rappi": null,
-      "rappi_turbo": "offline",
+      "rappi_turbo": "online",
       "didi": "online",
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "Express ⏰ (Metro Tacubaya)",
@@ -552,12 +552,12 @@
     },
     {
       "store": "Nativitas",
-      "uber": "offline",
+      "uber": "online",
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
-      "didi": "offline",
-      "offline_count": 2
+      "didi": "online",
+      "offline_count": 0
     },
     {
       "store": "Olivar Del Conde",
