@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-08-22 20:29:51",
+  "stamp": "2026-08-22 20:41:15",
   "stores": [
     {
       "store": "41300001 - Little Caesars Santa Fe",
@@ -600,9 +600,9 @@
       "uber": null,
       "uber_express": null,
       "rappi": null,
-      "rappi_turbo": "online",
+      "rappi_turbo": "offline",
       "didi": "online",
-      "offline_count": 0
+      "offline_count": 1
     },
     {
       "store": "Plaza Esmeralda",
