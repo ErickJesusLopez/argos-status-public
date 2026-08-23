@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-08-23 10:21:10",
+  "stamp": "2026-08-23 10:32:37",
   "stores": [
     {
       "store": "41300001 - Little Caesars Santa Fe",
@@ -95,10 +95,10 @@
       "store": "41300011 - Little Caesars Plaza Esmeralda",
       "uber": null,
       "uber_express": null,
-      "rappi": "offline",
+      "rappi": "online",
       "rappi_turbo": null,
       "didi": null,
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "41300012 - Little Caesars Iman",
@@ -462,12 +462,12 @@
     },
     {
       "store": "Insurgentes",
-      "uber": "offline",
+      "uber": "online",
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
       "didi": null,
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "Insurgentes Sur",
@@ -606,12 +606,12 @@
     },
     {
       "store": "Plaza Esmeralda",
-      "uber": "offline",
+      "uber": "online",
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": "online",
-      "didi": "offline",
-      "offline_count": 2
+      "didi": "online",
+      "offline_count": 0
     },
     {
       "store": "San Bernabé",
