@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-08-22 20:41:15",
+  "stamp": "2026-08-22 20:52:42",
   "stores": [
     {
       "store": "41300001 - Little Caesars Santa Fe",
@@ -417,12 +417,12 @@
     },
     {
       "store": "División del Norte",
-      "uber": "offline",
+      "uber": "online",
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": "online",
       "didi": "online",
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "Express ⏰ (Matías Romero)",
