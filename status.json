@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-08-23 09:46:24",
+  "stamp": "2026-08-23 09:57:52",
   "stores": [
     {
       "store": "41300001 - Little Caesars Santa Fe",
@@ -131,10 +131,10 @@
       "store": "41300015 - Little Caesars Division del Norte",
       "uber": null,
       "uber_express": null,
-      "rappi": "offline",
+      "rappi": "online",
       "rappi_turbo": null,
       "didi": null,
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "41300016 - Little Caesars Taxqueña",
@@ -149,10 +149,10 @@
       "store": "41300017 - Little Caesars Las Aguilas",
       "uber": null,
       "uber_express": null,
-      "rappi": "offline",
+      "rappi": "online",
       "rappi_turbo": null,
       "didi": null,
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "41300018 - Little Caesars Ajusco",
@@ -176,10 +176,10 @@
       "store": "41300020 - Little Caesars Arenal",
       "uber": null,
       "uber_express": null,
-      "rappi": "offline",
+      "rappi": "online",
       "rappi_turbo": null,
       "didi": null,
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "41300022 - Little Caesars Tlahuac FG",
@@ -345,12 +345,12 @@
     },
     {
       "store": "Arenal",
-      "uber": "offline",
+      "uber": "online",
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": "online",
-      "didi": "offline",
-      "offline_count": 2
+      "didi": "online",
+      "offline_count": 0
     },
     {
       "store": "Asia",
@@ -417,12 +417,12 @@
     },
     {
       "store": "División del Norte",
-      "uber": "offline",
+      "uber": "online",
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": "online",
-      "didi": "offline",
-      "offline_count": 2
+      "didi": "online",
+      "offline_count": 0
     },
     {
       "store": "Express ⏰ (Matías Romero)",
@@ -498,12 +498,12 @@
     },
     {
       "store": "Las Aguilas",
-      "uber": "offline",
+      "uber": "online",
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": "online",
-      "didi": "offline",
-      "offline_count": 2
+      "didi": "online",
+      "offline_count": 0
     },
     {
       "store": "Luis Cabrera",
