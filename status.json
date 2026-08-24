@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-08-23 20:26:05",
+  "stamp": "2026-08-23 20:49:23",
   "stores": [
     {
       "store": "41300001 - Little Caesars Santa Fe",
@@ -248,10 +248,10 @@
       "store": "41300030 - Little Caesars Carretera Cuernavaca",
       "uber": null,
       "uber_express": null,
-      "rappi": "online",
+      "rappi": "offline",
       "rappi_turbo": null,
       "didi": null,
-      "offline_count": 0
+      "offline_count": 1
     },
     {
       "store": "41300031 - Little Caesars Olivar del Conde",
@@ -339,18 +339,18 @@
       "uber": "offline",
       "uber_express": null,
       "rappi": null,
-      "rappi_turbo": "offline",
+      "rappi_turbo": "online",
       "didi": "online",
-      "offline_count": 2
+      "offline_count": 1
     },
     {
       "store": "Arenal",
       "uber": "online",
       "uber_express": null,
       "rappi": null,
-      "rappi_turbo": "offline",
+      "rappi_turbo": "online",
       "didi": "online",
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "Asia",
@@ -483,9 +483,9 @@
       "uber": null,
       "uber_express": null,
       "rappi": null,
-      "rappi_turbo": "offline",
+      "rappi_turbo": "online",
       "didi": "online",
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "La Turba",
@@ -579,10 +579,10 @@
     },
     {
       "store": "Olivar Del Conde",
-      "uber": "online",
+      "uber": "offline",
       "uber_express": null,
       "rappi": null,
-      "rappi_turbo": "offline",
+      "rappi_turbo": "online",
       "didi": "online",
       "offline_count": 1
     },
@@ -591,9 +591,9 @@
       "uber": null,
       "uber_express": null,
       "rappi": null,
-      "rappi_turbo": "online",
+      "rappi_turbo": "offline",
       "didi": "online",
-      "offline_count": 0
+      "offline_count": 1
     },
     {
       "store": "Plaza Copilco",
@@ -646,8 +646,8 @@
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
-      "didi": "online",
-      "offline_count": 1
+      "didi": "offline",
+      "offline_count": 2
     },
     {
       "store": "Santa Ana",
