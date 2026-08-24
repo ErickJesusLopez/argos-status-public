@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-08-23 20:49:23",
+  "stamp": "2026-08-23 21:35:06",
   "stores": [
     {
       "store": "41300001 - Little Caesars Santa Fe",
@@ -248,10 +248,10 @@
       "store": "41300030 - Little Caesars Carretera Cuernavaca",
       "uber": null,
       "uber_express": null,
-      "rappi": "offline",
+      "rappi": "online",
       "rappi_turbo": null,
       "didi": null,
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "41300031 - Little Caesars Olivar del Conde",
@@ -420,9 +420,9 @@
       "uber": "online",
       "uber_express": null,
       "rappi": null,
-      "rappi_turbo": "online",
+      "rappi_turbo": "offline",
       "didi": "online",
-      "offline_count": 0
+      "offline_count": 1
     },
     {
       "store": "Express ⏰ (Matías Romero)",
@@ -642,12 +642,12 @@
     },
     {
       "store": "San Pedro Mártir",
-      "uber": "offline",
+      "uber": "online",
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
-      "didi": "offline",
-      "offline_count": 2
+      "didi": "online",
+      "offline_count": 0
     },
     {
       "store": "Santa Ana",
