@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-08-25 10:54:21",
+  "stamp": "2026-08-25 11:05:54",
   "stores": [
     {
       "store": "41300001 - Little Caesars Santa Fe",
@@ -41,10 +41,10 @@
       "store": "41300005 - Little Caesars Parroquia",
       "uber": null,
       "uber_express": null,
-      "rappi": "offline",
+      "rappi": "online",
       "rappi_turbo": null,
       "didi": null,
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "41300006 - Little Caesars Copilco",
@@ -354,12 +354,12 @@
     },
     {
       "store": "Asia",
-      "uber": "offline",
+      "uber": "online",
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": "online",
       "didi": "online",
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "Av. Toluca",
