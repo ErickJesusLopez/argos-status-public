@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-08-25 10:42:53",
+  "stamp": "2026-08-25 10:54:21",
   "stores": [
     {
       "store": "41300001 - Little Caesars Santa Fe",
@@ -354,12 +354,12 @@
     },
     {
       "store": "Asia",
-      "uber": "online",
+      "uber": "offline",
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": "online",
       "didi": "online",
-      "offline_count": 0
+      "offline_count": 1
     },
     {
       "store": "Av. Toluca",
