@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-08-26 13:29:22",
+  "stamp": "2026-08-26 13:40:47",
   "stores": [
     {
       "store": "41300001 - Little Caesars Santa Fe",
@@ -339,9 +339,9 @@
       "uber": "online",
       "uber_express": null,
       "rappi": null,
-      "rappi_turbo": "offline",
+      "rappi_turbo": "online",
       "didi": "online",
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "Arenal",
@@ -699,9 +699,9 @@
       "uber": null,
       "uber_express": null,
       "rappi": null,
-      "rappi_turbo": "offline",
+      "rappi_turbo": "online",
       "didi": "online",
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "Tlahuac FG",
