@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-08-27 11:13:12",
+  "stamp": "2026-08-27 11:24:42",
   "stores": [
     {
       "store": "41300001 - Little Caesars Santa Fe",
@@ -266,10 +266,10 @@
       "store": "41300032 - Little Caesars La Turba - Tlahuac",
       "uber": null,
       "uber_express": null,
-      "rappi": "offline",
+      "rappi": "online",
       "rappi_turbo": null,
       "didi": null,
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "41300034 - Little Caesars Metro Insurgentes",
