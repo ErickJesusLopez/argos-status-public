@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-08-26 21:55:20",
+  "stamp": "2026-08-26 22:06:48",
   "stores": [
     {
       "store": "41300001 - Little Caesars Santa Fe",
@@ -113,10 +113,10 @@
       "store": "41300013 - Little Caesars Santa Ana",
       "uber": null,
       "uber_express": null,
-      "rappi": "online",
+      "rappi": "offline",
       "rappi_turbo": null,
       "didi": null,
-      "offline_count": 0
+      "offline_count": 1
     },
     {
       "store": "41300014 - Little Caesars Miramontes",
@@ -167,10 +167,10 @@
       "store": "41300019 - Little Caesars Miramontes 2",
       "uber": null,
       "uber_express": null,
-      "rappi": "online",
+      "rappi": "offline",
       "rappi_turbo": null,
       "didi": null,
-      "offline_count": 0
+      "offline_count": 1
     },
     {
       "store": "41300020 - Little Caesars Arenal",
@@ -185,19 +185,19 @@
       "store": "41300022 - Little Caesars Tlahuac FG",
       "uber": null,
       "uber_express": null,
-      "rappi": "online",
+      "rappi": "offline",
       "rappi_turbo": null,
       "didi": null,
-      "offline_count": 0
+      "offline_count": 1
     },
     {
       "store": "41300023 - Little Caesars Tlahuac",
       "uber": null,
       "uber_express": null,
-      "rappi": "online",
+      "rappi": "offline",
       "rappi_turbo": null,
       "didi": null,
-      "offline_count": 0
+      "offline_count": 1
     },
     {
       "store": "41300024 - Little Caesars San Bernabe",
@@ -402,9 +402,9 @@
       "uber": "online",
       "uber_express": null,
       "rappi": null,
-      "rappi_turbo": "online",
+      "rappi_turbo": "offline",
       "didi": "online",
-      "offline_count": 0
+      "offline_count": 1
     },
     {
       "store": "Copilco",
@@ -420,9 +420,9 @@
       "uber": "online",
       "uber_express": null,
       "rappi": null,
-      "rappi_turbo": "online",
+      "rappi_turbo": "offline",
       "didi": "offline",
-      "offline_count": 1
+      "offline_count": 2
     },
     {
       "store": "Express ⏰ (Division del Norte)",
@@ -546,9 +546,9 @@
       "uber": null,
       "uber_express": null,
       "rappi": null,
-      "rappi_turbo": "online",
+      "rappi_turbo": "offline",
       "didi": "offline",
-      "offline_count": 1
+      "offline_count": 2
     },
     {
       "store": "Metro Tacubaya",
@@ -564,18 +564,18 @@
       "uber": "online",
       "uber_express": null,
       "rappi": null,
-      "rappi_turbo": "online",
+      "rappi_turbo": "offline",
       "didi": "online",
-      "offline_count": 0
+      "offline_count": 1
     },
     {
       "store": "Miramontes 2",
       "uber": null,
       "uber_express": null,
       "rappi": null,
-      "rappi_turbo": "online",
-      "didi": "online",
-      "offline_count": 0
+      "rappi_turbo": "offline",
+      "didi": "offline",
+      "offline_count": 2
     },
     {
       "store": "Nativitas",
@@ -600,9 +600,9 @@
       "uber": null,
       "uber_express": null,
       "rappi": null,
-      "rappi_turbo": "online",
+      "rappi_turbo": "offline",
       "didi": "offline",
-      "offline_count": 1
+      "offline_count": 2
     },
     {
       "store": "Plaza Copilco",
@@ -663,9 +663,9 @@
       "uber": null,
       "uber_express": null,
       "rappi": null,
-      "rappi_turbo": "online",
-      "didi": "online",
-      "offline_count": 0
+      "rappi_turbo": "offline",
+      "didi": "offline",
+      "offline_count": 2
     },
     {
       "store": "Santa Fe",
@@ -699,9 +699,9 @@
       "uber": "online",
       "uber_express": null,
       "rappi": null,
-      "rappi_turbo": "online",
+      "rappi_turbo": "offline",
       "didi": "online",
-      "offline_count": 0
+      "offline_count": 1
     },
     {
       "store": "Tlahuac FG",
@@ -709,17 +709,17 @@
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": "offline",
-      "didi": "online",
-      "offline_count": 1
+      "didi": "offline",
+      "offline_count": 2
     },
     {
       "store": "Tláhuac Casa",
       "uber": null,
       "uber_express": null,
       "rappi": null,
-      "rappi_turbo": "online",
+      "rappi_turbo": "offline",
       "didi": null,
-      "offline_count": 0
+      "offline_count": 1
     },
     {
       "store": "Xochimilco",
