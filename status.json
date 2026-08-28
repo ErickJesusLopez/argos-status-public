@@ -1,5 +1,5 @@
 {
-  "stamp": "2026-08-28 03:01:27",
+  "stamp": "2026-08-28 08:59:38",
   "stores": [
     {
       "store": "41300001 - Little Caesars Santa Fe",
@@ -113,19 +113,19 @@
       "store": "41300013 - Little Caesars Santa Ana",
       "uber": null,
       "uber_express": null,
-      "rappi": "offline",
+      "rappi": "online",
       "rappi_turbo": null,
       "didi": null,
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "41300014 - Little Caesars Miramontes",
       "uber": null,
       "uber_express": null,
-      "rappi": "offline",
+      "rappi": "online",
       "rappi_turbo": null,
       "didi": null,
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "41300015 - Little Caesars Division del Norte",
@@ -194,10 +194,10 @@
       "store": "41300023 - Little Caesars Tlahuac",
       "uber": null,
       "uber_express": null,
-      "rappi": "offline",
+      "rappi": "online",
       "rappi_turbo": null,
       "didi": null,
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "41300024 - Little Caesars San Bernabe",
@@ -221,10 +221,10 @@
       "store": "41300026 - Little Caesars Manuel Cañas",
       "uber": null,
       "uber_express": null,
-      "rappi": "offline",
+      "rappi": "online",
       "rappi_turbo": null,
       "didi": null,
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "41300027 - Little Caesars Insurgentes San Angel",
@@ -484,8 +484,8 @@
       "uber_express": null,
       "rappi": null,
       "rappi_turbo": null,
-      "didi": "offline",
-      "offline_count": 1
+      "didi": "online",
+      "offline_count": 0
     },
     {
       "store": "Matías Romero",
@@ -519,9 +519,9 @@
       "uber": null,
       "uber_express": null,
       "rappi": null,
-      "rappi_turbo": "offline",
+      "rappi_turbo": "online",
       "didi": "offline",
-      "offline_count": 2
+      "offline_count": 1
     },
     {
       "store": "Nativitas",
@@ -609,9 +609,9 @@
       "uber": null,
       "uber_express": null,
       "rappi": null,
-      "rappi_turbo": "offline",
-      "didi": "offline",
-      "offline_count": 2
+      "rappi_turbo": "online",
+      "didi": "online",
+      "offline_count": 0
     },
     {
       "store": "Santa Fe",
@@ -654,9 +654,9 @@
       "uber": null,
       "uber_express": null,
       "rappi": null,
-      "rappi_turbo": "offline",
+      "rappi_turbo": "online",
       "didi": null,
-      "offline_count": 1
+      "offline_count": 0
     },
     {
       "store": "Xochimilco",
